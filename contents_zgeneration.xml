@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ Z세대 최신 근황</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Mar 2022 13:10:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 세일러 문, 왕가위를 안다고? OTT 역주행 콘텐츠 활용법]]></title>
+            <link>https://www.careet.net/667</link>
+            <guid>https://www.careet.net/667</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘할미 취미’가 유행 중? 바느질에 빠진 Z세대 근황]]></title>
+            <link>https://www.careet.net/649</link>
+            <guid>https://www.careet.net/649</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[양모펠트, 펀치니들, 뜨개질… 갑자기 힙한 취미로 떠오르는 바느질!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/217b2263-73c9-429c-b1f2-5d546e4c1ac1_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[식물 키우기는 왜 갑자기 힙한 취미가 됐을까?]]></title>
+            <link>https://www.careet.net/651</link>
+            <guid>https://www.careet.net/651</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[파·상추·바질 키워 요리해 먹고, 당근마켓에서 식물 거래하고, 반려식물에게 위로 받는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/01e68eb2-b6ea-43ef-8d9a-ac6adf0202dc_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대도 신년 운세를 본다? 요즘은 OO에서 사주·타로 봄]]></title>
+            <link>https://www.careet.net/623</link>
+            <guid>https://www.careet.net/623</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[MBTI급 과몰입 트렌드의 등장, 틱톡부터 덕질 브이로그까지 점령함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/8ebad39a-ac8c-4e67-b0d0-4ec7b8719bf3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생일 이벤트 최신 근황! 요즘 1020 축제는 이렇구나]]></title>
+            <link>https://www.careet.net/618</link>
+            <guid>https://www.careet.net/618</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[팬 아니어도 재밌는 이색 생일 이벤트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/07ac2643-206f-4767-90a0-0ba69790a939_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[혼밥·혼술에 이어 ‘혼사’까지 하는 게 대세라고? (feat. 인생네컷 NEW 트렌드)]]></title>
+            <link>https://www.careet.net/584</link>
+            <guid>https://www.careet.net/584</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 새로운 버킷리스트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/47d91365-a144-4eb7-b670-f50a17ef46b1_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

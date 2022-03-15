@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Mar 2022 13:10:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써 먹는 유행어] 너 혹시… 뭐 돼?]]></title>
+            <link>https://www.careet.net/669</link>
+            <guid>https://www.careet.net/669</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[잘난 척 하는 친구를 구박하고 싶을 때 쓰는 말!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/35421a81-39d4-42ef-9c48-783a4b54c51c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이게 왜 유행이야?] 깻잎 논쟁, 유래부터 종결까지! 타임라인 총정리]]></title>
+            <link>https://www.careet.net/660</link>
+            <guid>https://www.careet.net/660</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[2019년에 시작된 깻잎 논쟁이 갑자기 Z세대 핫이슈가 된 이유!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c360e127-3568-46ad-af9c-346835674710_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 주목한 2022 동계올림픽 스타·밈 모음.zip]]></title>
+            <link>https://www.careet.net/646</link>
+            <guid>https://www.careet.net/646</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[현생에 치여 이번 올림픽 트렌드를 놓치신 분들 꼭 보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2edfaeda-b941-49cd-9a79-215f0000206c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 케이팝에서 유래한 밈 모음]]></title>
+            <link>https://www.careet.net/629</link>
+            <guid>https://www.careet.net/629</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[밈 유래가 이리 다채로웠다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0a5e5afb-6d3d-4935-b55d-5803f6563cb6_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 예쁘게 생긴 건 잘한 게 아니에요! 그치만...]]></title>
+            <link>https://www.careet.net/630</link>
+            <guid>https://www.careet.net/630</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[new 최신 주접 밈!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/24f9bfe5-6266-40b3-95b2-653a296867ac_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] “내가 감히 내가 또 잘못을”]]></title>
+            <link>https://www.careet.net/606</link>
+            <guid>https://www.careet.net/606</guid>
+            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 까방하는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/e1bf3144-d54f-427f-bbf8-67bee127655b_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
