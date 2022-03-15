@@ -1,9 +1,74 @@
-[careet]
-title = "캐릿"
+[contents]
+title = "Careet ─ Contents ─ 전체 보기"
 url = "https://www.careet.net/Content/All"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[contents_meme]
+title = "Careet ─ Contents ─ 요즘 뜨는 밈"
+url = "https://www.careet.net/Content/Series/1"
+entrySelector = "ul.list-wrap.gly-list.col3 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[contents_zgeneration]
+title = "Careet ─ Contents ─ Z세대 최신 근황"
+url = "https://www.careet.net/Content/Series/2"
+entrySelector = "ul.list-wrap.gly-list.col3 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[contents_brand]
+title = "Careet ─ Contents ─ 이주의 일 잘한 브랜드"
+url = "https://www.careet.net/Content/Series/3"
+entrySelector = "ul.list-wrap.gly-list.col3 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[contents_newsclipping]
+title = "Careet ─ Contents ─ 캐릿픽 오늘의 뉴스"
+url = "https://www.careet.net/NewsClipping"
+entrySelector = "div.ac-boxs ul li:nth-child(1)"
+titleSelector = "strong.ac-title"
+linkSelector = "a.h-light.fw700"
+contentSelector = "div.ac-info"
+dateSelector = "span.news-time"
+dateFormat = "yyyy.MM.dd"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[contents_dictionary]
+title = "Careet ─ Contents ─ MZ 용어 사전"
+url = "https://www.careet.net/Dictionary"
+entrySelector = "div.footnote-cont-box ul li"
+titleSelector = "em.footnote-key.fw700"
+linkSelector = "a.h-light.fw700"
+contentSelector = "p.text"
+waitUntil = "networkidle"
+
+[newsletter]
+title = "캐릿 ─ Trend letter"
+url = "https://www.careet.net/Newsletter"
+entrySelector = "ul.list-wrap.gly-list.col4 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.list-date span:nth-child(1)"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
