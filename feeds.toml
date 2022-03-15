@@ -1,0 +1,9 @@
+[careet]
+title = "캐릿"
+url = "https://www.careet.net/Content/All"
+entrySelector = "ul.list-wrap.gly-list.col3 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
