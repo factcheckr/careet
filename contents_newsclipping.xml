@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-03-17T03:22:26.272Z</updated>
+    <updated>2022-03-17T04:27:33.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[유통가, 이색 특화매장 플래그십 스토어 확대]]></title>
-        <id>https://www.newstomato.com/ReadNews.aspx?no=1111443&amp;inflow=N</id>
-        <link href="https://www.newstomato.com/ReadNews.aspx?no=1111443&amp;inflow=N"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[CU, 활어회 픽업 서비스 개시]]></title>
+        <id>https://www.mk.co.kr/news/business/view/2022/03/239232/</id>
+        <link href="https://www.mk.co.kr/news/business/view/2022/03/239232/"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>유톱 업계가 이색, 특화 매장(플래그십 스토어)를 확대하는 추세입니다.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- GS25는 최근 전북 전주시에 ‘주류 특화형’ 플래그십 스토어를 오픈함. Z세대의 주류 트렌드를 반영한 것으로 보임.</div><div>- 세븐일레븐은 와인 전문 매장을 꾸준히 늘리는 추세. 와인 특화 매장은 현재 4600여 점포라고 함. 올해 안에 6100여점 까지 확대한다고.</div>
+                                                <div>CU는 당일 잡은 활어회를 편의점에서 수령할 수 있는 활어회 픽업 서비스를 시작합니다. 수산물 특화 플랫폼인 인어교주해적단 앱에 마련된 CU 제휴 상점에서 회를 구매하고 편의점 픽업을 선택하면 된다고 하는데요. 회 배달 수요가 높은 강남구와 서초구에 있는 CU 점포에 우선적으로 서비스를 제공하고, 서비스 제공 지역을 순차적으로 확대할 계획이라고 해요.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong><br>- CU는 게임기, 미용기기, 캠핑장비 등 총 300여 종의 최신 상품을 대여할 수 있는 픽앤픽 대여 서비스도 론칭했었음.<br>- 그뿐만 아니라 2020년도에는 외화 환전 서비스도 도입했었음. 편의점이라는 높은 접근성을 활용한 다양한 생활 서비스를 선보이는 중.</div>
                                             </span>
-                                                <a href="https://www.newstomato.com/ReadNews.aspx?no=1111443&amp;inflow=N" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://www.mk.co.kr/news/business/view/2022/03/239232/" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
