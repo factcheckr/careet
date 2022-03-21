@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 23:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 01:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 드라마의 신박한 홍보 방식! 주인공 방을 VR 쇼룸으로 만든다고?]]></title>
+            <link>https://www.careet.net/683</link>
+            <guid>https://www.careet.net/683</guid>
+            <pubDate>Mon, 21 Mar 2022 01:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대에게 ‘메타버스 마케팅 맛집’으로 소문나는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ce5c25cb-6d07-4910-8ddc-35e2c12a01b7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘힙한 브랜드’라고 소문 나는 법! Z세대가 칭찬한 콜라보 레퍼런스 3]]></title>
             <link>https://www.careet.net/666</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 15 Mar 2022 13:09:56 GMT</pubDate>
             <content:encoded><![CDATA[Z세대는 밸런타인데이에 초콜릿 대신 OO을 원한다!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4c71f453-8b0a-45b9-98c3-43ad9eb2780d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유]]></title>
-            <link>https://www.careet.net/633</link>
-            <guid>https://www.careet.net/633</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
