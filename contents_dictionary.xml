@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-23T16:30:14.571Z</updated>
+    <updated>2022-03-23T17:22:34.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[현질]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.447Z</updated>
-        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
+        <updated>2022-03-23T17:22:26.522Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K 패치]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-03-23T17:22:26.523Z</updated>
+        <content type="html"><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덕메]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-03-23T17:22:26.523Z</updated>
+        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알파세대]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-03-23T17:22:26.524Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와드]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-03-23T17:22:26.525Z</updated>
+        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웃수저]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.448Z</updated>
+        <updated>2022-03-23T17:22:26.526Z</updated>
         <content type="html"><![CDATA[‘금수저’를 응용한 신조어로, 딱히 노력하지 않아도 주변 사람들에게 웃음을 주는 재능을 가진 사람을 뜻하는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드래곤볼]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.449Z</updated>
-        <content type="html"><![CDATA[MZ세대는 무언가를 모을 때 ‘드래곤볼’이라고 표현함. 만화 &lt;드래곤볼&gt;의 내용이 구슬 일곱개를 모아야 한다는 점에서 유래됨.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹정]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.450Z</updated>
-        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.452Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛삭]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-23T16:30:06.453Z</updated>
-        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
 </feed>
