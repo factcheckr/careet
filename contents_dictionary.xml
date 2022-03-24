@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-24T12:36:13.360Z</updated>
+    <updated>2022-03-24T13:28:48.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[실사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.096Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-03-24T13:28:41.330Z</updated>
+        <content type="html"><![CDATA[실세 사진의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스꾸]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.097Z</updated>
-        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
+        <updated>2022-03-24T13:28:41.330Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.098Z</updated>
+        <updated>2022-03-24T13:28:41.331Z</updated>
         <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드덕]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.099Z</updated>
-        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
+        <updated>2022-03-24T13:28:41.332Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[옾챗]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.100Z</updated>
-        <content type="html"><![CDATA[오픈채팅방의 Z세대식 줄임말. Z세대는 오픈채팅방을 커뮤니티처럼 이용함.]]></content>
+        <updated>2022-03-24T13:28:41.333Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T12:36:06.101Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2022-03-24T13:28:41.333Z</updated>
+        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
     </entry>
 </feed>
