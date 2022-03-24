@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-24T13:28:48.905Z</updated>
+    <updated>2022-03-24T14:20:55.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[자컨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.330Z</updated>
-        <content type="html"><![CDATA[실세 사진의 줄임말]]></content>
+        <updated>2022-03-24T14:20:48.308Z</updated>
+        <content type="html"><![CDATA[‘자체 제작 컨텐츠’의 줄임말. 방송사가 아닌 K-POP 기획사가 직접 만든 소속 아이돌의 리얼리티 영상을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슈스]]></title>
+        <title type="html"><![CDATA[서사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.330Z</updated>
-        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
+        <updated>2022-03-24T14:20:48.309Z</updated>
+        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실트]]></title>
+        <title type="html"><![CDATA[스카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.331Z</updated>
-        <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
+        <updated>2022-03-24T14:20:48.310Z</updated>
+        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관종]]></title>
+        <title type="html"><![CDATA[사바사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.332Z</updated>
-        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
+        <updated>2022-03-24T14:20:48.311Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[스트리머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.333Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2022-03-24T14:20:48.312Z</updated>
+        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽐뿌]]></title>
+        <title type="html"><![CDATA[처돌이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-24T13:28:41.333Z</updated>
-        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
+        <updated>2022-03-24T14:20:48.313Z</updated>
+        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
     </entry>
 </feed>
