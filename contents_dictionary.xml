@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-27T22:21:21.927Z</updated>
+    <updated>2022-03-27T23:22:37.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[PTSD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.686Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2022-03-27T23:22:29.112Z</updated>
+        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짬바]]></title>
+        <title type="html"><![CDATA[손댄스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.687Z</updated>
-        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-03-27T23:22:29.113Z</updated>
+        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그린 워싱(Green washing)]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.688Z</updated>
-        <content type="html"><![CDATA[실제론 친환경이 아닌데 친환경인 척 광고하는 것.]]></content>
+        <updated>2022-03-27T23:22:29.113Z</updated>
+        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼빡]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.689Z</updated>
-        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
+        <updated>2022-03-27T23:22:29.118Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젶크]]></title>
+        <title type="html"><![CDATA[인스타 돋보기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.690Z</updated>
-        <content type="html"><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content>
+        <updated>2022-03-27T23:22:29.118Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴짤]]></title>
+        <title type="html"><![CDATA[미공포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T22:21:14.691Z</updated>
-        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
+        <updated>2022-03-27T23:22:29.119Z</updated>
+        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
     </entry>
 </feed>
