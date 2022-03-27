@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-27T11:18:13.464Z</updated>
+    <updated>2022-03-27T12:33:34.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[TMT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.160Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-03-27T12:33:26.793Z</updated>
+        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.160Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2022-03-27T12:33:26.793Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와드]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.161Z</updated>
-        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
+        <updated>2022-03-27T12:33:26.794Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[댈컴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.163Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2022-03-27T12:33:26.795Z</updated>
+        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위꾸]]></title>
+        <title type="html"><![CDATA[고인 물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.164Z</updated>
-        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
+        <updated>2022-03-27T12:33:26.796Z</updated>
+        <content type="html"><![CDATA[특정 분야에 막대한 시간과 정성을 투자하여 경지에 이른 사람을 뜻함. ‘고수’, ‘헤비 유저’와 비슷한 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMI]]></title>
+        <title type="html"><![CDATA[탭꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-27T11:18:06.165Z</updated>
-        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
+        <updated>2022-03-27T12:33:26.797Z</updated>
+        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
     </entry>
 </feed>
