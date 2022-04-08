@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 01:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러) (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/712</link>
+            <guid>https://www.careet.net/712</guid>
+            <pubDate>Fri, 08 Apr 2022 01:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 SNS, 블로그에 자주 쓰는 표현 모아왔어요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/a9c4ea95-f0ab-427a-aa05-4e2ad61c7468_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[50만 명이 몰려든 인증샷 성지가 있다고? 이주의 떡상템.zip (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/711</link>
+            <guid>https://www.careet.net/711</guid>
+            <pubDate>Fri, 08 Apr 2022 01:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1분 만에 보는 Z세대 최신 트렌드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/0c650e37-4b85-419a-98c1-0a549dac45dc_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 회사생활 밸런스 게임! Z세대 신입과 용명의 가치관 차이? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/708</link>
+            <guid>https://www.careet.net/708</guid>
+            <pubDate>Fri, 08 Apr 2022 01:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[주 3일 월 150 vs 주 6일 월 500 받기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/ce76e03d-d0b5-443b-8e67-5d3557302784_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 대이직의 시대! MZ세대에게 선택받는 기업 되는 법 (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/698</link>
@@ -320,6 +344,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러) (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
+            <link>https://www.careet.net/712</link>
+            <guid>https://www.careet.net/712</guid>
+            <pubDate>Fri, 08 Apr 2022 01:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 SNS, 블로그에 자주 쓰는 표현 모아왔어요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/a9c4ea95-f0ab-427a-aa05-4e2ad61c7468_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2023 트렌드 능력고사 출제 예상 문제! 격세지감 Z세대 표현법 5 (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
             <link>https://www.careet.net/695</link>
             <guid>https://www.careet.net/695</guid>
@@ -358,14 +390,6 @@
             <pubDate>Tue, 15 Mar 2022 13:09:28 GMT</pubDate>
             <content:encoded><![CDATA[밈 유래가 이리 다채로웠다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0a5e5afb-6d3d-4935-b55d-5803f6563cb6_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 예쁘게 생긴 건 잘한 게 아니에요! 그치만... (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
-            <link>https://www.careet.net/630</link>
-            <guid>https://www.careet.net/630</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[new 최신 주접 밈!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/24f9bfe5-6266-40b3-95b2-653a296867ac_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 사진 트렌드: Z세대는 인생네컷을 왜 그렇게 좋아할까? (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
@@ -474,52 +498,52 @@
                                                 <a href="https://sports.khan.co.kr/bizlife/sk_index.html?art_id=202204061126013&amp;sec_id=561101&amp;pt=nv" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털 네이티브 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[카공족 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[판 플레이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[레게노 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 스트리밍 방송에서 유래한 유행어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼현슼엘 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[힙(hip) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. '힙하다', '힙한 OO'로 쓰임. (유사어: 트렌디하다)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스카 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[킬포 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[스터디 카페의 줄임말.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인소 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[ㄱㅇㅇ (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 소설의 줄임말.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[관종 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[킹리적 갓심 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content:encoded>
+            <pubDate>Fri, 08 Apr 2022 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(광고포함) ‘안 봐도 비디오’의 요즘식 표현은? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.101]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202204/f1752ae2-9850-43b9-aadd-74a75bcdaa38_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -527,7 +551,7 @@
             <title><![CDATA[캐릿 생파 놀러오세요! 100만 원 드림 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.100]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/d04c72e9-a6bd-413a-89c8-14d4166f4aff_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +559,7 @@
             <title><![CDATA[(광고 포함) 신입사원 열정러 만드는 피드백 노하우3 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.99]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/f089b4fb-16f2-4a06-86f4-6ef190f6631d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -543,7 +567,7 @@
             <title><![CDATA[Z세대가 좌표 찍은 넥스트 성수동은 어디? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.98]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/46af1c2c-bb39-4786-99a7-9e92ce515fe3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -551,7 +575,7 @@
             <title><![CDATA[(광고 포함) 포켓몬빵 말고 다른 유행 없나? 여기 있음! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.97]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/117f7af7-3092-43b4-a5e2-fc18e747ad4e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -559,7 +583,7 @@
             <title><![CDATA[5초 안에 요즘 뜨는 브랜드 3개 댈 수 있는 분? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.96]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/1733b03f-e351-4eea-bc17-04dc92716dee_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -567,7 +591,7 @@
             <title><![CDATA[(광고포함) 새로 나온 건배사 알려드림! 청바지 아님 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.95]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/81e2ac50-af7d-4868-9753-7fac34d9f740_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -575,7 +599,7 @@
             <title><![CDATA[설 연휴 동안 놓친 트렌드 2분 요약 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.94]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/a30204db-d938-4d64-bf19-c784d654991e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -583,7 +607,7 @@
             <title><![CDATA[(광고포함) 10대 기념일, 세계 뵤의 날이 다가옵니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.93]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/4dd40f5f-81c2-4b39-9547-299f9a04f01f_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -591,7 +615,7 @@
             <title><![CDATA[대박 담당자 바뀜? 이미지 싹 달라진 브랜드 대공개 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.92]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/6fefde94-7610-4cd7-8996-ef9c81ecb5f8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -599,7 +623,7 @@
             <title><![CDATA[(광고포함) MZ세대 시장 동향, 1분 요약해드림! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[vol.91]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/8293a0cc-0182-4f7f-b73d-dc4a15efe2f3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -607,7 +631,7 @@
             <title><![CDATA[요즘 10대 트렌드는 정말 모르겠어 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:22:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[Vol.90]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/f2f27f0f-23a1-480c-a597-ea1bd7fbad3e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
