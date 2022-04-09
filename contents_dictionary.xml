@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-09T13:26:20.332Z</updated>
+    <updated>2022-04-09T14:19:36.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[긱잡]]></title>
+        <title type="html"><![CDATA[사바사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.062Z</updated>
-        <content type="html"><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content>
+        <updated>2022-04-09T14:19:29.608Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[반모]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.063Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2022-04-09T14:19:29.608Z</updated>
+        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
+        <title type="html"><![CDATA[액괴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.066Z</updated>
-        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
+        <updated>2022-04-09T14:19:29.609Z</updated>
+        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴짤]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.067Z</updated>
-        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
+        <updated>2022-04-09T14:19:29.612Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹정]]></title>
+        <title type="html"><![CDATA[저메추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.068Z</updated>
-        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
+        <updated>2022-04-09T14:19:29.613Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[키자니아]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T13:26:13.069Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2022-04-09T14:19:29.613Z</updated>
+        <content type="html"><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content>
     </entry>
 </feed>
