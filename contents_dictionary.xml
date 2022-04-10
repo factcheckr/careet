@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-10T12:34:06.061Z</updated>
+    <updated>2022-04-10T13:26:26.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한줌단]]></title>
+        <title type="html"><![CDATA[홈마]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.695Z</updated>
-        <content type="html"><![CDATA[다 모아도 한 줌이 될 것 같은 적은 수의 집단을 부르는 말. MZ세대가 비주류를 지칭할 때 사용함.]]></content>
+        <updated>2022-04-10T13:26:19.123Z</updated>
+        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국룰]]></title>
+        <title type="html"><![CDATA[공구]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.696Z</updated>
-        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
+        <updated>2022-04-10T13:26:19.124Z</updated>
+        <content type="html"><![CDATA[공동구매의 줄임말. 유튜버나 인플루언서가 기성 브랜드 제품을 홍보하고, 공동구매 방식으로 판매까지 유도하는 마케팅 수단.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[트롤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.697Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-04-10T13:26:19.125Z</updated>
+        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴꾸]]></title>
+        <title type="html"><![CDATA[그린 워싱(Green washing)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.698Z</updated>
-        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
+        <updated>2022-04-10T13:26:19.125Z</updated>
+        <content type="html"><![CDATA[실제론 친환경이 아닌데 친환경인 척 광고하는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근자감]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.700Z</updated>
-        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
+        <updated>2022-04-10T13:26:19.126Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[페메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T12:33:58.701Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-04-10T13:26:19.127Z</updated>
+        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
     </entry>
 </feed>
