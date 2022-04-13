@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-13T03:07:20.483Z</updated>
+    <updated>2022-04-13T04:29:17.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[별다꾸]]></title>
+        <title type="html"><![CDATA[킹리적 갓심]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.941Z</updated>
-        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
+        <updated>2022-04-13T04:29:09.817Z</updated>
+        <content type="html"><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머글]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.942Z</updated>
-        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+        <updated>2022-04-13T04:29:09.818Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입덕]]></title>
+        <title type="html"><![CDATA[이때싶]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.942Z</updated>
-        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
+        <updated>2022-04-13T04:29:09.822Z</updated>
+        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어사]]></title>
+        <title type="html"><![CDATA[온클]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.943Z</updated>
-        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
+        <updated>2022-04-13T04:29:09.823Z</updated>
+        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[짠메랑]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.944Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-04-13T04:29:09.824Z</updated>
+        <content type="html"><![CDATA[‘부메랑(gif 형식으로 사진을 찍어주는 필터)’기능을 활용해 술자리에서 건배하는 모습을 촬영하는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[단호박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-13T03:07:12.945Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2022-04-13T04:29:09.825Z</updated>
+        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
     </entry>
 </feed>
