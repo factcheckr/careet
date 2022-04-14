@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,62 +528,62 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/78bcbfdf-ae97-4a24-8496-7da2e5fa6e6f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하이브, 게임사업 본격 육성할 계획 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://www.hankyung.com/economy/article/2022041212671</link>
-            <guid>https://www.hankyung.com/economy/article/2022041212671</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[틱톡, 누구나 필터 제작하고 수익 공유하는 ‘이펙트 하우스’ 론칭 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>http://www.sportsworldi.com/newsView/20220414500807</link>
+            <guid>http://www.sportsworldi.com/newsView/20220414500807</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>방탄소년단(BTS)의 소속사 하이브가 게임 사업을 분사할 예정입니다. 이번 분사를 통해 게임, NFT, 메타버스 등의 새로운 사업으로 수익 모델을 다각화할 계획이에요. 게임과 메타버스는 소속 아티스트 IP를 직접적으로 활용할 수 있는 대표적인 분야인데요. 아티스트 IP 기반의 기존 사업과 새로운 사업의 시너지가 주목되고 있습니다.</div><div><br>✅<strong>&nbsp;눈여겨볼 포인트</strong><br>- 하이브는 2021년, <a href="https://www.yna.co.kr/view/AKR20211104026051002?input=1195m" rel="noopener noreferrer" target="_blank"><strong>블록체인 업체 두나무와의 협업을 통해 아티스트 NFT 굿즈 사업 추진 계획</strong></a>을 밝힌 바 있음.<br><br><br></div>
+                                                <div>틱톡이 누구나 틱톡 필터를 제작하고 수익도 창출할 수 있는 플랫폼 ‘이펙트 하우스(Effect House)’를 글로벌 베타 버전으로 론칭했어요. 만 18세 이상의 맥 OS 사용자라면 누구나 이펙트 하우스 공식 웹사이트에서 제작 툴을 다운로드 받아 필터를 제작할 수 있습니다. 수익 창출은 공모를 통해 틱톡이 선정한 디자이너에게만 우선 지원된다고 하네요.<br><br>✅ 눈여겨볼 포인트<br>- 관련 콘텐츠: <a href="https://maily.so/draft.briefing/posts/0ac7239d" rel="noopener noreferrer" target="_blank"><u>크리에이터 이코노미, 현재의 미디어 사용자는 미래의 크리에이터.</u></a> </div>
                                             </span>
-                                                <a href="https://www.hankyung.com/economy/article/2022041212671" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="http://www.sportsworldi.com/newsView/20220414500807" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[밥약 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[와드 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[밥 약속의 줄임 말.]]></content:encoded>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[얼빡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[틱톡커 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content:encoded>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[생카 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[실친 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content:encoded>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저메추 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[덕업일치 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content:encoded>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[덕질하는 것이 직업이 되었다는 뜻. 요즘은 좋아하는 일이 직업이 되었을 때 사용하는 말로 확장됨.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[언박싱 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <link>https://factcheckr.github.io/careet/all.xml</link>
+            <guid>https://factcheckr.github.io/careet/all.xml</guid>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파츠 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:27 GMT</pubDate>
             <content:encoded><![CDATA[각종 액세서리 부자재를 일컫는 말. Z세대는 보통 아이돌 포토 카드를 꾸밀 때 파츠를 활용함.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좋댓구알 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-            <link>https://factcheckr.github.io/careet/all.xml</link>
-            <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[질문 100개 하는 후배 vs. 질문 절대 안 하는 후배 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.102]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202204/0b04b045-72ce-45d3-87aa-13c2629254b3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -591,7 +591,7 @@
             <title><![CDATA[(광고포함) ‘안 봐도 비디오’의 요즘식 표현은? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.101]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202204/f1752ae2-9850-43b9-aadd-74a75bcdaa38_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -599,7 +599,7 @@
             <title><![CDATA[캐릿 생파 놀러오세요! 100만 원 드림 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.100]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/d04c72e9-a6bd-413a-89c8-14d4166f4aff_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -607,7 +607,7 @@
             <title><![CDATA[(광고 포함) 신입사원 열정러 만드는 피드백 노하우3 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.99]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/f089b4fb-16f2-4a06-86f4-6ef190f6631d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -615,7 +615,7 @@
             <title><![CDATA[Z세대가 좌표 찍은 넥스트 성수동은 어디? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.98]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/46af1c2c-bb39-4786-99a7-9e92ce515fe3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -623,7 +623,7 @@
             <title><![CDATA[(광고 포함) 포켓몬빵 말고 다른 유행 없나? 여기 있음! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.97]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202203/117f7af7-3092-43b4-a5e2-fc18e747ad4e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -631,7 +631,7 @@
             <title><![CDATA[5초 안에 요즘 뜨는 브랜드 3개 댈 수 있는 분? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.96]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/1733b03f-e351-4eea-bc17-04dc92716dee_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -639,7 +639,7 @@
             <title><![CDATA[(광고포함) 새로 나온 건배사 알려드림! 청바지 아님 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.95]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/81e2ac50-af7d-4868-9753-7fac34d9f740_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -647,7 +647,7 @@
             <title><![CDATA[설 연휴 동안 놓친 트렌드 2분 요약 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.94]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202202/a30204db-d938-4d64-bf19-c784d654991e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -655,7 +655,7 @@
             <title><![CDATA[(광고포함) 10대 기념일, 세계 뵤의 날이 다가옵니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.93]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/4dd40f5f-81c2-4b39-9547-299f9a04f01f_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -663,7 +663,7 @@
             <title><![CDATA[대박 담당자 바뀜? 이미지 싹 달라진 브랜드 대공개 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.92]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/6fefde94-7610-4cd7-8996-ef9c81ecb5f8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -671,7 +671,7 @@
             <title><![CDATA[(광고포함) MZ세대 시장 동향, 1분 요약해드림! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:12 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 22:23:33 GMT</pubDate>
             <content:encoded><![CDATA[vol.91]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/8293a0cc-0182-4f7f-b73d-dc4a15efe2f3_300x300.jpg" length="0" type="image/jpg"/>
         </item>

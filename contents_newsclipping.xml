@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-04-14T21:20:13.093Z</updated>
+    <updated>2022-04-14T22:23:34.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[하이브, 게임사업 본격 육성할 계획]]></title>
-        <id>https://www.hankyung.com/economy/article/2022041212671</id>
-        <link href="https://www.hankyung.com/economy/article/2022041212671"/>
-        <updated>2022-04-14T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[틱톡, 누구나 필터 제작하고 수익 공유하는 ‘이펙트 하우스’ 론칭]]></title>
+        <id>http://www.sportsworldi.com/newsView/20220414500807</id>
+        <link href="http://www.sportsworldi.com/newsView/20220414500807"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>방탄소년단(BTS)의 소속사 하이브가 게임 사업을 분사할 예정입니다. 이번 분사를 통해 게임, NFT, 메타버스 등의 새로운 사업으로 수익 모델을 다각화할 계획이에요. 게임과 메타버스는 소속 아티스트 IP를 직접적으로 활용할 수 있는 대표적인 분야인데요. 아티스트 IP 기반의 기존 사업과 새로운 사업의 시너지가 주목되고 있습니다.</div><div><br>✅<strong>&nbsp;눈여겨볼 포인트</strong><br>- 하이브는 2021년, <a href="https://www.yna.co.kr/view/AKR20211104026051002?input=1195m" rel="noopener noreferrer" target="_blank"><strong>블록체인 업체 두나무와의 협업을 통해 아티스트 NFT 굿즈 사업 추진 계획</strong></a>을 밝힌 바 있음.<br><br><br></div>
+                                                <div>틱톡이 누구나 틱톡 필터를 제작하고 수익도 창출할 수 있는 플랫폼 ‘이펙트 하우스(Effect House)’를 글로벌 베타 버전으로 론칭했어요. 만 18세 이상의 맥 OS 사용자라면 누구나 이펙트 하우스 공식 웹사이트에서 제작 툴을 다운로드 받아 필터를 제작할 수 있습니다. 수익 창출은 공모를 통해 틱톡이 선정한 디자이너에게만 우선 지원된다고 하네요.<br><br>✅ 눈여겨볼 포인트<br>- 관련 콘텐츠: <a href="https://maily.so/draft.briefing/posts/0ac7239d" rel="noopener noreferrer" target="_blank"><u>크리에이터 이코노미, 현재의 미디어 사용자는 미래의 크리에이터.</u></a> </div>
                                             </span>
-                                                <a href="https://www.hankyung.com/economy/article/2022041212671" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="http://www.sportsworldi.com/newsView/20220414500807" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
