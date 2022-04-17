@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-17T03:36:40.885Z</updated>
+    <updated>2022-04-17T04:27:29.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[인급동]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.141Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2022-04-17T04:27:21.711Z</updated>
+        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[마음함]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.142Z</updated>
-        <content type="html"><![CDATA[실세 사진의 줄임말]]></content>
+        <updated>2022-04-17T04:27:21.713Z</updated>
+        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언택트]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.143Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
+        <updated>2022-04-17T04:27:21.714Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <title type="html"><![CDATA[코시국]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.143Z</updated>
-        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+        <updated>2022-04-17T04:27:21.714Z</updated>
+        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑꾸]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.145Z</updated>
-        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
+        <updated>2022-04-17T04:27:21.715Z</updated>
+        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근자감]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-17T03:36:33.146Z</updated>
-        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
+        <updated>2022-04-17T04:27:21.716Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
 </feed>
