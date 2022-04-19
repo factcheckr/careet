@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-04-19T21:20:16.846Z</updated>
+    <updated>2022-04-19T22:24:22.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뱅앤올룹슨, 아시아 최대 규모 압구정스토어 재오픈]]></title>
-        <id>https://www.betanews.net/article/1325684</id>
-        <link href="https://www.betanews.net/article/1325684"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[“MBTI로 추천한 의상, 내 취향 아냐”… 무리한 마케팅에 MZ세대 거부감]]></title>
+        <id>https://biz.chosun.com/topics/topics_social/2022/04/16/EN2GOSFQTFAGNC2KSRLWJQTQYY/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz</id>
+        <link href="https://biz.chosun.com/topics/topics_social/2022/04/16/EN2GOSFQTFAGNC2KSRLWJQTQYY/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>스피커 브랜드 뱅앤올룹슨이 압구정에 아시아 최대 규모 플래그십 스토어를 재오픈한다고 밝혔습니다.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 커스터마이징 주문 제작 서비스를 아시아 지역 최초로 시범 운영한다는 것. 프리미엄 리빙 트렌드 중 하나인 ‘고급 스피커 구매’에 대한 MZ세대 니즈를 잘 파악한 것으로 보임</div>
+                                                <div>최근 기업들이 사람 성격을 파악하는 MBTI(마이어스-브릭스 유형 지표) 심리검사를 활용한 마케팅을 잇따라 선보이고 있습니다. 하지만 MBTI 지표가 신뢰도·타당도가 부족해 무분별한 사용에 대한 우려의 목소리도 높습니다.<br><br>🥕 관련 캐릿 콘텐츠</div><div>- <a href="https://www.careet.net/610" rel="noopener noreferrer" target="_blank"><u>MZ세대와 소통하고 싶은 당신을 위한 MBTI 속성 강의</u></a></div><div>- <a href="https://www.careet.net/713" rel="noopener noreferrer" target="_blank"><u>이력서에 MBTI 적어서 내는 거 어떻게 생각해? Z세대 500명에게 물었습니다.</u></a></div>
                                             </span>
-                                                <a href="https://www.betanews.net/article/1325684" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://biz.chosun.com/topics/topics_social/2022/04/16/EN2GOSFQTFAGNC2KSRLWJQTQYY/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
