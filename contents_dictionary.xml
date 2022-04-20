@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-20T09:22:33.438Z</updated>
+    <updated>2022-04-20T10:24:49.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[처돌이]]></title>
+        <title type="html"><![CDATA[먹시태그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.218Z</updated>
-        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+        <updated>2022-04-20T10:24:41.468Z</updated>
+        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[펀슈머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.222Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2022-04-20T10:24:41.468Z</updated>
+        <content type="html"><![CDATA[‘Fun(재미)’과 ‘Consumer(소비자)’의 합성어로, 소비 과정에서 재미를 추구하는 소비자를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[코덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.223Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2022-04-20T10:24:41.469Z</updated>
+        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <title type="html"><![CDATA[텍대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.226Z</updated>
-        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+        <updated>2022-04-20T10:24:41.470Z</updated>
+        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.227Z</updated>
-        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
+        <updated>2022-04-20T10:24:41.470Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판 플레이]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-20T09:22:26.227Z</updated>
-        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
+        <updated>2022-04-20T10:24:41.471Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
 </feed>
