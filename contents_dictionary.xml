@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-21T08:29:05.275Z</updated>
+    <updated>2022-04-21T09:22:56.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[P2P]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.677Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2022-04-21T09:22:48.777Z</updated>
+        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴짤]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.679Z</updated>
-        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
+        <updated>2022-04-21T09:22:48.778Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안읽씹]]></title>
+        <title type="html"><![CDATA[사바사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.680Z</updated>
-        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
+        <updated>2022-04-21T09:22:48.779Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인소]]></title>
+        <title type="html"><![CDATA[답정너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.681Z</updated>
-        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
+        <updated>2022-04-21T09:22:48.780Z</updated>
+        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[혼코노]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.682Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-04-21T09:22:48.781Z</updated>
+        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불판]]></title>
+        <title type="html"><![CDATA[마크정식]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-21T08:28:57.683Z</updated>
-        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
+        <updated>2022-04-21T09:22:48.782Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
     </entry>
 </feed>
