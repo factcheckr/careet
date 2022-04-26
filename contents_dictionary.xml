@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-26T11:19:59.354Z</updated>
+    <updated>2022-04-26T12:43:13.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[달글]]></title>
+        <title type="html"><![CDATA[캐해석]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.896Z</updated>
-        <content type="html"><![CDATA[‘달리는 글’의 줄임말. 한 가지 주제가 정해지면 그 주제에 대해서만 얘기하는 글을 뜻함. 유사한 커뮤니티 문화로는 ‘불판’이 있음.]]></content>
+        <updated>2022-04-26T12:43:06.566Z</updated>
+        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[액괴 유튜버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.897Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2022-04-26T12:43:06.567Z</updated>
+        <content type="html"><![CDATA[액괴란 액체괴물(슬라임)의 줄임말임. 액괴 유튜버란 ‘슬라임’을 만지고 노는 콘텐츠를 주로 업로드하는 유튜버를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼블리시티권]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.898Z</updated>
-        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
+        <updated>2022-04-26T12:43:06.568Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답정너]]></title>
+        <title type="html"><![CDATA[떡메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.898Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
+        <updated>2022-04-26T12:43:06.570Z</updated>
+        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로고 플레이]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.900Z</updated>
-        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
+        <updated>2022-04-26T12:43:06.571Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미공포]]></title>
+        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T11:19:51.901Z</updated>
-        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
+        <updated>2022-04-26T12:43:06.575Z</updated>
+        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
     </entry>
 </feed>
