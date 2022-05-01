@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-01T22:21:52.318Z</updated>
+    <updated>2022-05-01T23:22:00.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[무물]]></title>
+        <title type="html"><![CDATA[리퍼브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.211Z</updated>
-        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
+        <updated>2022-05-01T23:21:52.889Z</updated>
+        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.212Z</updated>
-        <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2022-05-01T23:21:52.890Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로판]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.213Z</updated>
-        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
+        <updated>2022-05-01T23:21:52.891Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
+        <title type="html"><![CDATA[그라폴리오]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.213Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2022-05-01T23:21:52.894Z</updated>
+        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공구]]></title>
+        <title type="html"><![CDATA[순삭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.214Z</updated>
-        <content type="html"><![CDATA[공동구매의 줄임말. 유튜버나 인플루언서가 기성 브랜드 제품을 홍보하고, 공동구매 방식으로 판매까지 유도하는 마케팅 수단.]]></content>
+        <updated>2022-05-01T23:21:52.895Z</updated>
+        <content type="html"><![CDATA[‘순식간에 삭제되다’의 줄임말. ‘너무 재밌어서 시간 가는 줄 몰랐다’, ‘너무 맛있어서 순식간에 다 먹어 버렸다.’ 등의 맥락에서 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팅글]]></title>
+        <title type="html"><![CDATA[영통팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T22:21:45.215Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2022-05-01T23:21:52.896Z</updated>
+        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
     </entry>
 </feed>
