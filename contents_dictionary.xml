@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-01T12:37:20.241Z</updated>
+    <updated>2022-05-01T13:30:21.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리퍼브]]></title>
+        <title type="html"><![CDATA[온콘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.575Z</updated>
-        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
+        <updated>2022-05-01T13:30:14.454Z</updated>
+        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코끝모]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.577Z</updated>
-        <content type="html"><![CDATA[코로나 끝나면 모이자를 줄인 신조어.]]></content>
+        <updated>2022-05-01T13:30:14.454Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
+        <title type="html"><![CDATA[트친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.578Z</updated>
-        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
+        <updated>2022-05-01T13:30:14.455Z</updated>
+        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.580Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2022-05-01T13:30:14.456Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍]]></title>
+        <title type="html"><![CDATA[생정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.580Z</updated>
-        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
+        <updated>2022-05-01T13:30:14.457Z</updated>
+        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핀스타]]></title>
+        <title type="html"><![CDATA[닥눈삼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-01T12:37:12.581Z</updated>
-        <content type="html"><![CDATA[가짜 계정. ‘Fake Instagram’의 줄임말.]]></content>
+        <updated>2022-05-01T13:30:14.458Z</updated>
+        <content type="html"><![CDATA[‘닥치고 눈팅 삼년’의 줄임말. 주로 커뮤니티 유저들 사이에서 사용되는 용어로, 처음 커뮤니티 활동을 시작할 때 규칙이나 분위기를 충분히 파악하고 활동하라는 뜻.]]></content>
     </entry>
 </feed>
