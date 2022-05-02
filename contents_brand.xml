@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 02:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가정의 달 이벤트 준비 중이시죠? 레퍼런스 모아 왔어요]]></title>
+            <link>https://www.careet.net/731</link>
+            <guid>https://www.careet.net/731</guid>
+            <pubDate>Mon, 02 May 2022 02:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[어린이날부터 성년의 날까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어떤 브랜드가 시험 기간 이벤트 잘 했을까?]]></title>
             <link>https://www.careet.net/728</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 04 Apr 2022 01:48:41 GMT</pubDate>
             <content:encoded><![CDATA[라벨 디자인부터 팝업스토어까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/b58f9a6e-13d1-471d-ad99-100dcc11f266_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 드라마의 신박한 홍보 방식! 주인공 방을 VR 쇼룸으로 만든다고?]]></title>
-            <link>https://www.careet.net/683</link>
-            <guid>https://www.careet.net/683</guid>
-            <pubDate>Mon, 21 Mar 2022 01:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대에게 ‘메타버스 마케팅 맛집’으로 소문나는 법]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ce5c25cb-6d07-4910-8ddc-35e2c12a01b7_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
