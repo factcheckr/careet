@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-03T13:42:06.335Z</updated>
+    <updated>2022-05-03T14:19:32.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[현질]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.090Z</updated>
-        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
+        <updated>2022-05-03T14:19:24.501Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[움짤]]></title>
+        <title type="html"><![CDATA[트친소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.091Z</updated>
-        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
+        <updated>2022-05-03T14:19:24.502Z</updated>
+        <content type="html"><![CDATA[‘트위터 친구를 소개 받습니다’의 줄임말. 트위터에서 공개적으로 친구를 모집하는 일을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[내돈내산]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.092Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2022-05-03T14:19:24.503Z</updated>
+        <content type="html"><![CDATA[‘내 돈으로 내가 산’의 줄임말. 주로 제품 리뷰를 할 때 광고가 아니라는 것을 강조하기 위해 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자강두천]]></title>
+        <title type="html"><![CDATA[한줌단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.095Z</updated>
-        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
+        <updated>2022-05-03T14:19:24.504Z</updated>
+        <content type="html"><![CDATA[다 모아도 한 줌이 될 것 같은 적은 수의 집단을 부르는 말. MZ세대가 비주류를 지칭할 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[할매니얼]]></title>
+        <title type="html"><![CDATA[망상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.096Z</updated>
-        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
+        <updated>2022-05-03T14:19:24.505Z</updated>
+        <content type="html"><![CDATA[좋아하는 연예인을 가지고 특정 상황을 설정해 상상하며 노는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼코노]]></title>
+        <title type="html"><![CDATA[킬포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-03T13:41:59.097Z</updated>
-        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
+        <updated>2022-05-03T14:19:24.506Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
 </feed>
