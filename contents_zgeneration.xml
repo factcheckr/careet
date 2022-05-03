@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 02:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 Z세대는 인스타 스토리 활용 잘하는 브랜드 팔로우한다고? 인스스 트렌드 AtoZ]]></title>
+            <link>https://www.careet.net/739</link>
+            <guid>https://www.careet.net/739</guid>
+            <pubDate>Tue, 03 May 2022 01:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[인스스 필터 직접 만들고 직접 추가 스티커로 이벤트함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/b70e476d-8f51-4dce-999c-a2b648edb796_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비대면으로 힙해진 마라톤 대회에 Z세대가 모이기 시작했다!]]></title>
             <link>https://www.careet.net/725</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
             <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘할미 취미’가 유행 중? 바느질에 빠진 Z세대 근황]]></title>
-            <link>https://www.careet.net/649</link>
-            <guid>https://www.careet.net/649</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[양모펠트, 펀치니들, 뜨개질… 갑자기 힙한 취미로 떠오르는 바느질!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/217b2263-73c9-429c-b1f2-5d546e4c1ac1_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
