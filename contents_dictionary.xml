@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-05T06:28:59.970Z</updated>
+    <updated>2022-05-05T07:22:35.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화력]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-05-05T07:22:26.939Z</updated>
+        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.415Z</updated>
+        <updated>2022-05-05T07:22:26.944Z</updated>
         <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텍대]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.415Z</updated>
-        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
+        <updated>2022-05-05T07:22:26.947Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빛삭]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.416Z</updated>
-        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
+        <updated>2022-05-05T07:22:26.947Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갑분싸]]></title>
+        <title type="html"><![CDATA[취준]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.416Z</updated>
-        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
+        <updated>2022-05-05T07:22:26.949Z</updated>
+        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금손]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.417Z</updated>
-        <content type="html"><![CDATA[손재주가 좋은 사람을 일컫는 말. 반대말은 똥손.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총공]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-05T06:28:52.418Z</updated>
-        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
+        <updated>2022-05-05T07:22:26.950Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
     </entry>
 </feed>
