@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-07T07:21:12.545Z</updated>
+    <updated>2022-05-07T08:27:50.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리젠]]></title>
+        <title type="html"><![CDATA[재주행]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.842Z</updated>
-        <content type="html"><![CDATA[‘regeneration(부활)’의 줄임말로, 게임에서 몬스터가 죽고난 뒤 다시 나타나는 것을 뜻한다. 통상적으로는 ‘새로운 게시물이 업로드 되었다’라는 의미로 쓰임.]]></content>
+        <updated>2022-05-07T08:27:42.157Z</updated>
+        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손민수]]></title>
+        <title type="html"><![CDATA[찐후기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.844Z</updated>
-        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
+        <updated>2022-05-07T08:27:42.158Z</updated>
+        <content type="html"><![CDATA[MZ세대가 정말 믿을 만하다고 평가하는 ‘진짜 후기’를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영끌]]></title>
+        <title type="html"><![CDATA[민경버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.846Z</updated>
-        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
+        <updated>2022-05-07T08:27:42.161Z</updated>
+        <content type="html"><![CDATA[개그우먼 ‘김민경’과 ‘유니버스’의 합성어. ‘하하버스’의 뒤를 잇는 세계관으로 ‘그냥 하면 다 잘하는데, 정작 본인은 모르는 채로 살아온 세계관’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼현슼엘]]></title>
+        <title type="html"><![CDATA[다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.847Z</updated>
-        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
+        <updated>2022-05-07T08:27:42.162Z</updated>
+        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알티]]></title>
+        <title type="html"><![CDATA[잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.848Z</updated>
-        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
+        <updated>2022-05-07T08:27:42.163Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-07T07:21:04.849Z</updated>
-        <content type="html"><![CDATA[알아서 잘 딱 깔끔하고 센스있게.]]></content>
+        <updated>2022-05-07T08:27:42.164Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
 </feed>
