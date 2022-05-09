@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 01:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 반응하는 콜라보 포인트가 궁금하다면? 당장 클릭해야 할 레퍼런스 3]]></title>
+            <link>https://www.careet.net/742</link>
+            <guid>https://www.careet.net/742</guid>
+            <pubDate>Mon, 09 May 2022 01:57:33 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 콜라보 잘한 브랜드 TOP3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/efb1b988-e484-42b0-8b15-1903755af261_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가정의 달 이벤트 준비 중이시죠? 레퍼런스 모아 왔어요]]></title>
             <link>https://www.careet.net/731</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 11 Apr 2022 01:45:45 GMT</pubDate>
             <content:encoded><![CDATA[배스킨라빈스, SK온, 동대문엽기떡볶이 일 잘하네!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/6aa9c16e-ccb0-437f-920b-45f7fb935eff_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이게 왜 유행이야?] MZ세대가 체감하는 박재범 소주 ‘원소주’ 인기 비결]]></title>
-            <link>https://www.careet.net/700</link>
-            <guid>https://www.careet.net/700</guid>
-            <pubDate>Mon, 04 Apr 2022 01:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[라벨 디자인부터 팝업스토어까지!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/b58f9a6e-13d1-471d-ad99-100dcc11f266_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
