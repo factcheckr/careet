@@ -4,9 +4,33 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 13:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H워얼V, 킹아? 진짜 10대 신조어인지 팩트체크 해봤습니다]]></title>
+            <link>https://www.careet.net/779</link>
+            <guid>https://www.careet.net/779</guid>
+            <pubDate>Sat, 04 Jun 2022 13:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[정말 급식 세대가 쓰는 말일까? 직접 물어봤습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/aaaf1e95-3d7f-4686-97c1-b6affc3c46fe_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 바닥글에 쓸 드립이 바닥났다면? 당장 써 먹는 드립 3]]></title>
+            <link>https://www.careet.net/770</link>
+            <guid>https://www.careet.net/770</guid>
+            <pubDate>Sat, 04 Jun 2022 13:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[구독자 여러분의 유행어 서치 시간을 줄여드릴게요(물리)]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/54990dd6-1ccd-4d2d-8032-86bd7c22200d_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 화제의 밈은 ‘침펄’로부터 시작된다고? Z세대 신조어 어원을 찾아서]]></title>
+            <link>https://www.careet.net/749</link>
+            <guid>https://www.careet.net/749</guid>
+            <pubDate>Sat, 04 Jun 2022 13:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브, 틱톡, 인스타, 트위터까지! 플랫폼 불문 패러디 양산 중인 최신 밈]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/15a2794e-a7c5-4bae-b2c0-28ea3e341cf7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 유행어 또 생겼어? 누구나 쉽게 응용 가능한 드립 3]]></title>
             <link>https://www.careet.net/741</link>
@@ -30,30 +54,6 @@
             <pubDate>Fri, 01 Apr 2022 05:19:21 GMT</pubDate>
             <content:encoded><![CDATA[Z세대는 콩깍지 씌었다 대신 OOO 씌었다라고 한다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/8fc3ef54-d4e8-472b-a4af-b5362ffaca20_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써 먹는 유행어] 너 혹시… 뭐 돼?]]></title>
-            <link>https://www.careet.net/669</link>
-            <guid>https://www.careet.net/669</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[잘난 척 하는 친구를 구박하고 싶을 때 쓰는 말!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/35421a81-39d4-42ef-9c48-783a4b54c51c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이게 왜 유행이야?] 깻잎 논쟁, 유래부터 종결까지! 타임라인 총정리]]></title>
-            <link>https://www.careet.net/660</link>
-            <guid>https://www.careet.net/660</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2019년에 시작된 깻잎 논쟁이 갑자기 Z세대 핫이슈가 된 이유!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c360e127-3568-46ad-af9c-346835674710_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 주목한 2022 동계올림픽 스타·밈 모음.zip]]></title>
-            <link>https://www.careet.net/646</link>
-            <guid>https://www.careet.net/646</guid>
-            <pubDate>Tue, 15 Mar 2022 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[현생에 치여 이번 올림픽 트렌드를 놓치신 분들 꼭 보세요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2edfaeda-b941-49cd-9a79-215f0000206c_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

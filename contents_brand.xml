@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 13:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫플 된 이유가 있네! 편집숍 ‘스코프 서울’ 큐레이션 포인트]]></title>
+            <link>https://www.careet.net/754</link>
+            <guid>https://www.careet.net/754</guid>
+            <pubDate>Sat, 04 Jun 2022 13:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 브랜드에도 이런 디테일이 필요합니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/bd2fd894-be10-4174-a7bf-7994427c5b4a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공간 마케팅 레퍼런스? 지난 주말 Z세대가 다녀온 ‘이곳’에 다 있다!]]></title>
+            <link>https://www.careet.net/750</link>
+            <guid>https://www.careet.net/750</guid>
+            <pubDate>Sat, 04 Jun 2022 13:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 칭찬한 오프라인 경험의 포인트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/743ff3f4-3207-4bff-a793-18617dd7b5ac_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 반응하는 콜라보 포인트가 궁금하다면? 당장 클릭해야 할 레퍼런스 3]]></title>
             <link>https://www.careet.net/742</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 19 Apr 2022 01:55:16 GMT</pubDate>
             <content:encoded><![CDATA[올해 다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202104/d1f306e0-7db5-48aa-9ef1-444b50845ddc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 커뮤니티 눈팅은 이렇게 하는 겁니다]]></title>
-            <link>https://www.careet.net/721</link>
-            <guid>https://www.careet.net/721</guid>
-            <pubDate>Mon, 18 Apr 2022 01:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘마케터 일 잘한다’는 칭찬 게시물이 커뮤니티에 올라왔다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/8d92a69a-a8b1-4b5f-91f2-7e2d7b60e0c1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[참여 허들 높은데도 1만 명 참여한 이벤트가 있다? Z세대가 칭찬한 브랜드 3]]></title>
-            <link>https://www.careet.net/709</link>
-            <guid>https://www.careet.net/709</guid>
-            <pubDate>Mon, 11 Apr 2022 01:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[배스킨라빈스, SK온, 동대문엽기떡볶이 일 잘하네!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/6aa9c16e-ccb0-437f-920b-45f7fb935eff_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
