@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-08T08:30:44.764Z</updated>
+    <updated>2022-06-08T09:23:14.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.400Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.401Z</updated>
+        <updated>2022-06-08T09:23:05.698Z</updated>
         <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탭꾸]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.410Z</updated>
-        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
+        <updated>2022-06-08T09:23:05.700Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[콜렉트북]]></title>
+        <title type="html"><![CDATA[영통팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.410Z</updated>
-        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
+        <updated>2022-06-08T09:23:05.701Z</updated>
+        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[총공]]></title>
+        <title type="html"><![CDATA[마상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.421Z</updated>
-        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
+        <updated>2022-06-08T09:23:05.705Z</updated>
+        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡밥]]></title>
+        <title type="html"><![CDATA[데스크테리어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-08T08:30:35.422Z</updated>
-        <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
+        <updated>2022-06-08T09:23:05.707Z</updated>
+        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국룰]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-06-08T09:23:05.708Z</updated>
+        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
     </entry>
 </feed>
