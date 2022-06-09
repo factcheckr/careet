@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-09T12:44:22.874Z</updated>
+    <updated>2022-06-09T13:39:24.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[민경버스]]></title>
+        <title type="html"><![CDATA[밸붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.607Z</updated>
-        <content type="html"><![CDATA[개그우먼 ‘김민경’과 ‘유니버스’의 합성어. ‘하하버스’의 뒤를 잇는 세계관으로 ‘그냥 하면 다 잘하는데, 정작 본인은 모르는 채로 살아온 세계관’을 뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.611Z</updated>
-        <content type="html"><![CDATA[알아서 잘 딱 깔끔하고 센스있게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파티원]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.612Z</updated>
-        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일잘러]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.615Z</updated>
-        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
+        <updated>2022-06-09T13:39:15.572Z</updated>
+        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[본캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.616Z</updated>
+        <updated>2022-06-09T13:39:15.574Z</updated>
         <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브 프리미엄]]></title>
+        <title type="html"><![CDATA[라방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T12:44:14.616Z</updated>
-        <content type="html"><![CDATA[유튜브 유료 요금제. 광고 제거, 동영상 다운로드 등의 서비스를 제공함.]]></content>
+        <updated>2022-06-09T13:39:15.575Z</updated>
+        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쩝쩝박사]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-06-09T13:39:15.576Z</updated>
+        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군백기]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-06-09T13:39:15.577Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폰꾸]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-06-09T13:39:15.579Z</updated>
+        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
     </entry>
 </feed>
