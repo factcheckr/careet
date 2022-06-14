@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-14T14:19:40.399Z</updated>
+    <updated>2022-06-14T15:24:05.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[슈스]]></title>
+        <title type="html"><![CDATA[콜렉트북]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.553Z</updated>
-        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
+        <updated>2022-06-14T15:23:57.629Z</updated>
+        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤르미온느]]></title>
+        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.554Z</updated>
-        <content type="html"><![CDATA[&lt;해리 포터&gt; 시리즈에 나오는 해리의 친구이자 모범생 캐릭터. 시간을 돌릴 수 있는 시계를 이용해 많은 수업을 듣는다. 시간 관리를 잘 하거나 열심히 사는 사람을 일컬어 헤르미온느라고 부름.]]></content>
+        <updated>2022-06-14T15:23:57.633Z</updated>
+        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[움짤]]></title>
+        <title type="html"><![CDATA[PTSD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.556Z</updated>
-        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
+        <updated>2022-06-14T15:23:57.634Z</updated>
+        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공]]></title>
+        <title type="html"><![CDATA[존버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.560Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
+        <updated>2022-06-14T15:23:57.635Z</updated>
+        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코끝모]]></title>
+        <title type="html"><![CDATA[포카 슬리브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.561Z</updated>
-        <content type="html"><![CDATA[코로나 끝나면 모이자를 줄인 신조어.]]></content>
+        <updated>2022-06-14T15:23:57.635Z</updated>
+        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓공]]></title>
+        <title type="html"><![CDATA[랩핑지]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-14T14:19:32.561Z</updated>
-        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
+        <updated>2022-06-14T15:23:57.636Z</updated>
+        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
     </entry>
 </feed>
