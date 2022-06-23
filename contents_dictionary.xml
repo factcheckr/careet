@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-23T09:21:41.809Z</updated>
+    <updated>2022-06-23T10:25:02.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[카공]]></title>
+        <title type="html"><![CDATA[스밍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.476Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
+        <updated>2022-06-23T10:24:55.443Z</updated>
+        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나심비]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.476Z</updated>
-        <content type="html"><![CDATA[‘나’, ‘마음(心)’, ‘소비’의 합성어. 내 마음에 들면 지갑을 여는 소비 심리를 뜻함.]]></content>
+        <updated>2022-06-23T10:24:55.443Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑로더]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.478Z</updated>
-        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
+        <updated>2022-06-23T10:24:55.444Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인용 알티]]></title>
+        <title type="html"><![CDATA[인스타그래머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.480Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2022-06-23T10:24:55.446Z</updated>
+        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미공포]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.481Z</updated>
-        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
+        <updated>2022-06-23T10:24:55.447Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생정]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T09:21:34.482Z</updated>
-        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
+        <updated>2022-06-23T10:24:55.449Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
 </feed>
