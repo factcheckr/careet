@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-23T10:25:02.911Z</updated>
+    <updated>2022-06-23T11:19:03.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스밍]]></title>
+        <title type="html"><![CDATA[광공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.443Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+        <updated>2022-06-23T11:18:55.495Z</updated>
+        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근자감]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.443Z</updated>
-        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
+        <updated>2022-06-23T11:18:55.497Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[공스타그램]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.444Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-06-23T11:18:55.499Z</updated>
+        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머]]></title>
+        <title type="html"><![CDATA[빌드업]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.446Z</updated>
-        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
+        <updated>2022-06-23T11:18:55.500Z</updated>
+        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.447Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2022-06-23T11:18:55.502Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망붕]]></title>
+        <title type="html"><![CDATA[할매니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-23T10:24:55.449Z</updated>
-        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
+        <updated>2022-06-23T11:18:55.504Z</updated>
+        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
     </entry>
 </feed>
