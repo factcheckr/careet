@@ -4,7 +4,7 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 11:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 12:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/13ff058c-e1c2-4ab6-8faf-3d0f26a3fb9d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러)]]></title>
-            <link>https://www.careet.net/712</link>
-            <guid>https://www.careet.net/712</guid>
-            <pubDate>Fri, 08 Apr 2022 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 SNS, 블로그에 자주 쓰는 표현 모아왔어요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/a9c4ea95-f0ab-427a-aa05-4e2ad61c7468_770x426.png" length="0" type="image/png"/>
+            <title><![CDATA[포즈에 진심인 Z세대! 갸루브이 따라 하는 진짜 이유]]></title>
+            <link>https://www.careet.net/732</link>
+            <guid>https://www.careet.net/732</guid>
+            <pubDate>Mon, 27 Jun 2022 12:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[콩순이 포즈도 유행 중이라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/bd7c67a6-028d-4185-9cc4-3269e023c484_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
