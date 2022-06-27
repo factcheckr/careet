@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-06-27T21:22:18.501Z</updated>
+    <updated>2022-06-27T22:21:45.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[편의점 이마트24, 전국 점포서 반려동물 등록 서비스 시작]]></title>
-        <id>https://newsis.com/view/?id=NISX20220622_0001917002&amp;cID=13001&amp;pID=13000</id>
-        <link href="https://newsis.com/view/?id=NISX20220622_0001917002&amp;cID=13001&amp;pID=13000"/>
-        <updated>2022-06-27T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[트위터, ‘장문 트윗’ 시범 서비스 시작]]></title>
+        <id>https://www.mk.co.kr/news/it/view/2022/06/549728/</id>
+        <link href="https://www.mk.co.kr/news/it/view/2022/06/549728/"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>이마트24가 반려견 등록 서비스 플랫폼 ‘페오펫’과 손잡고 동물 등록 대행 서비스를 시작합니다. 고객이 편의점 매장에 남긴 연락처로 동물 등록 링크가 전송되고, 해당 사이트에서 정보를 입력하면 관할 구청 동물 등록 시스템에 등록이 완료되는 방식이라고 해요.<br><br><strong>✅눈여겨볼 포인트</strong><br>-최근 각 편의점 브랜드에서 <a href="https://www.yna.co.kr/view/AKR20210928108100030?input=1195m" rel="noopener noreferrer" target="_blank"><strong><u>반려동물용품 매출이 크게 성장하고 있음.</u></strong></a><br>-GS25와 CU에서는 <a href="http://www.livesnews.com/news/article.html?no=34417" rel="noopener noreferrer" target="_blank"><u><strong>유기, 유실 반려동물 입양 캠페인을 진행하는 등</strong></u></a> 편의점이 반려동물 관련 다양한 서비스를 제공하는 일이 늘고 있음.</div>
+                                                <div>트위터는 글자 수를 280자로 제한해 간결한 텍스트 내용만을 업로드 할 수 있는 것이 특징인 SNS 플랫폼인데요.<br>6월 22일, 미국, 영국 등 4개국을 대상으로 장문을 쓸 수 있는 ‘노트(Notes)’ 기능의 테스트를 시작했습니다. 노트 서비스는 글자 수 제한이 없으며, 이미지와 동영상 등을 자유롭게 넣은 ‘장문 트윗’이 가능하다고 해요.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong><br>-노트 기능이 정식으로 도입되면 다양한 형태의 콘텐츠 생산이 가능해질 것으로 보임.<br>-인스타그램 역시 DM창에 짧은 텍스트를 업로드할 수 있는 노트 기능이 새롭게 생겼음.</div>
                                             </span>
-                                                <a href="https://newsis.com/view/?id=NISX20220622_0001917002&amp;cID=13001&amp;pID=13000" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://www.mk.co.kr/news/it/view/2022/06/549728/" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
