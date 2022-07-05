@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-05T10:24:53.519Z</updated>
+    <updated>2022-07-05T11:28:47.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[솜뭉치]]></title>
+        <title type="html"><![CDATA[인급동]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.454Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
+        <updated>2022-07-05T11:28:39.864Z</updated>
+        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대전]]></title>
+        <title type="html"><![CDATA[떡상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.461Z</updated>
-        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
+        <updated>2022-07-05T11:28:39.866Z</updated>
+        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[실친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.462Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2022-07-05T11:28:39.867Z</updated>
+        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[실트 총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.466Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2022-07-05T11:28:39.867Z</updated>
+        <content type="html"><![CDATA[원하는 메시지를 트위터 실시간 트렌드에 올리기 위해 해당 메시지가 포함된 트윗을 일제히 작성하는 것. 주로 아이돌 팬들이 최애의 생일을 축하할 때 벌임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DM]]></title>
+        <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.467Z</updated>
-        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
+        <updated>2022-07-05T11:28:39.868Z</updated>
+        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[라방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T10:24:45.468Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2022-07-05T11:28:39.869Z</updated>
+        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
     </entry>
 </feed>
