@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-07-05T21:20:03.966Z</updated>
+    <updated>2022-07-05T22:21:25.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[AI 무장하는 웹툰…네이버 ‘자동 BGM’ 특허 등록]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004069259?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004069259?sid=105"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[가치 소비에 가장 적극적인 MZ세대… 10명 중 8명은 가치 소비 경험 있어]]></title>
+        <id>https://www.mk.co.kr/news/society/view/2022/07/586775/</id>
+        <link href="https://www.mk.co.kr/news/society/view/2022/07/586775/"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>네이버가 인공지능(AI)로 웹툰에 적절한 배경음악을 틀어주는 특허를 출원했다고 합니다. 작가가 등록한 웹툰 속성 정보와 웹툰을 감상하는 사용자 피드백을 바탕으로 적합한 음원을 재생해주는 특허라고 하는데요. AI가 웹툰에 최적한 음원을 선정해서 배경음악으로 틀어주는 기술이에요.&nbsp;</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>-네이버는 웹툰 관련 AI 기술을 꾸준히 개발 중임. 웹툰 채색 기술인 ‘AI페인터’와 불법 복제물 감시 AI ‘툰레이더’ 등을 상용화해 활용하고 있음.<br>-이외에도 원본 이미지의 배경을 손쉽게 제거하는 ‘자동배경분리’와 실제 장면을 웹툰 그림체로 바꾸어주는 ‘웹툰미’ 기술을 발표함. 이러한 AI 기술은 모두 웹툰 작가의 단순노동 시간을 줄이고 더욱 창의적인 콘텐츠를 만들어 내는 환경을 만드는 것에 초점을 맞추고 있음.<br><br><br></div>
+                                                <div>롯데멤버스가 지난 5월 20일부터 25일까지 전국 20∼60대 남녀 1천500명을 대상으로 설문조사를 한 결과 응답자의 83.5%가 가치소비를 해봤다고 답했다고 합니다. 기부상품 구매(60.0%), 비건 동물보호(54.0%), 선행 업체 제품을 적극적으로 구매하는 '돈쭐내기'(41.2%), 조깅하며 쓰레기를 줍는 '플로깅'(40.2%) 등 상대적으로 적극적인 소비 유형을 경험해봤다는 응답은 MZ세대(1980년대초∼2000년대초 출생) 에서 가장 많았습니다.&nbsp;</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- X세대와 베이비붐 세대는 생활 속에서 실천할 수 있는 가치 소비(ex. 리사이클링, 제로 웨이스트)를 경험해본 경우가 많았음.</div><div>- MZ세대는 가치 소비 활동이나 의견을 SNS로 드러내는 데도 가장 적극적. (🥕관련 콘텐츠: <a href="https://www.careet.net/161" rel="noopener noreferrer" target="_blank"><strong>선한 영향력이 트렌드가 된 시대</strong></a>)</div><div>&nbsp;</div>
                                             </span>
-                                                <a href="https://n.news.naver.com/mnews/article/011/0004069259?sid=105" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://www.mk.co.kr/news/society/view/2022/07/586775/" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
