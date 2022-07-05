@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-05T19:18:08.927Z</updated>
+    <updated>2022-07-05T20:24:33.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[머글]]></title>
+        <title type="html"><![CDATA[껄무새]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.461Z</updated>
-        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+        <updated>2022-07-05T20:24:25.800Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑꾸]]></title>
+        <title type="html"><![CDATA[덕메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.461Z</updated>
-        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
+        <updated>2022-07-05T20:24:25.801Z</updated>
+        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.465Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2022-07-05T20:24:25.803Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빌드업]]></title>
+        <title type="html"><![CDATA[쿠키]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.466Z</updated>
-        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
+        <updated>2022-07-05T20:24:25.804Z</updated>
+        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.468Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2022-07-05T20:24:25.806Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현활]]></title>
+        <title type="html"><![CDATA[교복템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-05T19:18:00.469Z</updated>
-        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
+        <updated>2022-07-05T20:24:25.807Z</updated>
+        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
     </entry>
 </feed>
