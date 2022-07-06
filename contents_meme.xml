@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 02:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스!]]></title>
+            <link>https://www.careet.net/811</link>
+            <guid>https://www.careet.net/811</guid>
+            <pubDate>Wed, 06 Jul 2022 02:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 SNS에 매일 쓴다는 유행어!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8dc3ac6a-726d-4ddc-acc3-e52c0bce218b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘펫 프렌들리’ Z세대 타깃으로 활용하면 반응 좋을 동물 밈 3]]></title>
             <link>https://www.careet.net/804</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 06 May 2022 01:47:10 GMT</pubDate>
             <content:encoded><![CDATA[그치 아무래도 유행어는 자주 바뀌니까... 라고 할 뻔!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/13ff058c-e1c2-4ab6-8faf-3d0f26a3fb9d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포즈에 진심인 Z세대! 갸루브이 따라 하는 진짜 이유]]></title>
-            <link>https://www.careet.net/732</link>
-            <guid>https://www.careet.net/732</guid>
-            <pubDate>Mon, 27 Jun 2022 12:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[콩순이 포즈도 유행 중이라고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/bd7c67a6-028d-4185-9cc4-3269e023c484_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
