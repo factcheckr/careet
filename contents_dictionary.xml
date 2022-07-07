@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-07T15:26:00.905Z</updated>
+    <updated>2022-07-07T16:37:21.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[밸런스 게임]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.475Z</updated>
-        <content type="html"><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content>
+        <updated>2022-07-07T16:37:14.239Z</updated>
+        <content type="html"><![CDATA[쉽게 고를 수 없는 두 가지 상황을 제시하고, 뭐가 더 나은지 선택하는 게임. 용례: 카레맛 똥 VS 똥맛 카레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽀시래기]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.476Z</updated>
-        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
+        <updated>2022-07-07T16:37:14.240Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실트]]></title>
+        <title type="html"><![CDATA[껄무새]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.476Z</updated>
-        <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
+        <updated>2022-07-07T16:37:14.242Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무배]]></title>
+        <title type="html"><![CDATA[야민정음]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.477Z</updated>
-        <content type="html"><![CDATA[무료배송의 줄임말.]]></content>
+        <updated>2022-07-07T16:37:14.243Z</updated>
+        <content type="html"><![CDATA[야구 갤러리+훈민정음의 합성어. 디시인사이드 야구 갤러리에서 만든 드립으로 원래 글자를 모양이 비슷한 다른 글자로 대체해 표기하는 방식. (ex. 멍멍이 → 댕댕이)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레딧]]></title>
+        <title type="html"><![CDATA[언팔]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.479Z</updated>
-        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
+        <updated>2022-07-07T16:37:14.243Z</updated>
+        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-07T15:25:53.480Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-07-07T16:37:14.244Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
 </feed>
