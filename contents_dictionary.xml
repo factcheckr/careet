@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-08T17:31:32.426Z</updated>
+    <updated>2022-07-08T18:28:10.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[오픈런]]></title>
+        <title type="html"><![CDATA[릴스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.053Z</updated>
-        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
+        <updated>2022-07-08T18:28:01.409Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 2021년 출시한 숏폼 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
+        <title type="html"><![CDATA[스킨스병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.056Z</updated>
-        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
+        <updated>2022-07-08T18:28:01.410Z</updated>
+        <content type="html"><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[눈팅]]></title>
+        <title type="html"><![CDATA[긱잡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.056Z</updated>
-        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
+        <updated>2022-07-08T18:28:01.412Z</updated>
+        <content type="html"><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K 패치]]></title>
+        <title type="html"><![CDATA[스꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.058Z</updated>
-        <content type="html"><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content>
+        <updated>2022-07-08T18:28:01.414Z</updated>
+        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인친]]></title>
+        <title type="html"><![CDATA[팔이피플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.059Z</updated>
-        <content type="html"><![CDATA[인스타그램 친구의 줄임말.]]></content>
+        <updated>2022-07-08T18:28:01.416Z</updated>
+        <content type="html"><![CDATA[팔이+people의 합성어로, SNS나 쇼핑몰에서 물건을 판매하는 사람들을 지칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[콜렉트북]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-08T17:31:24.060Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-07-08T18:28:01.419Z</updated>
+        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
     </entry>
 </feed>
