@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-16T07:20:10.219Z</updated>
+    <updated>2022-07-16T08:26:47.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[떡상]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.737Z</updated>
-        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
+        <updated>2022-07-16T08:26:38.444Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼컬]]></title>
+        <title type="html"><![CDATA[밥약]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.738Z</updated>
-        <content type="html"><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content>
+        <updated>2022-07-16T08:26:38.445Z</updated>
+        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[뉴짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.739Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-07-16T08:26:38.446Z</updated>
+        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈쿡]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.740Z</updated>
-        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
+        <updated>2022-07-16T08:26:38.448Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팔이피플]]></title>
+        <title type="html"><![CDATA[하지만꽃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.741Z</updated>
-        <content type="html"><![CDATA[팔이+people의 합성어로, SNS나 쇼핑몰에서 물건을 판매하는 사람들을 지칭하는 말.]]></content>
+        <updated>2022-07-16T08:26:38.450Z</updated>
+        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광공]]></title>
+        <title type="html"><![CDATA[파츠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-16T07:20:01.742Z</updated>
-        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
+        <updated>2022-07-16T08:26:38.452Z</updated>
+        <content type="html"><![CDATA[각종 액세서리 부자재를 일컫는 말. Z세대는 보통 아이돌 포토 카드를 꾸밀 때 파츠를 활용함.]]></content>
     </entry>
 </feed>
