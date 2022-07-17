@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-17T08:25:32.672Z</updated>
+    <updated>2022-07-17T09:21:29.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[비건]]></title>
+        <title type="html"><![CDATA[최애]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.532Z</updated>
-        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
+        <updated>2022-07-17T09:21:20.122Z</updated>
+        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연반인]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.533Z</updated>
-        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
+        <updated>2022-07-17T09:21:20.123Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿠키]]></title>
+        <title type="html"><![CDATA[실사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.534Z</updated>
-        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
+        <updated>2022-07-17T09:21:20.124Z</updated>
+        <content type="html"><![CDATA[실세 사진의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힙(hip)]]></title>
+        <title type="html"><![CDATA[도아너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.535Z</updated>
-        <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. '힙하다', '힙한 OO'로 쓰임. (유사어: 트렌디하다)]]></content>
+        <updated>2022-07-17T09:21:20.125Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세포마켓]]></title>
+        <title type="html"><![CDATA[틱톡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.536Z</updated>
-        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
+        <updated>2022-07-17T09:21:20.127Z</updated>
+        <content type="html"><![CDATA[바이트댄스에서 2016년 출시한 숏폼 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플래그]]></title>
+        <title type="html"><![CDATA[셧다운제]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-17T08:25:25.537Z</updated>
-        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
+        <updated>2022-07-17T09:21:20.128Z</updated>
+        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
     </entry>
 </feed>
