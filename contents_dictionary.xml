@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-19T17:34:41.477Z</updated>
+    <updated>2022-07-19T18:30:35.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[손민수]]></title>
+        <title type="html"><![CDATA[돈쭐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.584Z</updated>
-        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
+        <updated>2022-07-19T18:30:26.520Z</updated>
+        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버블]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.585Z</updated>
-        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
+        <updated>2022-07-19T18:30:26.521Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쩝쩝박사]]></title>
+        <title type="html"><![CDATA[블친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.586Z</updated>
-        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
+        <updated>2022-07-19T18:30:26.522Z</updated>
+        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.589Z</updated>
-        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
+        <updated>2022-07-19T18:30:26.523Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀레니얼]]></title>
+        <title type="html"><![CDATA[디깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.589Z</updated>
-        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
+        <updated>2022-07-19T18:30:26.524Z</updated>
+        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[단호박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-19T17:34:32.591Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2022-07-19T18:30:26.525Z</updated>
+        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
     </entry>
 </feed>
