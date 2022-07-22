@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-22T15:24:54.536Z</updated>
+    <updated>2022-07-22T16:36:00.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[팅글]]></title>
+        <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.513Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2022-07-22T16:35:52.171Z</updated>
+        <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밖순이]]></title>
+        <title type="html"><![CDATA[포카 슬리브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.514Z</updated>
-        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
+        <updated>2022-07-22T16:35:52.172Z</updated>
+        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라라러브송]]></title>
+        <title type="html"><![CDATA[드볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.516Z</updated>
-        <content type="html"><![CDATA[일본인 가수 ‘쿠보타 토시노부’의 ‘La La La Love Song’. 시티팝 특유의 감성이 그대로 녹아 있는 유명곡 중 하나로 국내에서 많은 아티스트가 커버함]]></content>
+        <updated>2022-07-22T16:35:52.175Z</updated>
+        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[갑분싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.519Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-07-22T16:35:52.175Z</updated>
+        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽐뿌]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.522Z</updated>
-        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
+        <updated>2022-07-22T16:35:52.179Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-22T15:24:45.524Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2022-07-22T16:35:52.180Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
 </feed>
