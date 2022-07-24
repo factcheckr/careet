@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-24T12:39:38.920Z</updated>
+    <updated>2022-07-24T13:34:24.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[얼빡]]></title>
+        <title type="html"><![CDATA[캐해석]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.234Z</updated>
-        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
+        <updated>2022-07-24T13:34:16.836Z</updated>
+        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.236Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2022-07-24T13:34:16.838Z</updated>
+        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머블]]></title>
+        <title type="html"><![CDATA[홈마]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.240Z</updated>
-        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
+        <updated>2022-07-24T13:34:16.838Z</updated>
+        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼컬]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.243Z</updated>
-        <content type="html"><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content>
+        <updated>2022-07-24T13:34:16.838Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동슈501]]></title>
+        <title type="html"><![CDATA[잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.245Z</updated>
-        <content type="html"><![CDATA[2000년대 중후반, 당시 최고 인기 아이돌이었던 동방신기, 슈퍼주니어, SS501을 합쳐 부르는 말.]]></content>
+        <updated>2022-07-24T13:34:16.839Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[생정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-24T12:39:29.246Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2022-07-24T13:34:16.840Z</updated>
+        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
     </entry>
 </feed>
