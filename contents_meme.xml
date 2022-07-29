@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 유행어] ‘마침내’, ‘OO할 결심’? 영화 <헤어질 결심> 밈 8]]></title>
+            <link>https://www.careet.net/836</link>
+            <guid>https://www.careet.net/836</guid>
+            <pubDate>Fri, 29 Jul 2022 02:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 바닥글로 활용할 수 있는 ‘헤결 밈’ 8가지를 소개해 드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/1d1483ed-9d46-4070-a5e1-053a0b603603_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스!]]></title>
             <link>https://www.careet.net/811</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 04 Jun 2022 13:12:52 GMT</pubDate>
             <content:encoded><![CDATA[유튜브, 틱톡, 인스타, 트위터까지! 플랫폼 불문 패러디 양산 중인 최신 밈]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/15a2794e-a7c5-4bae-b2c0-28ea3e341cf7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 유행어 또 생겼어? 누구나 쉽게 응용 가능한 드립 3]]></title>
-            <link>https://www.careet.net/741</link>
-            <guid>https://www.careet.net/741</guid>
-            <pubDate>Fri, 06 May 2022 01:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[그치 아무래도 유행어는 자주 바뀌니까... 라고 할 뻔!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/13ff058c-e1c2-4ab6-8faf-3d0f26a3fb9d_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
