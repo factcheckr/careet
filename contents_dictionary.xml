@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-31T15:22:26.615Z</updated>
+    <updated>2022-07-31T16:28:59.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[그라폴리오]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.747Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2022-07-31T16:28:52.060Z</updated>
+        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스불재]]></title>
+        <title type="html"><![CDATA[굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.748Z</updated>
-        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
+        <updated>2022-07-31T16:28:52.062Z</updated>
+        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.752Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2022-07-31T16:28:52.065Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.753Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2022-07-31T16:28:52.066Z</updated>
+        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쓸디계]]></title>
+        <title type="html"><![CDATA[떼창]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.754Z</updated>
-        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
+        <updated>2022-07-31T16:28:52.067Z</updated>
+        <content type="html"><![CDATA[공연에서 관객들이 아티스트의 노래를 다 함께 따라 부르는 행위를 뜻함. 특히 우리나라는 떼창 문화 극도로 발전되어 있어, 외국 뮤지션들 사이에서도 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무물]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-31T15:22:18.755Z</updated>
-        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
+        <updated>2022-07-31T16:28:52.068Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
 </feed>
