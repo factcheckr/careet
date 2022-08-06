@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-06T20:22:42.373Z</updated>
+    <updated>2022-08-06T21:21:14.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[자캐]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.815Z</updated>
-        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
+        <updated>2022-08-06T21:21:07.153Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트수]]></title>
+        <title type="html"><![CDATA[맘찍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.815Z</updated>
-        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
+        <updated>2022-08-06T21:21:07.154Z</updated>
+        <content type="html"><![CDATA[마음(=하트 버튼)을 찍어둔다는 뜻. 트위터에서 남의 게시물에 공감을 표하거나, 그 게시물을 보관하고 싶을 때 사용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에듀테이너]]></title>
+        <title type="html"><![CDATA[시즈니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.815Z</updated>
-        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
+        <updated>2022-08-06T21:21:07.155Z</updated>
+        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽페]]></title>
+        <title type="html"><![CDATA[밥약]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.815Z</updated>
-        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2022-08-06T21:21:07.157Z</updated>
+        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반모]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.817Z</updated>
-        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
+        <updated>2022-08-06T21:21:07.158Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소확성]]></title>
+        <title type="html"><![CDATA[롤드컵]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-06T20:22:34.818Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2022-08-06T21:21:07.159Z</updated>
+        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
     </entry>
 </feed>
