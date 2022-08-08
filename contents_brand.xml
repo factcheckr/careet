@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 02:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 끗 다른 지역 행사 기획? 대박 터진 로컬 마케팅 2]]></title>
+            <link>https://www.careet.net/845</link>
+            <guid>https://www.careet.net/845</guid>
+            <pubDate>Mon, 08 Aug 2022 02:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅 전국 콘서트, 맥도날드가 칭찬 받고 있는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/691f545c-5831-4178-a5df-c8e93f5eb92d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대에게 입소문 난 최신 영상 광고 레퍼런스.ZIP]]></title>
             <link>https://www.careet.net/839</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Jun 2022 02:05:04 GMT</pubDate>
             <content:encoded><![CDATA[SNS에서 입소문 나는 캐릭터 마케팅 비결은?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/f6d737c4-2eb5-4479-b8fc-7f4cc38dfb87_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콜라보·ESG 마케팅, 뻔하지 않게 기획하는 법]]></title>
-            <link>https://www.careet.net/792</link>
-            <guid>https://www.careet.net/792</guid>
-            <pubDate>Mon, 20 Jun 2022 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 조회수 180만! Z세대가 “스묘든다”며 칭찬한 마케팅 사례는?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/f2fc609c-58f2-48be-8cec-fa494f3dd918_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
