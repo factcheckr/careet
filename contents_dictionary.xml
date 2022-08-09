@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-09T13:52:36.647Z</updated>
+    <updated>2022-08-09T14:23:58.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[긱 이코노미]]></title>
+        <title type="html"><![CDATA[로판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.926Z</updated>
-        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
+        <updated>2022-08-09T14:23:50.722Z</updated>
+        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관종]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.928Z</updated>
-        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
+        <updated>2022-08-09T14:23:50.723Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혜자]]></title>
+        <title type="html"><![CDATA[플로깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.928Z</updated>
-        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
+        <updated>2022-08-09T14:23:50.723Z</updated>
+        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서사]]></title>
+        <title type="html"><![CDATA[킹정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.930Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2022-08-09T14:23:50.725Z</updated>
+        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장비병]]></title>
+        <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.931Z</updated>
-        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
+        <updated>2022-08-09T14:23:50.726Z</updated>
+        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도무송]]></title>
+        <title type="html"><![CDATA[포카 슬리브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T13:52:28.932Z</updated>
-        <content type="html"><![CDATA[칼선이 들어가 모양대로 뗄 수 있는 스티커. 일반적으로 한 장에 스티커 하나씩 들어가 있는 형태가 많음.]]></content>
+        <updated>2022-08-09T14:23:50.727Z</updated>
+        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
     </entry>
 </feed>
