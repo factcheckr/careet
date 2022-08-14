@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-14T04:34:08.148Z</updated>
+    <updated>2022-08-14T05:21:07.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삼현슼엘]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.195Z</updated>
-        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
+        <updated>2022-08-14T05:20:59.391Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤메코]]></title>
+        <title type="html"><![CDATA[맛없없]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.196Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
+        <updated>2022-08-14T05:20:59.396Z</updated>
+        <content type="html"><![CDATA[‘맛 없을 수 없다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정권 지르기]]></title>
+        <title type="html"><![CDATA[읽페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.197Z</updated>
-        <content type="html"><![CDATA[Z세대에게 일종의 소취(소원성취)와 비슷한 의미로 쓰임. 휴재 중인 일본 만화 &lt;헌터x헌터&gt;의 연재 재개를 기원하는 유튜버가 매일 정권 지르기 천 번 라이브 방송을 한 데서 유래.]]></content>
+        <updated>2022-08-14T05:20:59.396Z</updated>
+        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[씽크빅]]></title>
+        <title type="html"><![CDATA[끌올]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.197Z</updated>
-        <content type="html"><![CDATA[학습지 이름 ‘씽크빅’에서 유래한 표현. 창의력이 뛰어난 대상을 칭찬할 때 쓰인다. “어릴 때 씽크빅 좀 했나 봐?”라는 문장에서 파생돼 “오, 씽크빅!”같은 감탄사로도 쓰임.]]></content>
+        <updated>2022-08-14T05:20:59.396Z</updated>
+        <content type="html"><![CDATA[이전에 있었던 일을 다시 끌어 올려 화제로 삼는 일을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실친]]></title>
+        <title type="html"><![CDATA[뇌이징]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.198Z</updated>
-        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
+        <updated>2022-08-14T05:20:59.396Z</updated>
+        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텍대]]></title>
+        <title type="html"><![CDATA[홈트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T04:34:01.199Z</updated>
-        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
+        <updated>2022-08-14T05:20:59.397Z</updated>
+        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
     </entry>
 </feed>
