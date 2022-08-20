@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-20T08:28:34.230Z</updated>
+    <updated>2022-08-20T09:21:42.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[망붕]]></title>
+        <title type="html"><![CDATA[입덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.178Z</updated>
-        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
+        <updated>2022-08-20T09:21:34.132Z</updated>
+        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.178Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2022-08-20T09:21:34.137Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드덕]]></title>
+        <title type="html"><![CDATA[웃수저]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.178Z</updated>
-        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
+        <updated>2022-08-20T09:21:34.139Z</updated>
+        <content type="html"><![CDATA[‘금수저’를 응용한 신조어로, 딱히 노력하지 않아도 주변 사람들에게 웃음을 주는 재능을 가진 사람을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛잘알]]></title>
+        <title type="html"><![CDATA[본캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.180Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
+        <updated>2022-08-20T09:21:34.140Z</updated>
+        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[맵부심]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.181Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2022-08-20T09:21:34.141Z</updated>
+        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-20T08:28:26.182Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2022-08-20T09:21:34.143Z</updated>
+        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
     </entry>
 </feed>
