@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결]]></title>
+            <link>https://www.careet.net/858</link>
+            <guid>https://www.careet.net/858</guid>
+            <pubDate>Mon, 22 Aug 2022 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[공식 앱부터 힙한 팝업스토어까지. Z세대의 시각으로 정리함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/882c6d27-a82f-4131-8a71-b2bb59eb4c88_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 끗 다른 지역 행사 기획? 대박 터진 로컬 마케팅 2]]></title>
             <link>https://www.careet.net/845</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 11 Jul 2022 02:04:56 GMT</pubDate>
             <content:encoded><![CDATA[브랜딩에 초점을 둔 팝업스토어 레퍼런스 두곳을 소개합니다.]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/564cd53c-9f50-4650-a97e-ab261a8ab890_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 고른 놓치면 안 되는 마케팅 레퍼런스: 토스 뱅크&카카오프렌즈]]></title>
-            <link>https://www.careet.net/801</link>
-            <guid>https://www.careet.net/801</guid>
-            <pubDate>Mon, 27 Jun 2022 02:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[SNS에서 입소문 나는 캐릭터 마케팅 비결은?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/f6d737c4-2eb5-4479-b8fc-7f4cc38dfb87_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
