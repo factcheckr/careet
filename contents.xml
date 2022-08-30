@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 02:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 04:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 SNS 계정도 주목하게 만드는 Z세대발 ‘강조 밈’ 3]]></title>
+            <link>https://www.careet.net/863</link>
+            <guid>https://www.careet.net/863</guid>
+            <pubDate>Tue, 30 Aug 2022 04:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[클릭하면 (여기서부터 중요함) 정퇴할 수 있음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/651da849-26ff-4d66-8c8c-d76c62720c9c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한 켤레에 10만 원짜리 양말이 인기? Z세대 양말 트렌드]]></title>
+            <link>https://www.careet.net/859</link>
+            <guid>https://www.careet.net/859</guid>
+            <pubDate>Tue, 30 Aug 2022 04:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[콜라보 굿즈 치트키=양말]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/a6d92325-48f6-4b39-b0d7-05219893c89e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공공기관 일 잘하네! 온·오프라인 마케팅 최신 사례 6]]></title>
             <link>https://www.careet.net/862</link>
@@ -38,6 +54,14 @@
             <pubDate>Thu, 25 Aug 2022 02:21:33 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 소비 트렌드 또 바뀌었대요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/a4e248b9-a98c-414a-b94e-396512b6b836_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 직업군이 등장한다! 상상도 못 한 Z세대 크리에이터 종류 5]]></title>
+            <link>https://www.careet.net/860</link>
+            <guid>https://www.careet.net/860</guid>
+            <pubDate>Tue, 30 Aug 2022 04:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[릴스 숏츠에 활용되는 음원, Z세대 크리에이터가 만든 거라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/09d48c22-e88b-44a6-81ad-dc495f4845f5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MZ세대에게 먹히는 새로운 마케팅 키워드 ‘로컬’]]></title>
