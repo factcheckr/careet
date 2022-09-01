@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-09-01T21:21:23.730Z</updated>
+    <updated>2022-09-01T22:22:32.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[9억짜리 백남준 작품 당근마켓 판매 ‘파격 실험’]]></title>
-        <id>https://www.asiae.co.kr/article/2022082909065645615</id>
-        <link href="https://www.asiae.co.kr/article/2022082909065645615"/>
-        <updated>2022-09-01T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[트위터, 일부 친구에게만 게시물 공유 가능한 ‘서클’ 기능 도입]]></title>
+        <id>https://biz.chosun.com/it-science/ict/2022/08/31/HN7CNISF5JH35GYEJUQQHPRUNQ/</id>
+        <link href="https://biz.chosun.com/it-science/ict/2022/08/31/HN7CNISF5JH35GYEJUQQHPRUNQ/"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>갤러리신라 서울의 이준엽 디렉터는 중고거래 플랫폼 당근마켓에 고(故) 백남준 작가의 미술작품 &lt;문학은 책이 아니다(Literature is not Book)&gt; 판매 글을 올렸습니다. 희망 판매 금액은 9억 원이었는데요. 놀랍게도 해당 작품은 진품이었다고 해요. 이준엽 디렉터는 미술품 작가와 구매자가 갤러리를 거치지 않고 1:1로 거래하는 방식을 고민하다 당근마켓에 직접 작품을 올린 것이라고 합니다.<br><br><strong>✅눈여겨볼 포인트</strong><br>-중고거래 플랫폼이 고가의 미술품을 직거래 하는 방식으로 활용될 수 있다는 점</div>
+                                                <div>트위터가 지난 5월부터 일부 가입자를 대상으로 시범 운영하던 ‘서클’ 기능을 세계 동시 출시했습니다. 서클은 사용자가 게시글 공유 대상을 직접 고를 수 있도록 만든 서비스인데요. 최대 150명까지 서클 목록에 추가할 수 있다고 합니다. 서클에 공유한 트윗은 게시글 하단에 초록색 배지가 나타나며 리트윗(공유) 등의 기능은 제한됩니다.&nbsp;</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- 게시물을 설정한 사람만 볼 수 있게 하는 인스타그램 ‘친한 친구’ 기능과 비슷한 서비스가 트위터에도 도입된 것으로 볼 수 있음.&nbsp;</div><div>- 서클 기능 도입된 이후, <a href="https://twitter.com/search?q=서클&amp;src=typed_query&amp;f=top" rel="noopener noreferrer" target="_blank"><strong><u>해당 기능을 활용하는 Z세대</u></strong></a>의 모습을 쉽게 볼 수 있음.</div>
                                             </span>
-                                                <a href="https://www.asiae.co.kr/article/2022082909065645615" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://biz.chosun.com/it-science/ict/2022/08/31/HN7CNISF5JH35GYEJUQQHPRUNQ/" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
