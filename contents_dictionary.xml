@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-06T11:21:06.980Z</updated>
+    <updated>2022-09-06T12:49:44.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.238Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-09-06T12:49:36.305Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불판]]></title>
+        <title type="html"><![CDATA[솜뭉치]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.240Z</updated>
-        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
+        <updated>2022-09-06T12:49:36.306Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트롤]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.241Z</updated>
-        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
+        <updated>2022-09-06T12:49:36.307Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[뇌이징]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.246Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2022-09-06T12:49:36.313Z</updated>
+        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[롤드컵]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.248Z</updated>
-        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
+        <updated>2022-09-06T12:49:36.313Z</updated>
+        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <title type="html"><![CDATA[알파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-06T11:20:59.249Z</updated>
-        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
+        <updated>2022-09-06T12:49:36.313Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
     </entry>
 </feed>
