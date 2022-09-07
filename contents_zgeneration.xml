@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 02:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고?]]></title>
+            <link>https://www.careet.net/873</link>
+            <guid>https://www.careet.net/873</guid>
+            <pubDate>Wed, 07 Sep 2022 02:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
             <link>https://www.careet.net/866</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 06 Sep 2022 10:26:45 GMT</pubDate>
             <content:encoded><![CDATA[리뷰 한 줄에도 저작권 적용하는 Z세대 근황]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/996a3eff-2940-4173-831c-77bbcf757f8a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“얼굴 공개합니다” 신상 공개 공약으로 팔로워 늘리는 Z세대]]></title>
-            <link>https://www.careet.net/823</link>
-            <guid>https://www.careet.net/823</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 10대는 SNS에서 이렇게 유대 관계를 쌓아가고 있습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/937d3920-f8f8-4690-a621-13853539906a_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
