@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-07T09:24:45.799Z</updated>
+    <updated>2022-09-07T10:28:15.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[미슐랭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.161Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2022-09-07T10:28:08.026Z</updated>
+        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쫌쫌따리]]></title>
+        <title type="html"><![CDATA[무물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.162Z</updated>
-        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+        <updated>2022-09-07T10:28:08.027Z</updated>
+        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[라떼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.164Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2022-09-07T10:28:08.028Z</updated>
+        <content type="html"><![CDATA[기성세대가 입 버릇처럼 말하는 “나 때는 말이야~”를 풍자하는 표현으로 “라떼는 말이야”가 탄생함. 즉, 라떼는 기성세대를 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직찍]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-09-07T10:28:08.029Z</updated>
+        <content type="html"><![CDATA[(공식적으로 촬영된 것이 아닌) 팬이 직접 찍은 사진.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답정너]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-09-07T10:28:08.031Z</updated>
+        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내적 친밀감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.167Z</updated>
+        <updated>2022-09-07T10:28:08.032Z</updated>
         <content type="html"><![CDATA[실제로 알지는 못하지만 온라인 상에서 자주 소식을 접해서 내적으로 친밀감이 쌓였다는 뜻.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈런]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.170Z</updated>
-        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도른자]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-07T09:24:37.173Z</updated>
-        <content type="html"><![CDATA['돌은 자'를 소리나는 대로 발음한 것. 진짜 웃기다는 뜻의 신조어.]]></content>
     </entry>
 </feed>
