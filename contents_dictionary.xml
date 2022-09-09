@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-09T09:26:05.827Z</updated>
+    <updated>2022-09-09T10:28:10.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[관종]]></title>
+        <title type="html"><![CDATA[눈팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.609Z</updated>
-        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
+        <updated>2022-09-09T10:28:01.646Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스스]]></title>
+        <title type="html"><![CDATA[스밍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.610Z</updated>
-        <content type="html"><![CDATA[‘인스타그램 스토리’를 줄여 부르는 말.]]></content>
+        <updated>2022-09-09T10:28:01.647Z</updated>
+        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[킬포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.613Z</updated>
-        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
+        <updated>2022-09-09T10:28:01.649Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[TMT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.613Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2022-09-09T10:28:01.651Z</updated>
+        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.614Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2022-09-09T10:28:01.655Z</updated>
+        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맘찍]]></title>
+        <title type="html"><![CDATA[자만추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T09:25:57.615Z</updated>
-        <content type="html"><![CDATA[마음(=하트 버튼)을 찍어둔다는 뜻. 트위터에서 남의 게시물에 공감을 표하거나, 그 게시물을 보관하고 싶을 때 사용하는 기능.]]></content>
+        <updated>2022-09-09T10:28:01.657Z</updated>
+        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
     </entry>
 </feed>
