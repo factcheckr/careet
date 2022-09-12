@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-12T20:27:33.908Z</updated>
+    <updated>2022-09-12T21:23:15.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[키자니아]]></title>
+        <title type="html"><![CDATA[소취]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.443Z</updated>
-        <content type="html"><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content>
+        <updated>2022-09-12T21:23:07.631Z</updated>
+        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쩝쩝박사]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.445Z</updated>
-        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
+        <updated>2022-09-12T21:23:07.633Z</updated>
+        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[폴꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.446Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2022-09-12T21:23:07.634Z</updated>
+        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[팬튜브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.447Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2022-09-12T21:23:07.635Z</updated>
+        <content type="html"><![CDATA[팬이 운영하는 유튜브 계정. 특정 아이돌이나 배우가 출연한 콘텐츠를 2차 가공한 영상을 업로드함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언어 감수성]]></title>
+        <title type="html"><![CDATA[먹시태그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.452Z</updated>
-        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
+        <updated>2022-09-12T21:23:07.636Z</updated>
+        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[래플]]></title>
+        <title type="html"><![CDATA[뽀시래기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-12T20:27:24.453Z</updated>
-        <content type="html"><![CDATA[당첨자에게 한정판 상품을 구매할 권리를 주는 판매 방식. 이 방식을 활용하는 브랜드로는 대표적으로 나이키가 있음.]]></content>
+        <updated>2022-09-12T21:23:07.637Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
     </entry>
 </feed>
