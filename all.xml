@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 21:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 22:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,62 +456,70 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/dae5f569-331d-4bcc-98c0-ee8424e4d917_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[공과금, 학원비도 당근페이로? 당근마켓 ‘계좌 송금 서비스’ 선보여 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>http://m.ddaily.co.kr/m/m_article/?no=246260</link>
-            <guid>http://m.ddaily.co.kr/m/m_article/?no=246260</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[MZ세대 “골프보다 테니스”…액티비티 판매량 151% 급증 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://www.hankyung.com/life/article/202209148123i</link>
+            <guid>https://www.hankyung.com/life/article/202209148123i</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>당근마켓을 통해 공과금, 학원비, 관리비 등을 송금하는 것이 가능해졌습니다. 당근마켓이 지난 8일, 지역 기반 간편결제 서비스 ‘당근페이’에 계좌송금 기능을 선보인 겁니다.&nbsp;</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- 중고거래로 쌓인 ‘당근머니'를 다양하게 활용할 수 있도록 함. 당근마켓 측은 당근페이가 지역 연결 활성화를 돕는 필수 금융 서비스가 될 것으로 내다보고 있음.</div><div>- 네이버, 배민, SSG 등 자체 간편결제 시스템을 도입하는 기업들이 점점 늘고 있음. 이를 통해 충성 고객을 확보하려는 움직임으로 보임. </div><div><br></div>
+                                                <div>취미 여가 플랫폼 프립(전체 유저 90%가 2030세대)이 조사한 상반기 액티비티 트렌드에 따르면, 테니스 관련 액티비티 판매량이 지난해 동기 대비 151% 증가했습니다. 옥션이 발표한 2030세대 스포츠레저 소비 트렌드 조사에 따르면 올해 2분기 테니스용품 판매량도 210% 증가했고요.</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- 골프에 이어 테니스가 MZ세대의 이색 취미 스포츠로 자리 잡음.</div><div>- 프립은 10월 8일 아마추어 테니스 대회를 개최할 예정.</div><div><br></div><div>🔗 <strong>함께 보면 좋은 콘텐츠</strong>: <a href="https://www.careet.net/676" rel="noopener noreferrer" target="_blank"><u>등산, 골프에 이어 테니스까지 배우는 Z세대 근황</u></a></div>
                                             </span>
-                                                <a href="http://m.ddaily.co.kr/m/m_article/?no=246260" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://www.hankyung.com/life/article/202209148123i" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[프롬 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[가상 데스크톱 서비스 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퍼컬 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[Z세대 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[1996년 이후 출생~2000년대 중후반 출생자.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마스킹 테이프 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[버실 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알못 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[언택트 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[움짤 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[덕메 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손민수 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[데스크테리어 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content:encoded>
+            <pubDate>Wed, 14 Sep 2022 22:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연휴 끝! 회의 준비는 캐릿이 해놨어요 (캐릿 ─ Trend letter)]]></title>
+            <link>https://factcheckr.github.io/careet/all.xml</link>
+            <guid>https://factcheckr.github.io/careet/all.xml</guid>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[vol.124]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/f712ce0e-d12a-4eb6-95b3-38a5fbc88625_300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(광고) 신발 가격으로 양말 사는 Z세대 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.123]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/7fa1eb37-17a5-46c4-828e-9dc4c8ef6427_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -519,7 +527,7 @@
             <title><![CDATA[신분당, 대구 티셔츠가 품절템? 로컬 브랜드가 뜨는 이유 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.122]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/336232fe-a458-4245-8fd9-dfec7db565d3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -527,7 +535,7 @@
             <title><![CDATA[(광고) 숏폼 콘텐츠로 대박 난 브랜드가 정말 있나요? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.121]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/e93eb7f1-a90d-4e8a-b6dc-f23ae2087e1d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +543,7 @@
             <title><![CDATA[오뱅알은 무엇의 줄임말일까요? 맞히면...더보기 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.120]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/9de1a08e-b754-4ee9-9e25-14d9796d61f8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -543,7 +551,7 @@
             <title><![CDATA[(광고) Z세대 마음의 벽 부순 마케팅 사례.zip (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.119]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/0b2e35fb-f8af-48fe-931c-ff708172287d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -551,7 +559,7 @@
             <title><![CDATA[넥스트 성수동, 삼각지는 왜 뜰까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.118]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/cd7f4940-f193-49c8-8b41-6834c43a638c_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -559,7 +567,7 @@
             <title><![CDATA[(광고) 공들인 브랜딩 한순간에 무너뜨리는 단어 20 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.117]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202207/3205ff54-6604-4a05-8b62-8bb44ee912cf_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -567,7 +575,7 @@
             <title><![CDATA[요즘은 퍼스널 컬러 말고 퍼스널 헬스케어한다면서요? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.116]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202207/cd233df0-fed8-4450-af30-64c661561746_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -575,7 +583,7 @@
             <title><![CDATA[(광고) 요즘 10대들은 대체 어떤 커뮤니티를 눈팅하나요? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.115]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202207/92f992d8-e37c-454e-ba01-02e1ef5e37a1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -583,7 +591,7 @@
             <title><![CDATA[🏆2022 상반기 결산 어워즈: 브랜드 마케팅 A+ 사례 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol. 114]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202207/698fb86d-d5d6-41da-8c46-d6c993e48355_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -591,17 +599,9 @@
             <title><![CDATA[(광고) 사진이 곧 정체성, ‘포토프레스 세대’를 아시나요? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 22:25:51 GMT</pubDate>
             <content:encoded><![CDATA[vol.113]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202206/89a065c3-521a-4589-8db8-da85320bbfc7_300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥕 아직도 홍보 부스에서 샘플만 나눠 주시나요? (캐릿 ─ Trend letter)]]></title>
-            <link>https://factcheckr.github.io/careet/all.xml</link>
-            <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 21:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[vol.112]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202206/5d5602ee-52bd-483d-b82e-cb738990ec30_300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
