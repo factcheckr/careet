@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-19T17:39:23.092Z</updated>
+    <updated>2022-09-19T18:33:36.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[상플]]></title>
+        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.571Z</updated>
-        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
+        <updated>2022-09-19T18:33:28.508Z</updated>
+        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파티원]]></title>
+        <title type="html"><![CDATA[알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.572Z</updated>
-        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
+        <updated>2022-09-19T18:33:28.512Z</updated>
+        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐후기]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.573Z</updated>
-        <content type="html"><![CDATA[MZ세대가 정말 믿을 만하다고 평가하는 ‘진짜 후기’를 일컫는 말.]]></content>
+        <updated>2022-09-19T18:33:28.513Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랩핑지]]></title>
+        <title type="html"><![CDATA[레게노]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.575Z</updated>
-        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
+        <updated>2022-09-19T18:33:28.515Z</updated>
+        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현활]]></title>
+        <title type="html"><![CDATA[로판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.576Z</updated>
-        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
+        <updated>2022-09-19T18:33:28.516Z</updated>
+        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T17:39:14.578Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2022-09-19T18:33:28.517Z</updated>
+        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
     </entry>
 </feed>
