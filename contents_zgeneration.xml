@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 02:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛집 검색을 틱톡으로? 밀레니얼은 모르는 디지털 대세 기능]]></title>
+            <link>https://www.careet.net/883</link>
+            <guid>https://www.careet.net/883</guid>
+            <pubDate>Tue, 20 Sep 2022 02:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 스마트렌즈로 번역·핫플 검색·후기 검색 한다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/e07f2d89-c1cf-454e-88f0-f943141ccde3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고?]]></title>
             <link>https://www.careet.net/873</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 06 Sep 2022 10:26:45 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 자퇴하는 이유 = 개인 사업?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/3eeb1576-6f55-4200-ac1d-31be76fdf62b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대의 저작권 기준은 저작권 협회보다 깐깐합니다]]></title>
-            <link>https://www.careet.net/826</link>
-            <guid>https://www.careet.net/826</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[리뷰 한 줄에도 저작권 적용하는 Z세대 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/996a3eff-2940-4173-831c-77bbcf757f8a_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
