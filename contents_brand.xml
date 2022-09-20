@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:35:21 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이거 찾으셨죠? 한글날 마케팅 레퍼런스 모음]]></title>
-            <link>https://www.careet.net/880</link>
-            <guid>https://www.careet.net/880</guid>
-            <pubDate>Mon, 19 Sep 2022 02:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[한글날 발빠르게 챙기는 브랜드가 있다?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/79746c94-2840-4094-9d81-9ea3fcd05224_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공공기관 일 잘하네! 온·오프라인 마케팅 최신 사례 6]]></title>
-            <link>https://www.careet.net/862</link>
-            <guid>https://www.careet.net/862</guid>
-            <pubDate>Wed, 07 Sep 2022 13:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[포돌이 커피차, 씨낵 캠페인은 왜 화제인 걸까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/2146874a-874b-4ff5-bf5a-a45d8bc95d4a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결]]></title>
-            <link>https://www.careet.net/858</link>
-            <guid>https://www.careet.net/858</guid>
-            <pubDate>Wed, 07 Sep 2022 13:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[공식 앱부터 힙한 팝업스토어까지. Z세대의 시각으로 정리함]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/882c6d27-a82f-4131-8a71-b2bb59eb4c88_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 끗 다른 지역 행사 기획? 대박 터진 로컬 마케팅 2]]></title>
-            <link>https://www.careet.net/845</link>
-            <guid>https://www.careet.net/845</guid>
-            <pubDate>Wed, 07 Sep 2022 13:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅 전국 콘서트, 맥도날드가 칭찬 받고 있는 이유]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/691f545c-5831-4178-a5df-c8e93f5eb92d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대에게 입소문 난 최신 영상 광고 레퍼런스.ZIP]]></title>
-            <link>https://www.careet.net/839</link>
-            <guid>https://www.careet.net/839</guid>
-            <pubDate>Wed, 07 Sep 2022 13:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[조회 수 100만에 빛나는 광고들, 싹 다 모아서 보여드립니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG U+ 캐릭터 홈페이지에 15만 명이 가입한 이유!]]></title>
-            <link>https://www.careet.net/829</link>
-            <guid>https://www.careet.net/829</guid>
-            <pubDate>Wed, 07 Sep 2022 13:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[이주의 일 잘한 브랜드: LG U+, 랜덤 다이버시티]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/0f285162-3a3e-4ce8-81f2-b9cb03808383_770x426.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.careet.net/Content/Series/3</id>
+    <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
+    <updated>2022-09-20T17:31:50.666Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.careet.net/content/images/favicon.ico</icon>
+</feed>
