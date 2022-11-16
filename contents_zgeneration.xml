@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.careet.net/Content/Series/2</id>
-    <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2022-11-16T16:38:07.167Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/content/images/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ Z세대 최신 근황</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:29:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔에서 운동만 하고 나온다고? 반캉스 즐기는 Z세대 근황]]></title>
+            <link>https://www.careet.net/899</link>
+            <guid>https://www.careet.net/899</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 호캉스 트렌드 5]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/2b5178d2-98c3-426a-8999-c1e85d9b23d7_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이 영상 왜 떡상한 거야? 9월 인급동으로 보는 Z세대 트렌드]]></title>
+            <link>https://www.careet.net/884</link>
+            <guid>https://www.careet.net/884</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[인급동 대신 모니터링 해드립니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/575ec8da-466d-4362-b750-80751a739e18_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대식가 먹방의 시대는 갔다? ‘소식(小食) 트렌드’가 뜨는 이유]]></title>
+            <link>https://www.careet.net/876</link>
+            <guid>https://www.careet.net/876</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[소식좌가 떡상한 흐름부터 Z세대 소식좌가 찾는 제품까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/6591f74a-73ab-49fb-be72-82f253f54bfd_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[맛집 검색을 틱톡으로? 밀레니얼은 모르는 디지털 대세 기능]]></title>
+            <link>https://www.careet.net/883</link>
+            <guid>https://www.careet.net/883</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 스마트렌즈로 번역·핫플 검색·후기 검색 한다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/e07f2d89-c1cf-454e-88f0-f943141ccde3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고?]]></title>
+            <link>https://www.careet.net/873</link>
+            <guid>https://www.careet.net/873</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
+            <link>https://www.careet.net/866</link>
+            <guid>https://www.careet.net/866</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대는 자신만을 위한 커스텀 굿즈 하나씩은 다 갖고 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/015d77cb-7305-441b-9ca0-6b68d826edfa_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

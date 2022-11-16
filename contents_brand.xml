@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.careet.net/Content/Series/3</id>
-    <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2022-11-16T16:38:07.163Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/content/images/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:29:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이 브랜드 상 주세요!’ ESG 기념일 잘 챙겨서 칭찬 받고 있는 브랜드 4]]></title>
+            <link>https://www.careet.net/933</link>
+            <guid>https://www.careet.net/933</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[세계 식량의 날, 점자의 날 챙기는 브랜드가 있다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/91e8cd97-4374-4e88-ace0-ef794a267218_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1020 유입시키는 마케팅 비결? ‘프로 스포츠팀’ 이벤트를 보면 답이 있다!]]></title>
+            <link>https://www.careet.net/928</link>
+            <guid>https://www.careet.net/928</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[고인물 팬들도 감동했다는 Z세대 감각 프로모션 사례 2]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/03f2a4a7-d69f-453d-a3fd-4c43d5b47459_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 시선을 멈추게 만든 ‘극한의 콘셉트’ 마케팅 사례 3]]></title>
+            <link>https://www.careet.net/914</link>
+            <guid>https://www.careet.net/914</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘홍보 천재 같다’, ‘이게 다 빌드업이었다니 소름이다’ 칭찬 받은 사례는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/4f653191-753f-449f-a651-7ed3e9d55642_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[광고 모델 섭외 잘해서 조회 수 100만? Z세대 사이에서 떡상한 영상 광고 3]]></title>
+            <link>https://www.careet.net/903</link>
+            <guid>https://www.careet.net/903</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[최신 유튜브 광고 레퍼런스 보고 가세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/66cb6072-5b9c-4612-b8f2-72ab9f8862a4_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어떻게 하면 젊은 브랜드가 될 수 있을까? ‘리브랜딩’ 레퍼런스 2]]></title>
+            <link>https://www.careet.net/888</link>
+            <guid>https://www.careet.net/888</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘엄마 화장품’으로 통하던 설화수가 Z세대 사이에서 인지도 높인 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/c4f8ec58-70af-4441-ab3b-67033d0d8377_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 찾으셨죠? 한글날 마케팅 레퍼런스 모음]]></title>
+            <link>https://www.careet.net/880</link>
+            <guid>https://www.careet.net/880</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[한글날 발빠르게 챙기는 브랜드가 있다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/79746c94-2840-4094-9d81-9ea3fcd05224_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

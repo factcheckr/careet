@@ -2,7 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-11-16T16:38:07.165Z</updated>
+    <updated>2022-11-16T17:29:02.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“점심으로 김밥 3알”…‘소식좌’ 열풍에 유통업계 소용량 제품 출시]]></title>
+        <id>https://www.seoul.co.kr/news/newsView.php?id=20221112500051</id>
+        <link href="https://www.seoul.co.kr/news/newsView.php?id=20221112500051"/>
+        <updated>2022-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="pb30">
+                                                최근 적은 양의 식사를 천천히 즐기는 ‘소식(小食)’ 트렌드로 떠올랐습니다. 덩달아 유통업계도 입이 짧은 ‘소식좌’를 겨냥한 마케팅을 선보이고 있어요. ‘GS25’는 기존 도시락 메뉴 중량의 절반 이하인 컵밥 제품, ‘쁘띠컵밥’을 출시했고요. ‘요기요’는 ‘피자헛’과 협업해 피자헛 1인분 브랜드를 선보였습니다. 아이스크림 브랜드 ‘나뚜루’는 기존 아이스크림 케이크 크기를 부담스러워하는 소비자를 위해 직경 7~8cm 크기의 미니 아이스크림 케이크 ‘글라세 타르트 케이크’를 출시했어요.<br><br><strong>🔎함께 보면 좋을 콘텐츠</strong><br><a href="https://www.careet.net/876" rel="noopener noreferrer" target="_blank">대식가 먹방의 시대는 갔다? ‘소식(小食) 트렌드’가 뜨는 이유</a><br><br>
+                                            </span>
+                                                <a href="https://www.seoul.co.kr/news/newsView.php?id=20221112500051" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+    </entry>
 </feed>
