@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대에게 먹히는 키워드? K-POP 가사에 답이 있다!]]></title>
+            <link>https://www.careet.net/937</link>
+            <guid>https://www.careet.net/937</guid>
+            <pubDate>Thu, 17 Nov 2022 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/e5b43054-c35f-4778-80e7-d15f89c19414_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[호텔에서 운동만 하고 나온다고? 반캉스 즐기는 Z세대 근황]]></title>
             <link>https://www.careet.net/899</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
             <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
-            <link>https://www.careet.net/866</link>
-            <guid>https://www.careet.net/866</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 Z세대는 자신만을 위한 커스텀 굿즈 하나씩은 다 갖고 있다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/015d77cb-7305-441b-9ca0-6b68d826edfa_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

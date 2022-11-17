@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/8f769d15-c90b-4933-a78b-37489aa0d1e5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Z세대에게 먹히는 키워드? K-POP 가사에 답이 있다! (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
+            <link>https://www.careet.net/937</link>
+            <guid>https://www.careet.net/937</guid>
+            <pubDate>Thu, 17 Nov 2022 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/e5b43054-c35f-4778-80e7-d15f89c19414_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[호텔에서 운동만 하고 나온다고? 반캉스 즐기는 Z세대 근황 (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
             <link>https://www.careet.net/899</link>
             <guid>https://www.careet.net/899</guid>
@@ -334,14 +342,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
             <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야? (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
-            <link>https://www.careet.net/866</link>
-            <guid>https://www.careet.net/866</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 Z세대는 자신만을 위한 커스텀 굿즈 하나씩은 다 갖고 있다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/015d77cb-7305-441b-9ca0-6b68d826edfa_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘이 브랜드 상 주세요!’ ESG 기념일 잘 챙겨서 칭찬 받고 있는 브랜드 4 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
@@ -397,57 +397,57 @@
             <guid>https://www.sedaily.com/NewsView/26DMVL91M5</guid>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>CJ올리브네트웍스가 자체 개발한 인공지능 시작(詩作) 시스템 ‘Oi Writer’를 활용해 시인들이 집필한 시집 &lt;9+i&gt;가 출간됐습니다. &lt;9+i&gt;에는 이 기술을 활용해 시인 9명이 창작한 시 45편 등이 수록되어 있습니다.&nbsp;</div><div><br></div><div><strong>✅ 눈여겨볼 포인트&nbsp;</strong></div><div>- <span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Oi Writer는 시를 포함한 3만여 편의 다양한 장르의 작품을 학습한 AI 시 제너레이터(AI Poem Generator) 기술로 알려짐.&nbsp;</span></div><div><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">- CJ올리브네트웍스는 가상 인간이 시집에 수록된 시를 읽어주는 오디오북 20편을 다음 달 공식 유튜브 채널을 통해 공개할 예정이라고 함.&nbsp;</span></div><div><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">- AI, 가상 인간 기술이 점점 성과를 거두면서 다양한 종류의 이벤트가 진행되는 추세.&nbsp;</span></div><div><br></div>
+                                                <div>CJ올리브네트웍스가 자체 개발한 인공지능 시작(詩作) 시스템 ‘Oi Writer’를 활용해 시인들이 집필한 시집 &lt;9+i&gt;가 출간됐습니다. &lt;9+i&gt;에는 이 기술을 활용해 시인 9명이 창작한 시 45편 등이 수록되어 있습니다.&nbsp;</div><div><br></div><div><strong>✅ 눈여겨볼 포인트&nbsp;</strong></div><div>- Oi Writer는 시를 포함한 3만여 편의 다양한 장르의 작품을 학습한 AI 시 제너레이터(AI Poem Generator) 기술로 알려짐.&nbsp;</div><div>- CJ올리브네트웍스는 가상 인간이 시집에 수록된 시를 읽어주는 오디오북 20편을 다음 달 공식 유튜브 채널을 통해 공개할 예정이라고 함.&nbsp;</div><div>- AI, 가상 인간 기술이 점점 성과를 거두면서 다양한 종류의 이벤트가 진행되는 추세. </div><div><br></div>
                                             </span>
                                                 <a href="https://www.sedaily.com/NewsView/26DMVL91M5" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자만추 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[헤르미온느 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;해리 포터&gt; 시리즈에 나오는 해리의 친구이자 모범생 캐릭터. 시간을 돌릴 수 있는 시계를 이용해 많은 수업을 듣는다. 시간 관리를 잘 하거나 열심히 사는 사람을 일컬어 헤르미온느라고 부름.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[얼빡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[판 플레이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[갑분싸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[코덕 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋댓공 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[갓겜 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[God + Game. 잘 만든 게임을 칭찬할 때 쓰는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ㄱㅇㅇ (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[띵 소비 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[이미 소분된 제품을 구매하거나, 대용량 제품을 구입해서 여러 사람과 셀프로 나누는 소비 방식.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[근자감 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[코스프레 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[근거 없는 자신감의 줄임말.]]></content:encoded>
+            <pubDate>Thu, 17 Nov 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(광고) Z세대가 좋아하는 회식도 있나요? 네! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.133]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/c024128d-f9cb-4b26-befd-34a0304105d1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -455,7 +455,7 @@
             <title><![CDATA[🥕 2023년 트렌드 예언합니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.132]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/a3dcf188-ddd7-4122-a1fc-d36cbf029104_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -463,7 +463,7 @@
             <title><![CDATA[(광고) ‘먼작귀’는 무엇의 줄임말일까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.131]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/fec9dc65-6c4a-4741-8d18-562c0a77b07b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -471,7 +471,7 @@
             <title><![CDATA[당신만 모르는 요즘 뜨는 브랜드 10 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.130]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/7f7b423a-9f1a-44f8-9994-9184c62be2fc_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -479,7 +479,7 @@
             <title><![CDATA[🥕 올해 핼러윈 이슈! 채식 뱀파이어의 등장? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.129]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/d178852c-eca0-46c8-a838-7341e7122a02_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -487,7 +487,7 @@
             <title><![CDATA[(광고) Z세대 클릭을 부르는 카피 작성법 A to Z (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.128]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/5b5e86b3-7d10-4b12-aa6f-10e5ea54290b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -495,7 +495,7 @@
             <title><![CDATA[(광고) 신조어 ‘마카롱 김치찌개’ 무슨 뜻이게? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.127]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/8fc77b37-d4e0-43cc-9692-93aa686dd936_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -503,7 +503,7 @@
             <title><![CDATA[다들 ‘소식좌’를 왜 이렇게 좋아해? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.126]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/4f6176f6-9dbe-4d51-9b38-a2ba0d1c5fb5_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -511,7 +511,7 @@
             <title><![CDATA[(광고) 세대별로 답이 다른 문제! 나는 무슨 세대? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.125]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/1b7e9c98-e7c1-441d-8b27-78f1c494cb4d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -519,7 +519,7 @@
             <title><![CDATA[연휴 끝! 회의 준비는 캐릿이 해놨어요 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.124]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/f712ce0e-d12a-4eb6-95b3-38a5fbc88625_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -527,7 +527,7 @@
             <title><![CDATA[(광고) 신발 가격으로 양말 사는 Z세대 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.123]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/7fa1eb37-17a5-46c4-828e-9dc4c8ef6427_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +535,7 @@
             <title><![CDATA[신분당, 대구 티셔츠가 품절템? 로컬 브랜드가 뜨는 이유 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 01:54:56 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[vol.122]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202208/336232fe-a458-4245-8fd9-dfec7db565d3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
