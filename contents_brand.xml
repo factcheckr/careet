@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 01:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대는 ‘비하인드 스토리’가 있는 광고에 반응한다? 영상 광고 레퍼런스 3]]></title>
+            <link>https://www.careet.net/940</link>
+            <guid>https://www.careet.net/940</guid>
+            <pubDate>Mon, 21 Nov 2022 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[영상 광고 이렇게 만들면 일 잘 한다는 소리 듣습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/0d09f62f-36d0-40bc-89c1-410e6af633ee_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘이 브랜드 상 주세요!’ ESG 기념일 잘 챙겨서 칭찬 받고 있는 브랜드 4]]></title>
             <link>https://www.careet.net/933</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
             <content:encoded><![CDATA[‘엄마 화장품’으로 통하던 설화수가 Z세대 사이에서 인지도 높인 이유]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/c4f8ec58-70af-4441-ab3b-67033d0d8377_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 찾으셨죠? 한글날 마케팅 레퍼런스 모음]]></title>
-            <link>https://www.careet.net/880</link>
-            <guid>https://www.careet.net/880</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[한글날 발빠르게 챙기는 브랜드가 있다?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/79746c94-2840-4094-9d81-9ea3fcd05224_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
