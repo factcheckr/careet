@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 23:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 01:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 인급동으로 보는 Z세대 픽! 화제의 인물 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/954</link>
+            <guid>https://www.careet.net/954</guid>
+            <pubDate>Wed, 30 Nov 2022 01:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[마츠다 부장, 셜록현준이 누구야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/ff7f2de0-0dec-4c02-9c84-1f5021a6daf0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이거 찾으셨죠? Z세대 반응 좋은 달력 굿즈 레퍼런스.zip (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/939</link>
@@ -498,52 +506,52 @@
                                                 <a href="https://www.ekn.kr/web/view.php?key=20221123010004428" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[핀스타 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[댈컴 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[가짜 계정. ‘Fake Instagram’의 줄임말.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[컨셉러 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[국룰 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포토프레스 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[Z세대 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[사진(Photo)으로 자신을 표현하는(Express) Z세대를 일컫는 말.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[망붕 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[밖순이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블챌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[생정 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[생활 정보의 줄임말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여덕 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[단호박 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content:encoded>
+            <pubDate>Wed, 30 Nov 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나는 트렌디한 사람일까? 2023 트렌드 능력고사 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol. 134]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/65bb454b-4019-4b86-ad8a-4a4634f8bc8e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -551,7 +559,7 @@
             <title><![CDATA[(광고) 신입사원 참여율 높은 연말 회식 기획하는 법 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.133]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/c024128d-f9cb-4b26-befd-34a0304105d1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -559,7 +567,7 @@
             <title><![CDATA[🥕 2023년 트렌드 예언합니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.132]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/a3dcf188-ddd7-4122-a1fc-d36cbf029104_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -567,7 +575,7 @@
             <title><![CDATA[(광고) ‘먼작귀’는 무엇의 줄임말일까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.131]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202211/fec9dc65-6c4a-4741-8d18-562c0a77b07b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -575,7 +583,7 @@
             <title><![CDATA[당신만 모르는 요즘 뜨는 브랜드 10 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.130]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/7f7b423a-9f1a-44f8-9994-9184c62be2fc_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -583,7 +591,7 @@
             <title><![CDATA[🥕 올해 핼러윈 이슈! 채식 뱀파이어의 등장? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.129]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/d178852c-eca0-46c8-a838-7341e7122a02_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -591,7 +599,7 @@
             <title><![CDATA[(광고) Z세대 클릭을 부르는 카피 작성법 A to Z (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.128]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/5b5e86b3-7d10-4b12-aa6f-10e5ea54290b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -599,7 +607,7 @@
             <title><![CDATA[(광고) 신조어 ‘마카롱 김치찌개’ 무슨 뜻이게? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.127]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202210/8fc77b37-d4e0-43cc-9692-93aa686dd936_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -607,7 +615,7 @@
             <title><![CDATA[다들 ‘소식좌’를 왜 이렇게 좋아해? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.126]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/4f6176f6-9dbe-4d51-9b38-a2ba0d1c5fb5_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -615,7 +623,7 @@
             <title><![CDATA[(광고) 세대별로 답이 다른 문제! 나는 무슨 세대? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.125]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/1b7e9c98-e7c1-441d-8b27-78f1c494cb4d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -623,7 +631,7 @@
             <title><![CDATA[연휴 끝! 회의 준비는 캐릿이 해놨어요 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.124]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/f712ce0e-d12a-4eb6-95b3-38a5fbc88625_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -631,7 +639,7 @@
             <title><![CDATA[(광고) 신발 가격으로 양말 사는 Z세대 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:07 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[vol.123]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202209/7fa1eb37-17a5-46c4-828e-9dc4c8ef6427_300x300.jpg" length="0" type="image/jpg"/>
         </item>
