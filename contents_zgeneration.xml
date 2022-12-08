@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카타르 월드컵 즐기는 Z세대 근황: 거리 응원 대신 ‘뷰잉파티’ 찾아간다고?]]></title>
+            <link>https://www.careet.net/963</link>
+            <guid>https://www.careet.net/963</guid>
+            <pubDate>Thu, 08 Dec 2022 01:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 월드컵을 즐기는 새로운 방법 4]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/9afe1667-3f3b-4543-8d31-b9706051c7c0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[컷세권부터 햇세권까지. Z세대가 지갑 여는 O세권은?]]></title>
             <link>https://www.careet.net/943</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
             <content:encoded><![CDATA[소식좌가 떡상한 흐름부터 Z세대 소식좌가 찾는 제품까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/6591f74a-73ab-49fb-be72-82f253f54bfd_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[맛집 검색을 틱톡으로? 밀레니얼은 모르는 디지털 대세 기능]]></title>
-            <link>https://www.careet.net/883</link>
-            <guid>https://www.careet.net/883</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 스마트렌즈로 번역·핫플 검색·후기 검색 한다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/e07f2d89-c1cf-454e-88f0-f943141ccde3_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
