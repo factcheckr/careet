@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-14T17:18:04.113Z</updated>
+    <updated>2022-12-14T18:24:00.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인플루언서블 세대]]></title>
+        <title type="html"><![CDATA[합방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.255Z</updated>
-        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
+        <updated>2022-12-14T18:23:52.425Z</updated>
+        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[알계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.257Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2022-12-14T18:23:52.428Z</updated>
+        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드롭]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.258Z</updated>
-        <content type="html"><![CDATA[특정 날짜, 특정 시간에 소량의 상품을 기습적으로 판매하는 방식. MZ세대 타깃 브랜드가 ‘래플’과 함께 자주 사용하는 판매 방식.]]></content>
+        <updated>2022-12-14T18:23:52.428Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갑분싸]]></title>
+        <title type="html"><![CDATA[영통팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.258Z</updated>
-        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
+        <updated>2022-12-14T18:23:52.429Z</updated>
+        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.259Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2022-12-14T18:23:52.429Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘의집]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T17:17:56.259Z</updated>
-        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
+        <updated>2022-12-14T18:23:52.430Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
 </feed>
