@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-14T10:21:38.205Z</updated>
+    <updated>2022-12-14T11:17:12.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[포카 슬리브]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.335Z</updated>
-        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
+        <updated>2022-12-14T11:17:04.328Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자캐]]></title>
+        <title type="html"><![CDATA[쫌쫌따리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.337Z</updated>
-        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
+        <updated>2022-12-14T11:17:04.328Z</updated>
+        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공]]></title>
+        <title type="html"><![CDATA[인급동]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.339Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
+        <updated>2022-12-14T11:17:04.330Z</updated>
+        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와드]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.340Z</updated>
-        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
+        <updated>2022-12-14T11:17:04.333Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[깡]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.342Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2022-12-14T11:17:04.337Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교복템]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-14T10:21:29.345Z</updated>
-        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
+        <updated>2022-12-14T11:17:04.339Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
 </feed>
