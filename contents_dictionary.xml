@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-15T05:19:37.666Z</updated>
+    <updated>2022-12-15T06:25:05.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.947Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2022-12-15T06:24:57.668Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
+        <title type="html"><![CDATA[도믿맨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.948Z</updated>
-        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
+        <updated>2022-12-15T06:24:57.668Z</updated>
+        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.950Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-12-15T06:24:57.669Z</updated>
+        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플미]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.952Z</updated>
-        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
+        <updated>2022-12-15T06:24:57.670Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[즈즈즈]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.954Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
+        <updated>2022-12-15T06:24:57.671Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내적 친밀감]]></title>
+        <title type="html"><![CDATA[린스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-15T05:19:29.955Z</updated>
-        <content type="html"><![CDATA[실제로 알지는 못하지만 온라인 상에서 자주 소식을 접해서 내적으로 친밀감이 쌓였다는 뜻.]]></content>
+        <updated>2022-12-15T06:24:57.673Z</updated>
+        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
     </entry>
 </feed>
