@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-17T15:17:57.980Z</updated>
+    <updated>2022-12-17T16:24:22.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[취준]]></title>
+        <title type="html"><![CDATA[릴스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.559Z</updated>
-        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
+        <updated>2022-12-17T16:24:13.981Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 2021년 출시한 숏폼 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판 플레이]]></title>
+        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.560Z</updated>
-        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
+        <updated>2022-12-17T16:24:13.996Z</updated>
+        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머글]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.571Z</updated>
-        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+        <updated>2022-12-17T16:24:13.998Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀레니얼]]></title>
+        <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.573Z</updated>
-        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
+        <updated>2022-12-17T16:24:13.999Z</updated>
+        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영끌]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.577Z</updated>
-        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
+        <updated>2022-12-17T16:24:14.001Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-17T15:17:49.579Z</updated>
-        <content type="html"><![CDATA[‘합리적 의심’에 접두어 ‘킹’과 ‘갓’을 붙여 강조한 신조어.]]></content>
+        <updated>2022-12-17T16:24:14.001Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
 </feed>
