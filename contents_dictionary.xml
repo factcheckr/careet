@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-20T08:24:37.692Z</updated>
+    <updated>2022-12-20T09:19:42.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[호불호]]></title>
+        <title type="html"><![CDATA[OO깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.670Z</updated>
-        <content type="html"><![CDATA[‘좋음과 좋지 않음’을 의미하는 말. 사람마다 좋고 싫음이 분명하게 나뉘어서 의견이 분분하다는 것을 의미함.]]></content>
+        <updated>2022-12-20T09:19:34.893Z</updated>
+        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알티]]></title>
+        <title type="html"><![CDATA[마크정식]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.671Z</updated>
-        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
+        <updated>2022-12-20T09:19:34.896Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.675Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2022-12-20T09:19:34.902Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡상]]></title>
+        <title type="html"><![CDATA[뇌절]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.676Z</updated>
-        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
+        <updated>2022-12-20T09:19:34.903Z</updated>
+        <content type="html"><![CDATA[똑같은 말이나 행동을 반복해 상대를 질리게 하는 것을 지칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕메]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.681Z</updated>
-        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
+        <updated>2022-12-20T09:19:34.904Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹시태그]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-20T08:24:29.683Z</updated>
-        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
+        <updated>2022-12-20T09:19:34.904Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
 </feed>
