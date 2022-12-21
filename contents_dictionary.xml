@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-21T13:23:56.633Z</updated>
+    <updated>2022-12-21T14:17:59.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-12-21T14:17:51.185Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연반인]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-12-21T14:17:51.187Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-12-21T14:17:51.189Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.662Z</updated>
+        <updated>2022-12-21T14:17:51.190Z</updated>
         <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인용 알티]]></title>
+        <title type="html"><![CDATA[마상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.663Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2022-12-21T14:17:51.191Z</updated>
+        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹정]]></title>
+        <title type="html"><![CDATA[TMT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.664Z</updated>
-        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.665Z</updated>
-        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모디슈머]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.666Z</updated>
-        <content type="html"><![CDATA[Modify(수정하다)와 Consumer(소비자)의 합성어. 제조업체가 제공한 조리법을 따르지 않고 자신이 재창조한 방법으로 제품을 즐기는 소비자를 의미.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넘사벽]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-21T13:23:48.668Z</updated>
-        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+        <updated>2022-12-21T14:17:51.195Z</updated>
+        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
     </entry>
 </feed>
