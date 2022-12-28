@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-12-28T21:16:59.238Z</updated>
+    <updated>2022-12-28T22:19:14.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[블록체인 기술 활용해 기부하는 MZ세대]]></title>
-        <id>https://www.hani.co.kr/arti/economy/it/1073180.html</id>
-        <link href="https://www.hani.co.kr/arti/economy/it/1073180.html"/>
-        <updated>2022-12-28T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[라이브커머스 뛰어든 유튜브? 유튜브 내 쇼핑 페이지 신설]]></title>
+        <id>https://www.ajunews.com/view/20221226075036063</id>
+        <link href="https://www.ajunews.com/view/20221226075036063"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>블록체인 기술과 플랫폼 영향력을 활용한 온라인 기부 문화가 확산되고 있습니다. 특히 블록체인 기술을 활용한 기부의 경우, 모든 기부금 정보가 블록체인에 투명하게 저장 및 공개되기 때문에 2030 사이에서 환영받고 있는데요. 일례로 블록체인 기부 플랫폼 ‘체리’는 공식 출시 3년 만에 총 9만 5천 건의 후원 횟수와 69억 원의 후원 금액을 달성했어요. 개인 후원자 중 약 80%가 1981~1996년생이라고 합니다.</div><div><br></div><div><strong>✅눈여겨볼 포인트</strong><br>-이 밖에도 블로그나 카페 활동으로 획득한 온라인 재화(콩)를 기부하는 ‘네이버 해피빈’, 종이 영수증 쓰지 않기 등 사회적 행동을 인증해 기부금을 적립하는 ‘카카오 같이가치’처럼 포털 영향력을 활용한 플랫폼도 주목받고 있음.</div>
+                                                <div>유튜브가 라이브 커머스를 1년간 시범 운영한 끝에, 유튜브 내 쇼핑 콘텐츠만 모아 보여주는 페이지를 신설했습니다. 네이버, 카카오, 11번가 등의 주요 이커머스 업체와의 경쟁을 예고했어요.</div><div><br></div><div>✅<strong>&nbsp;눈여겨볼 포인트</strong></div><div>- 미디어미래연구소는 한국 라이브 커머스 시장 규모가 2025년 최소 10조에서 최대 25조원에 육박할것으로 예상하고 있음. 이에 유튜브가 특히 라이브 커머스 강화에 집중하고 있으며, 관련 기능을 꾸준히 업데이트 하고 있음. (ex. 라이브 스트리밍시 브랜드명, 상품명, 가격 등의 정보를 자동 노출하는 기능)</div>
                                             </span>
-                                                <a href="https://www.hani.co.kr/arti/economy/it/1073180.html" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://www.ajunews.com/view/20221226075036063" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
