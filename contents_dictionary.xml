@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-30T12:32:45.492Z</updated>
+    <updated>2022-12-30T13:23:12.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[넘사벽]]></title>
+        <title type="html"><![CDATA[버실]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.220Z</updated>
-        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+        <updated>2022-12-30T13:23:02.848Z</updated>
+        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부캐]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.222Z</updated>
-        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
+        <updated>2022-12-30T13:23:02.850Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달글]]></title>
+        <title type="html"><![CDATA[준등기깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.223Z</updated>
-        <content type="html"><![CDATA[‘달리는 글’의 줄임말. 한 가지 주제가 정해지면 그 주제에 대해서만 얘기하는 글을 뜻함. 유사한 커뮤니티 문화로는 ‘불판’이 있음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑로더]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.225Z</updated>
-        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타 스토리]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.228Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+        <updated>2022-12-30T13:23:02.857Z</updated>
+        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브이앱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-30T12:32:37.230Z</updated>
+        <updated>2022-12-30T13:23:02.859Z</updated>
         <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔플러]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-12-30T13:23:02.860Z</updated>
+        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알파 세대]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-12-30T13:23:02.862Z</updated>
+        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
     </entry>
 </feed>
