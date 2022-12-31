@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-31T05:16:59.911Z</updated>
+    <updated>2022-12-31T06:22:35.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[쩝쩝 박사]]></title>
+        <title type="html"><![CDATA[프사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.241Z</updated>
-        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
+        <updated>2022-12-31T06:22:27.782Z</updated>
+        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.242Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-12-31T06:22:27.785Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어쩔티비]]></title>
+        <title type="html"><![CDATA[이때싶]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.243Z</updated>
-        <content type="html"><![CDATA[알파 세대 유행어. ‘어쩌라고, TV나 봐’라는 의미로 추정됨.]]></content>
+        <updated>2022-12-31T06:22:27.787Z</updated>
+        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단호박]]></title>
+        <title type="html"><![CDATA[인쇼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.244Z</updated>
-        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
+        <updated>2022-12-31T06:22:27.788Z</updated>
+        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.244Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2022-12-31T06:22:27.790Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내수 밈]]></title>
+        <title type="html"><![CDATA[솔플러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T05:16:51.247Z</updated>
-        <content type="html"><![CDATA[온라인에서 널리 쓰이는 밈이 아닌, 특정 트위치 스트리머가 진행하는 방송에서만 사용되는 밈. 마치 내수(국내 수요, Domestic)용 제품처럼 특정한 사람들만 사용하고 외부로 확장되지 않는다는 뜻에서 붙여진 말.]]></content>
+        <updated>2022-12-31T06:22:27.792Z</updated>
+        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
     </entry>
 </feed>
