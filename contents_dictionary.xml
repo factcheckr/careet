@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-06T15:27:50.240Z</updated>
+    <updated>2023-01-06T17:19:46.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.433Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2023-01-06T17:19:38.348Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[액괴]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.435Z</updated>
-        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
+        <updated>2023-01-06T17:19:38.351Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불판]]></title>
+        <title type="html"><![CDATA[인플루언서블 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.436Z</updated>
-        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
+        <updated>2023-01-06T17:19:38.351Z</updated>
+        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무물]]></title>
+        <title type="html"><![CDATA[떡밥]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.438Z</updated>
-        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
+        <updated>2023-01-06T17:19:38.355Z</updated>
+        <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팡인]]></title>
+        <title type="html"><![CDATA[교복템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.439Z</updated>
-        <content type="html"><![CDATA[‘광인’을 야민정음 방식으로 표기한 것. 특정 일에 미친듯이 몰두하는 사람을 지칭함.]]></content>
+        <updated>2023-01-06T17:19:38.355Z</updated>
+        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정권 지르기]]></title>
+        <title type="html"><![CDATA[멍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-06T15:27:42.441Z</updated>
-        <content type="html"><![CDATA[Z세대에게 일종의 소취(소원성취)와 비슷한 의미로 쓰임. 휴재 중인 일본 만화 &lt;헌터x헌터&gt;의 연재 재개를 기원하는 유튜버가 매일 정권 지르기 천 번 라이브 방송을 한 데서 유래.]]></content>
+        <updated>2023-01-06T17:19:38.356Z</updated>
+        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
     </entry>
 </feed>
