@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년을 위해 미리 킵해두는 ‘신년 마케팅’ 레퍼런스]]></title>
+            <link>https://www.careet.net/983</link>
+            <guid>https://www.careet.net/983</guid>
+            <pubDate>Mon, 09 Jan 2023 01:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[저장해뒀다가 2024년에 유용하게 써먹으세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/8dd81f12-7c17-4ff8-a3aa-b48984a58de6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스와 LG전자가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2]]></title>
             <link>https://www.careet.net/978</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 06 Dec 2022 01:34:29 GMT</pubDate>
             <content:encoded><![CDATA[혼자 온 사람도 재밌게 놀고가는 팝업 스토어 특징은?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/d869a743-93dc-45f7-a0f6-eafa90d2d43f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[담당자 일 잘하네! 높은 브랜딩 효과를 본 오프라인 공간2]]></title>
-            <link>https://www.careet.net/947</link>
-            <guid>https://www.careet.net/947</guid>
-            <pubDate>Mon, 28 Nov 2022 01:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[이 주의 일 잘한 브랜드: GS25, 아모레퍼시픽]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/f5eea1ed-343e-4999-85d9-25a3b252c0bb_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
