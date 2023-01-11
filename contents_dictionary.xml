@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-11T15:36:02.506Z</updated>
+    <updated>2023-01-11T16:36:07.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삼현슼엘]]></title>
+        <title type="html"><![CDATA[헤르미온느]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.155Z</updated>
-        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
+        <updated>2023-01-11T16:35:58.109Z</updated>
+        <content type="html"><![CDATA[&lt;해리 포터&gt; 시리즈에 나오는 해리의 친구이자 모범생 캐릭터. 시간을 돌릴 수 있는 시계를 이용해 많은 수업을 듣는다. 시간 관리를 잘 하거나 열심히 사는 사람을 일컬어 헤르미온느라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛없없]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.155Z</updated>
-        <content type="html"><![CDATA[‘맛 없을 수 없다’의 줄임말.]]></content>
+        <updated>2023-01-11T16:35:58.110Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈술]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.158Z</updated>
-        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
+        <updated>2023-01-11T16:35:58.118Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓구알]]></title>
+        <title type="html"><![CDATA[도믿맨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.159Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2023-01-11T16:35:58.120Z</updated>
+        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언택트]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.161Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
+        <updated>2023-01-11T16:35:58.122Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로고 플레이]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-11T15:35:54.162Z</updated>
-        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
+        <updated>2023-01-11T16:35:58.124Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
 </feed>
