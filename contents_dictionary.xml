@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-15T02:47:00.033Z</updated>
+    <updated>2023-01-15T03:20:50.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[깡]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.762Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2023-01-15T03:20:42.421Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민초단]]></title>
+        <title type="html"><![CDATA[일잘러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.766Z</updated>
-        <content type="html"><![CDATA[민트 초코를 좋아하는 이들을 부르는 말. 호불호가 갈리는 민트 초코 논쟁에서 ‘민초’ 편인 사람.]]></content>
+        <updated>2023-01-15T03:20:42.425Z</updated>
+        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[서이추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.768Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-01-15T03:20:42.427Z</updated>
+        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미라클 모닝]]></title>
+        <title type="html"><![CDATA[여덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.771Z</updated>
-        <content type="html"><![CDATA[4시 30분, 6시 등 새벽에 일어나 하루를 시작하는 생활 방식. 미라클 모닝을 실천하는 유튜버들의 영향이 크며, Z세대의 갓생 트렌드와 연관이 깊음.]]></content>
+        <updated>2023-01-15T03:20:42.429Z</updated>
+        <content type="html"><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[인스타 돋보기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.773Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-01-15T03:20:42.431Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[홈술]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-15T02:46:51.774Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2023-01-15T03:20:42.435Z</updated>
+        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
     </entry>
 </feed>
