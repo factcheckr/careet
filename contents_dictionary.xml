@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-16T16:26:19.525Z</updated>
+    <updated>2023-01-16T17:18:05.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.812Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2023-01-16T17:17:57.873Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서사]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.813Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2023-01-16T17:17:57.876Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머글]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.814Z</updated>
-        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+        <updated>2023-01-16T17:17:57.877Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코시국]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.816Z</updated>
-        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
+        <updated>2023-01-16T17:17:57.881Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
+        <title type="html"><![CDATA[댈컴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.818Z</updated>
-        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
+        <updated>2023-01-16T17:17:57.882Z</updated>
+        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알못]]></title>
+        <title type="html"><![CDATA[움짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T16:26:11.820Z</updated>
-        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
+        <updated>2023-01-16T17:17:57.882Z</updated>
+        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
     </entry>
 </feed>
