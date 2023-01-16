@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-16T17:18:05.767Z</updated>
+    <updated>2023-01-16T18:23:20.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[취뽀]]></title>
+        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.873Z</updated>
-        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
+        <updated>2023-01-16T18:23:12.503Z</updated>
+        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.876Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-01-16T18:23:12.504Z</updated>
+        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어사]]></title>
+        <title type="html"><![CDATA[모바일 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.877Z</updated>
-        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
+        <updated>2023-01-16T18:23:12.505Z</updated>
+        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹받는다]]></title>
+        <title type="html"><![CDATA[마스킹 테이프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.881Z</updated>
-        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+        <updated>2023-01-16T18:23:12.510Z</updated>
+        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[댈컴]]></title>
+        <title type="html"><![CDATA[안읽씹]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.882Z</updated>
-        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
+        <updated>2023-01-16T18:23:12.510Z</updated>
+        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[움짤]]></title>
+        <title type="html"><![CDATA[K 패치]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-16T17:17:57.882Z</updated>
-        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
+        <updated>2023-01-16T18:23:12.512Z</updated>
+        <content type="html"><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content>
     </entry>
 </feed>
