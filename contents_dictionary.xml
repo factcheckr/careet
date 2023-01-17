@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-17T04:23:22.594Z</updated>
+    <updated>2023-01-17T05:18:08.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[RT]]></title>
+        <title type="html"><![CDATA[네카라쿠배당토]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.286Z</updated>
-        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
+        <updated>2023-01-17T05:18:00.243Z</updated>
+        <content type="html"><![CDATA[네이버, 카카오, 라인, 배달의민족, 당근마켓, 토스 등 신흥 IT 기업을 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 떠오르는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑꾸]]></title>
+        <title type="html"><![CDATA[알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.287Z</updated>
-        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
+        <updated>2023-01-17T05:18:00.245Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡커]]></title>
+        <title type="html"><![CDATA[버블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.288Z</updated>
-        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
+        <updated>2023-01-17T05:18:00.249Z</updated>
+        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.289Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2023-01-17T05:18:00.251Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸런스 게임]]></title>
+        <title type="html"><![CDATA[인소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.290Z</updated>
-        <content type="html"><![CDATA[쉽게 고를 수 없는 두 가지 상황을 제시하고, 뭐가 더 나은지 선택하는 게임. 용례: 카레맛 똥 VS 똥맛 카레]]></content>
+        <updated>2023-01-17T05:18:00.252Z</updated>
+        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근자감]]></title>
+        <title type="html"><![CDATA[시그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-17T04:23:14.292Z</updated>
-        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
+        <updated>2023-01-17T05:18:00.254Z</updated>
+        <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
     </entry>
 </feed>
