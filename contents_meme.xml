@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 23:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 01:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘폼 미쳤다’의 유래와 뜻은? 요즘 유행하는 밈 총정리]]></title>
+            <link>https://www.careet.net/985</link>
+            <guid>https://www.careet.net/985</guid>
+            <pubDate>Thu, 19 Jan 2023 01:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[유행어 잘 쓰는 담당자가 되고 싶으신가요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/fe45e3a4-0c55-4880-b5db-22d6070eab7e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지금 써도 먹히는 기출 변형 MBTI 밈 “MBTI랑 반응 알려줘”]]></title>
             <link>https://www.careet.net/958</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
             <content:encoded><![CDATA[‘에스파’ 윈터도 사용했다는 이 유행어의 유래는?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/86d4c39c-7aa6-4b52-9fd6-9ba5ac09eb07_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당장 써먹을 수 있는 주접 밈 모음]]></title>
-            <link>https://www.careet.net/882</link>
-            <guid>https://www.careet.net/882</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[1분 컷! 오늘 치 주접 고민 덜어가세요.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/87c73ad3-6172-4e23-98f8-a2ec7c3dea42_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
