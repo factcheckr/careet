@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-27T07:17:27.900Z</updated>
+    <updated>2023-01-27T08:23:37.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[홈트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.182Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2023-01-27T08:23:29.881Z</updated>
+        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽페]]></title>
+        <title type="html"><![CDATA[역조공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.183Z</updated>
-        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2023-01-27T08:23:29.882Z</updated>
+        <content type="html"><![CDATA[연예인이 자신의 팬들에게 선물을 주는 행동 혹은 그 선물을 가르키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[음성 도네이션]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.183Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2023-01-27T08:23:29.885Z</updated>
+        <content type="html"><![CDATA[주로 트위치 등 라이브 플랫폼에서 음성을 함께 보내는 후원 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드볼]]></title>
+        <title type="html"><![CDATA[국룰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.184Z</updated>
-        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
+        <updated>2023-01-27T08:23:29.886Z</updated>
+        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임플로이언서]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.185Z</updated>
-        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
+        <updated>2023-01-27T08:23:29.887Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스킨스병]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-27T07:17:20.186Z</updated>
-        <content type="html"><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content>
+        <updated>2023-01-27T08:23:29.889Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
 </feed>
