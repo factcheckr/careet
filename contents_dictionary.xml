@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-09T12:39:08.680Z</updated>
+    <updated>2023-02-09T13:33:51.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[코시국]]></title>
+        <title type="html"><![CDATA[언어 감수성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.078Z</updated>
-        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
+        <updated>2023-02-09T13:33:43.396Z</updated>
+        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.080Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
+        <updated>2023-02-09T13:33:43.396Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짠테크]]></title>
+        <title type="html"><![CDATA[톤그로]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.081Z</updated>
-        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
+        <updated>2023-02-09T13:33:43.399Z</updated>
+        <content type="html"><![CDATA[색을 뜻하는 ‘Tone’과 분쟁를 뜻하는 ‘aggro’의 합성어. 본인의 피부 톤에 맞지 않는 색상으로 메이크업해서 어색하다는 뜻으로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.081Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-02-09T13:33:43.402Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[알파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.082Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2023-02-09T13:33:43.403Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블친]]></title>
+        <title type="html"><![CDATA[트친소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-09T12:39:00.084Z</updated>
-        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
+        <updated>2023-02-09T13:33:43.405Z</updated>
+        <content type="html"><![CDATA[‘트위터 친구를 소개 받습니다’의 줄임말. 트위터에서 공개적으로 친구를 모집하는 일을 뜻함.]]></content>
     </entry>
 </feed>
