@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2023-02-09T23:22:21.778Z</updated>
+    <updated>2023-02-10T01:43:46.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[MS, 챗GPT AI 장착한 ‘빙’ 전격 공개... “검색의 새 패러다임”]]></title>
-        <id>https://www.hankookilbo.com/News/Read/A2023020806480004298?did=NA</id>
-        <link href="https://www.hankookilbo.com/News/Read/A2023020806480004298?did=NA"/>
-        <updated>2023-02-09T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[애플페이 도입, Z세대 스마트폰 구매 의사에 어떤 영향을 끼칠까?]]></title>
+        <id>https://zdnet.co.kr/view/?no=20230207090729</id>
+        <link href="https://zdnet.co.kr/view/?no=20230207090729"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>마이크로소프트가 자사 검색 포털 ‘빙(BING)’에 챗GPT AI 모델을 장착했다고 발표했어요. 이용자가 검색창에 질문을 입력하면 검색 결과와 함께 화면 오른쪽에 AI의 답변을 띄워주는 건데요. 당초 공개 예정보다 시기를 한 달이나 앞당겨 구글이 AI 챗봇 ‘바드’의 출시 계획을 밝힌 지 하루 만에 내놓은 대응입니다.<br><br><strong>✅ 눈여겨볼 포인트</strong><br><strong>Q. 챗GPT와 이번 빙에 장착된 AI 모델의 차이점은?</strong><br>-기존 챗GPT는 2021년까지 수집된 자체 데이터베이스를 토대로 답변을 주는 방식. 빙은 실시간 데이터까지 학습 가능. (한 시간 전 나온 뉴스에 대해 질문해도 응답할 수 있는 수준으로 알려짐)<br><br><strong>Q. 빙의 AI 모델을 언제부터 사용 가능한지?</strong><br>-당분간은 대기 목록에 등록하고 마이크로소프트의 허가를 받은 사람만 이용할 수 있음. MS는 이용자 수를 차례로 늘려 이달 말까지 수백만 명으로 확대할 계획이라고 밝힘.<br><br>🔗 함께 보면 좋은 캐릿 콘텐츠: <a href="https://www.careet.net/987" rel="noopener noreferrer" target="_blank"><strong><u>인공지능(AI) 요즘 왜 이렇게 난리야? 맨날 뉴스에 나오는 것 같아!</u></strong></a></div>
+                                                <div>대학생활 정보 공유 커뮤니티 플랫폼 에브리타임 개발사 ‘비누랩스’가 애플페이 도입이 Z세대 스마트폰 구매 의향에 미치는 영향을 조사했는데요. 현재 갤럭시 사용자 중 애플페이 서비스 설명을 들은 후, 향후 아이폰으로 이동할 것이라고 밝힌 Z세대의 비율은 26%에서 10%p 증가했습니다. 반면 아이폰을 사용하고 있는 Z세대의 아이폰 재구매 의향은 3%p 증가한 98%를 기록했습니다.<br><br><strong>✅눈여겨볼 포인트</strong><br>-향후 Z세대 사이에서 애플의 브랜드 충성도가 더욱 높아질 것으로 전망됨</div>
                                             </span>
-                                                <a href="https://www.hankookilbo.com/News/Read/A2023020806480004298?did=NA" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://zdnet.co.kr/view/?no=20230207090729" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
