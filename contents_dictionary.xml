@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-11T22:18:31.710Z</updated>
+    <updated>2023-02-11T23:19:42.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[소확성]]></title>
+        <title type="html"><![CDATA[달글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.060Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2023-02-11T23:19:33.782Z</updated>
+        <content type="html"><![CDATA[‘달리는 글’의 줄임말. 한 가지 주제가 정해지면 그 주제에 대해서만 얘기하는 글을 뜻함. 유사한 커뮤니티 문화로는 ‘불판’이 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프롬]]></title>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.065Z</updated>
-        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
+        <updated>2023-02-11T23:19:33.790Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버실]]></title>
+        <title type="html"><![CDATA[폴꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.068Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+        <updated>2023-02-11T23:19:33.790Z</updated>
+        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머글]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.070Z</updated>
-        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+        <updated>2023-02-11T23:19:33.793Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[GOAT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.072Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2023-02-11T23:19:33.793Z</updated>
+        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-11T22:18:24.073Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-02-11T23:19:33.795Z</updated>
+        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
     </entry>
 </feed>
