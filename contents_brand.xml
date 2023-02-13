@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 01:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 02:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례]]></title>
+            <link>https://www.careet.net/1014</link>
+            <guid>https://www.careet.net/1014</guid>
+            <pubDate>Mon, 13 Feb 2023 02:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 잘 활용해서 Z세대의 관심 끌어모은 패스트푸드 브랜드 사례 2]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/ec1171ee-53d6-4a61-a97d-a4318b220fce_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까]]></title>
             <link>https://www.careet.net/1004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 02 Jan 2023 01:27:07 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3]]></title>
-            <link>https://www.careet.net/974</link>
-            <guid>https://www.careet.net/974</guid>
-            <pubDate>Mon, 26 Dec 2022 01:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[연말을 맞이해 ‘졸업 사진’을 찍어주는 의류 브랜드 팝업 스토어가 있다?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/188a397a-d878-4368-9e11-16a32dbb42d3_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
