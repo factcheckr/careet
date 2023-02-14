@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-14T03:24:40.922Z</updated>
+    <updated>2023-02-14T04:24:56.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[로판]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.271Z</updated>
-        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
+        <updated>2023-02-14T04:24:48.953Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡커]]></title>
+        <title type="html"><![CDATA[극호]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.272Z</updated>
-        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
+        <updated>2023-02-14T04:24:48.958Z</updated>
+        <content type="html"><![CDATA[‘극도로 호감’의 줄임말. 비슷한 의미의 표현으로는 ‘최애(=가장 사랑함)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 네이티브]]></title>
+        <title type="html"><![CDATA[인스타 돋보기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.275Z</updated>
-        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
+        <updated>2023-02-14T04:24:48.960Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹시태그]]></title>
+        <title type="html"><![CDATA[퍼블리시티권]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.278Z</updated>
-        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
+        <updated>2023-02-14T04:24:48.962Z</updated>
+        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.280Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2023-02-14T04:24:48.963Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[즈즈즈]]></title>
+        <title type="html"><![CDATA[마크정식]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-14T03:24:32.282Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
+        <updated>2023-02-14T04:24:48.965Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
     </entry>
 </feed>
