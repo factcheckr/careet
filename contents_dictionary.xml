@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-17T08:25:50.307Z</updated>
+    <updated>2023-02-17T09:20:12.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[좋댓구알]]></title>
+        <title type="html"><![CDATA[도아너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.600Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2023-02-17T09:20:03.736Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마상]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.604Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
+        <updated>2023-02-17T09:20:03.736Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹받는]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.604Z</updated>
-        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+        <updated>2023-02-17T09:20:03.736Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직관]]></title>
+        <title type="html"><![CDATA[드볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.606Z</updated>
-        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2P]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.608Z</updated>
-        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
+        <updated>2023-02-17T09:20:03.736Z</updated>
+        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어드벤트 캘린더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-17T08:25:41.611Z</updated>
+        <updated>2023-02-17T09:20:03.739Z</updated>
         <content type="html"><![CDATA[12월 1일부터 24일까지 크리스마스를 기다리면서 하나씩 선물을 열어보는 형식의 달력.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSCO]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-02-17T09:20:03.739Z</updated>
+        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
     </entry>
 </feed>
