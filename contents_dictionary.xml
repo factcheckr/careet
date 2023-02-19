@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-19T14:17:37.919Z</updated>
+    <updated>2023-02-19T15:18:57.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[퍼블리시티권]]></title>
+        <title type="html"><![CDATA[소취]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.739Z</updated>
-        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
+        <updated>2023-02-19T15:18:49.491Z</updated>
+        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[야민정음]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.740Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2023-02-19T15:18:49.493Z</updated>
+        <content type="html"><![CDATA[야구 갤러리+훈민정음의 합성어. 디시인사이드 야구 갤러리에서 만든 드립으로 원래 글자를 모양이 비슷한 다른 글자로 대체해 표기하는 방식. (ex. 멍멍이 → 댕댕이)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로판]]></title>
+        <title type="html"><![CDATA[포카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.742Z</updated>
-        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
+        <updated>2023-02-19T15:18:49.494Z</updated>
+        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현활]]></title>
+        <title type="html"><![CDATA[내수 밈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.744Z</updated>
-        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
+        <updated>2023-02-19T15:18:49.495Z</updated>
+        <content type="html"><![CDATA[온라인에서 널리 쓰이는 밈이 아닌, 특정 트위치 스트리머가 진행하는 방송에서만 사용되는 밈. 마치 내수(국내 수요, Domestic)용 제품처럼 특정한 사람들만 사용하고 외부로 확장되지 않는다는 뜻에서 붙여진 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.746Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2023-02-19T15:18:49.496Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아트 테크]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T14:17:29.748Z</updated>
-        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
+        <updated>2023-02-19T15:18:49.499Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
 </feed>
