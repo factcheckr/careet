@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-01T21:18:51.096Z</updated>
+    <updated>2023-03-01T22:19:40.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[먼치킨]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.018Z</updated>
-        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
+        <updated>2023-03-01T22:19:31.752Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[인소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.019Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2023-03-01T22:19:31.753Z</updated>
+        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여덕]]></title>
+        <title type="html"><![CDATA[시그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.021Z</updated>
-        <content type="html"><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content>
+        <updated>2023-03-01T22:19:31.761Z</updated>
+        <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓생]]></title>
+        <title type="html"><![CDATA[헤메코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.022Z</updated>
-        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
+        <updated>2023-03-01T22:19:31.763Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손민수]]></title>
+        <title type="html"><![CDATA[존버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.023Z</updated>
-        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
+        <updated>2023-03-01T22:19:31.765Z</updated>
+        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌절]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T21:18:43.025Z</updated>
-        <content type="html"><![CDATA[똑같은 말이나 행동을 반복해 상대를 질리게 하는 것을 지칭.]]></content>
+        <updated>2023-03-01T22:19:31.767Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
 </feed>
