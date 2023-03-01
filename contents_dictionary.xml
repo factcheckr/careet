@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-01T18:26:09.884Z</updated>
+    <updated>2023-03-01T19:17:36.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[단호박]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.808Z</updated>
-        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
+        <updated>2023-03-01T19:17:28.564Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파츠]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.808Z</updated>
-        <content type="html"><![CDATA[각종 액세서리 부자재를 일컫는 말. Z세대는 보통 아이돌 포토 카드를 꾸밀 때 파츠를 활용함.]]></content>
+        <updated>2023-03-01T19:17:28.568Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[얼죽코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.811Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2023-03-01T19:17:28.569Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망상]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.813Z</updated>
-        <content type="html"><![CDATA[좋아하는 연예인을 가지고 특정 상황을 설정해 상상하며 노는 것.]]></content>
+        <updated>2023-03-01T19:17:28.570Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
+        <title type="html"><![CDATA[입덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.817Z</updated>
-        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
+        <updated>2023-03-01T19:17:28.570Z</updated>
+        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GOAT]]></title>
+        <title type="html"><![CDATA[시강]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-01T18:26:01.819Z</updated>
-        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
+        <updated>2023-03-01T19:17:28.572Z</updated>
+        <content type="html"><![CDATA[‘시선 강탈’의 줄임말. 유독 남들의 시선(이목)을 끄는 것을 의미함.]]></content>
     </entry>
 </feed>
