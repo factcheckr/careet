@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 23:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 01:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음]]></title>
+            <link>https://www.careet.net/1026</link>
+            <guid>https://www.careet.net/1026</guid>
+            <pubDate>Thu, 02 Mar 2023 01:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘폼 미쳤다’의 유래와 뜻은? 요즘 유행하는 밈 총정리]]></title>
             <link>https://www.careet.net/985</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
             <content:encoded><![CDATA[티빙이 &lt;환승연애2&gt; 클립 영상을 200개나 만든 이유]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/d2f2fe89-99ae-406e-b089-d22c571be4d8_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아재 개그 유행이 돌아왔다? Z세대가 써먹는 말장난 밈 (feat. 어라랍스타~?)]]></title>
-            <link>https://www.careet.net/887</link>
-            <guid>https://www.careet.net/887</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘에스파’ 윈터도 사용했다는 이 유행어의 유래는?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/86d4c39c-7aa6-4b52-9fd6-9ba5ac09eb07_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
