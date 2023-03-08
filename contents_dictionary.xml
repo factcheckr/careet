@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-08T09:20:47.255Z</updated>
+    <updated>2023-03-08T10:22:26.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Z세대]]></title>
+        <title type="html"><![CDATA[레딧]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.032Z</updated>
-        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
+        <updated>2023-03-08T10:22:19.392Z</updated>
+        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[모먼트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.034Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2023-03-08T10:22:19.394Z</updated>
+        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[읽페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.035Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2023-03-08T10:22:19.396Z</updated>
+        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[입틀막]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.037Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2023-03-08T10:22:19.397Z</updated>
+        <content type="html"><![CDATA[‘입을 틀어 막다’의 줄임말. 주로 감정이 복받쳐 오를 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혜자]]></title>
+        <title type="html"><![CDATA[젶크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.038Z</updated>
-        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
+        <updated>2023-03-08T10:22:19.399Z</updated>
+        <content type="html"><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[공답]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T09:20:39.040Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2023-03-08T10:22:19.400Z</updated>
+        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
     </entry>
 </feed>
