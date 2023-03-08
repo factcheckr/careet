@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-08T16:28:08.890Z</updated>
+    <updated>2023-03-08T17:19:32.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[서동요 기법]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.290Z</updated>
-        <content type="html"><![CDATA[바라는 일이 이미 이루어진 것처럼 꾸며서 얘기하고 다니는 것을 뜻하는 MZ세대 용어. 백제 무왕이 선화 공주와 결혼하기 위해 만들었던 ‘서동요’에서 유래함.]]></content>
+        <updated>2023-03-08T17:19:25.066Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
+        <title type="html"><![CDATA[갓기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.292Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
+        <updated>2023-03-08T17:19:25.067Z</updated>
+        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT]]></title>
+        <title type="html"><![CDATA[고인 물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.293Z</updated>
-        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
+        <updated>2023-03-08T17:19:25.072Z</updated>
+        <content type="html"><![CDATA[특정 분야에 막대한 시간과 정성을 투자하여 경지에 이른 사람을 뜻함. ‘고수’, ‘헤비 유저’와 비슷한 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머블]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.294Z</updated>
-        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
+        <updated>2023-03-08T17:19:25.074Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[갑분싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.295Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2023-03-08T17:19:25.075Z</updated>
+        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[존버]]></title>
+        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T16:28:01.296Z</updated>
-        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
+        <updated>2023-03-08T17:19:25.077Z</updated>
+        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
     </entry>
 </feed>
