@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-17T08:24:37.665Z</updated>
+    <updated>2023-03-17T09:20:11.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[진대]]></title>
+        <title type="html"><![CDATA[타임 스탬프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.632Z</updated>
-        <content type="html"><![CDATA[‘진지한 대화’의 줄임말.]]></content>
+        <updated>2023-03-17T09:20:04.444Z</updated>
+        <content type="html"><![CDATA[유튜브 영상에서 특정 구간으로 바로 이동할 수 있도록 설명 란이나 댓글에 시간을 표시해 두는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머]]></title>
+        <title type="html"><![CDATA[드래곤볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.633Z</updated>
-        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
+        <updated>2023-03-17T09:20:04.445Z</updated>
+        <content type="html"><![CDATA[MZ세대는 무언가를 모을 때 ‘드래곤볼’이라고 표현함. 만화 &lt;드래곤볼&gt;의 내용이 구슬 일곱개를 모아야 한다는 점에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위꾸]]></title>
+        <title type="html"><![CDATA[서사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.635Z</updated>
-        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
+        <updated>2023-03-17T09:20:04.446Z</updated>
+        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[씽크빅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.636Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2023-03-17T09:20:04.446Z</updated>
+        <content type="html"><![CDATA[학습지 이름 ‘씽크빅’에서 유래한 표현. 창의력이 뛰어난 대상을 칭찬할 때 쓰인다. “어릴 때 씽크빅 좀 했나 봐?”라는 문장에서 파생돼 “오, 씽크빅!”같은 감탄사로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[병약미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.638Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2023-03-17T09:20:04.447Z</updated>
+        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친]]></title>
+        <title type="html"><![CDATA[라떼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-17T08:24:29.640Z</updated>
-        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
+        <updated>2023-03-17T09:20:04.448Z</updated>
+        <content type="html"><![CDATA[기성세대가 입 버릇처럼 말하는 “나 때는 말이야~”를 풍자하는 표현으로 “라떼는 말이야”가 탄생함. 즉, 라떼는 기성세대를 뜻함.]]></content>
     </entry>
 </feed>
