@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-18T10:19:48.210Z</updated>
+    <updated>2023-03-18T11:15:43.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[실친]]></title>
+        <title type="html"><![CDATA[앨범깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.739Z</updated>
-        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
+        <updated>2023-03-18T11:15:35.493Z</updated>
+        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컨셉러]]></title>
+        <title type="html"><![CDATA[떡메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.740Z</updated>
-        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
+        <updated>2023-03-18T11:15:35.494Z</updated>
+        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[밀프렙]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.742Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-03-18T11:15:35.495Z</updated>
+        <content type="html"><![CDATA[식사(meal)와 준비(preparation)의 합성어. 최대 일주일치 식사를 미리 준비해뒀다가 식사 때마다 먹는 방법.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑꾸]]></title>
+        <title type="html"><![CDATA[쿠키]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.743Z</updated>
-        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
+        <updated>2023-03-18T11:15:35.497Z</updated>
+        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[까방]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.745Z</updated>
-        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
+        <updated>2023-03-18T11:15:35.498Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답정너]]></title>
+        <title type="html"><![CDATA[데스크테리어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-18T10:19:39.747Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
+        <updated>2023-03-18T11:15:35.500Z</updated>
+        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
     </entry>
 </feed>
