@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 01:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEW 굿즈 트렌드! 부적 사려고 2시간 웨이팅하는 Z세대 근황]]></title>
+            <link>https://www.careet.net/1049</link>
+            <guid>https://www.careet.net/1049</guid>
+            <pubDate>Wed, 22 Mar 2023 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대에게 화제된 부적 굿즈를 모았습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/00053171-cac2-4d34-8939-d1f89469fdc0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다]]></title>
             <link>https://www.careet.net/1022</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 17 Nov 2022 03:16:14 GMT</pubDate>
             <content:encoded><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/e5b43054-c35f-4778-80e7-d15f89c19414_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔에서 운동만 하고 나온다고? 반캉스 즐기는 Z세대 근황]]></title>
-            <link>https://www.careet.net/899</link>
-            <guid>https://www.careet.net/899</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 호캉스 트렌드 5]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/2b5178d2-98c3-426a-8999-c1e85d9b23d7_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
