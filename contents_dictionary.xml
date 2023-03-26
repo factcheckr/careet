@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-26T09:17:05.508Z</updated>
+    <updated>2023-03-26T10:18:43.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.937Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2023-03-26T10:18:35.537Z</updated>
+        <content type="html"><![CDATA[무언가를 소비하고 싶은 충동을 부르는 온라인 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박음질]]></title>
+        <title type="html"><![CDATA[굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.940Z</updated>
-        <content type="html"><![CDATA[인스타그램 스토리 게시물을 하루에 많이 올리는 일을 부르는 MZ세대 유행어. 하루에 올린 게시물 개수만큼 화면 상단에 점이 찍히는 것에서 유래.]]></content>
+        <updated>2023-03-26T10:18:35.539Z</updated>
+        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짬바]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.940Z</updated>
-        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
+        <updated>2023-03-26T10:18:35.540Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.944Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2023-03-26T10:18:35.541Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[반모]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.944Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2023-03-26T10:18:35.542Z</updated>
+        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[디지털 굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-26T09:16:56.945Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-03-26T10:18:35.543Z</updated>
+        <content type="html"><![CDATA[휴대폰·아이패드 배경화면, 카카오톡 테마 등 모바일 환경에 적용해서 사용할 수 있는 템플릿. 실물 굿즈가 아닌 온라인에서 배포할 수 있다는 점이 특징.]]></content>
     </entry>
 </feed>
