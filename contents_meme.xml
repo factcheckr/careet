@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 01:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기]]></title>
+            <link>https://www.careet.net/1048</link>
+            <guid>https://www.careet.net/1048</guid>
+            <pubDate>Mon, 27 Mar 2023 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df65ed4e-9f93-461e-be25-cab7d2ff265f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음]]></title>
             <link>https://www.careet.net/1026</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
             <content:encoded><![CDATA[스포츠 팬, 게임 유저들이 자주 사용하는 유행어!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/b4112857-8aae-41c3-aa27-bf1dccc33f8c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내봬누’가 무슨 뜻? 나만 안 보는 <환승연애2> 과외해 드림]]></title>
-            <link>https://www.careet.net/901</link>
-            <guid>https://www.careet.net/901</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[티빙이 &lt;환승연애2&gt; 클립 영상을 200개나 만든 이유]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/d2f2fe89-99ae-406e-b089-d22c571be4d8_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
