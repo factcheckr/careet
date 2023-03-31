@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-31T08:23:56.180Z</updated>
+    <updated>2023-03-31T09:18:32.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[쫌쫌따리]]></title>
+        <title type="html"><![CDATA[트친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.463Z</updated>
-        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+        <updated>2023-03-31T09:18:24.548Z</updated>
+        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓공]]></title>
+        <title type="html"><![CDATA[알티스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.464Z</updated>
-        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
+        <updated>2023-03-31T09:18:24.551Z</updated>
+        <content type="html"><![CDATA[트윗의 리트윗(공유) 수가 1,000 단위를 넘어가며 화제가 되는 경우, 해당 트윗을 올린 트위터리안을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[OTT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.465Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-03-31T09:18:24.555Z</updated>
+        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어사]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.466Z</updated>
-        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
+        <updated>2023-03-31T09:18:24.555Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다꾸]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.468Z</updated>
-        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
+        <updated>2023-03-31T09:18:24.555Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타임 스탬프]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T08:23:47.469Z</updated>
-        <content type="html"><![CDATA[유튜브 영상에서 특정 구간으로 바로 이동할 수 있도록 설명 란이나 댓글에 시간을 표시해 두는 기능.]]></content>
+        <updated>2023-03-31T09:18:24.556Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
 </feed>
