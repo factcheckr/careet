@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-05T01:10:14.349Z</updated>
+    <updated>2023-04-05T02:24:30.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[레게노]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.794Z</updated>
-        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
+        <updated>2023-04-05T02:24:22.058Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어덕행덕]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.800Z</updated>
-        <content type="html"><![CDATA[‘어차피 덕질할 거 행복하게 덕질하자.’를 줄여 이르는 말.]]></content>
+        <updated>2023-04-05T02:24:22.059Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[드롭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.804Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-04-05T02:24:22.059Z</updated>
+        <content type="html"><![CDATA[특정 날짜, 특정 시간에 소량의 상품을 기습적으로 판매하는 방식. MZ세대 타깃 브랜드가 ‘래플’과 함께 자주 사용하는 판매 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DM]]></title>
+        <title type="html"><![CDATA[힙(hip)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.804Z</updated>
-        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
+        <updated>2023-04-05T02:24:22.060Z</updated>
+        <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. ‘힙하다’, ‘힙한 OO’로 쓰임. (유사어: 트렌디하다)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽐뿌]]></title>
+        <title type="html"><![CDATA[OTT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.807Z</updated>
-        <content type="html"><![CDATA[무언가를 소비하고 싶은 충동을 부르는 온라인 유행어.]]></content>
+        <updated>2023-04-05T02:24:22.061Z</updated>
+        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-05T01:10:05.808Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2023-04-05T02:24:22.062Z</updated>
+        <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
 </feed>
