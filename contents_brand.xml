@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 01:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 02:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년엔 반드시 챙겨야 할 기념일! 지구의 날 레퍼런스 모음.zip]]></title>
+            <link>https://www.careet.net/367</link>
+            <guid>https://www.careet.net/367</guid>
+            <pubDate>Mon, 17 Apr 2023 02:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202104/d1f306e0-7db5-48aa-9ef1-444b50845ddc_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’]]></title>
             <link>https://www.careet.net/1060</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 13 Mar 2023 01:35:15 GMT</pubDate>
             <content:encoded><![CDATA[최신 유행을 마케팅에 발 빠르게 적용한 사례 2]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/1b436fc6-46a4-4bfb-9234-4eb7b7f8ab02_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 알아서 입소문 내는 온라인 마케팅 레퍼런스 2]]></title>
-            <link>https://www.careet.net/1027</link>
-            <guid>https://www.careet.net/1027</guid>
-            <pubDate>Mon, 06 Mar 2023 01:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[SNS에서 화제가 되는 온라인 마케팅을 기획하고 싶다면?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/95633849-2ddb-477e-8abf-52ca16250fcf_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
