@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-19T14:17:37.717Z</updated>
+    <updated>2023-04-19T15:21:33.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[핀스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.173Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2023-04-19T15:21:25.366Z</updated>
+        <content type="html"><![CDATA[가짜 계정. ‘Fake Instagram’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱잡]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.176Z</updated>
-        <content type="html"><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content>
+        <updated>2023-04-19T15:21:25.368Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 스토리]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.177Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+        <updated>2023-04-19T15:21:25.369Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛삭]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-04-19T15:21:25.371Z</updated>
+        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[섭종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.178Z</updated>
+        <updated>2023-04-19T15:21:25.373Z</updated>
         <content type="html"><![CDATA[‘서버 종료’ 또는 ‘서비스 종료’를 줄여 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[많관부]]></title>
+        <title type="html"><![CDATA[즈즈즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.179Z</updated>
-        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현질]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-19T14:17:29.180Z</updated>
-        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
+        <updated>2023-04-19T15:21:25.374Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
     </entry>
 </feed>
