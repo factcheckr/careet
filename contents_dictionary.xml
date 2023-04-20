@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-20T08:22:44.652Z</updated>
+    <updated>2023-04-20T09:19:34.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[갓기]]></title>
+        <title type="html"><![CDATA[병약미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.436Z</updated>
-        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
+        <updated>2023-04-20T09:19:26.539Z</updated>
+        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[레게노]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.438Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2023-04-20T09:19:26.547Z</updated>
+        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.443Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2023-04-20T09:19:26.550Z</updated>
+        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트수]]></title>
+        <title type="html"><![CDATA[킹리적 갓심]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.444Z</updated>
-        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
+        <updated>2023-04-20T09:19:26.554Z</updated>
+        <content type="html"><![CDATA[‘합리적 의심’에 접두어 ‘킹’과 ‘갓’을 붙여 강조한 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가심비]]></title>
+        <title type="html"><![CDATA[케미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.445Z</updated>
-        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
+        <updated>2023-04-20T09:19:26.556Z</updated>
+        <content type="html"><![CDATA[서로 간의 궁합이나 호흡을 부르는 데 쓰이는 말. ‘chemistry’에서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱잡]]></title>
+        <title type="html"><![CDATA[코덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T08:22:37.446Z</updated>
-        <content type="html"><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content>
+        <updated>2023-04-20T09:19:26.559Z</updated>
+        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
     </entry>
 </feed>
