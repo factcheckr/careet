@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-20T20:19:47.622Z</updated>
+    <updated>2023-04-20T21:16:02.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미슐랭]]></title>
+        <title type="html"><![CDATA[무나]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.318Z</updated>
-        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
+        <updated>2023-04-20T21:15:52.791Z</updated>
+        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[야민정음]]></title>
+        <title type="html"><![CDATA[메타버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.321Z</updated>
-        <content type="html"><![CDATA[야구 갤러리+훈민정음의 합성어. 디시인사이드 야구 갤러리에서 만든 드립으로 원래 글자를 모양이 비슷한 다른 글자로 대체해 표기하는 방식. (ex. 멍멍이 → 댕댕이)]]></content>
+        <updated>2023-04-20T21:15:52.792Z</updated>
+        <content type="html"><![CDATA[가상 세계와 현실 세계의 경계가 허물어진 3차원 가상 세계를 뜻함. 이용자는 아바타를 이용하여 메타버스 세계관 아래서 사회, 경제, 문화 활동을 함.  이를 활용한 대표적인 콘텐츠로는 게임 ‘로블록스’, ‘마인크래프트’, 증강현실 아바타 서비스 ‘제페토’등이 있다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온클]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.322Z</updated>
-        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
+        <updated>2023-04-20T21:15:52.794Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알못]]></title>
+        <title type="html"><![CDATA[뇌이징]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.323Z</updated>
-        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
+        <updated>2023-04-20T21:15:52.796Z</updated>
+        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비건]]></title>
+        <title type="html"><![CDATA[핀스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.325Z</updated>
-        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
+        <updated>2023-04-20T21:15:52.797Z</updated>
+        <content type="html"><![CDATA[가짜 계정. ‘Fake Instagram’의 줄임말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인스타그래머블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-20T20:19:38.326Z</updated>
+        <updated>2023-04-20T21:15:52.799Z</updated>
         <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
     </entry>
 </feed>
