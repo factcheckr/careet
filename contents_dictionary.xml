@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-23T04:21:41.824Z</updated>
+    <updated>2023-04-23T05:16:51.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[처돌이]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.293Z</updated>
-        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+        <updated>2023-04-23T05:16:43.114Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄빠]]></title>
+        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.295Z</updated>
-        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
+        <updated>2023-04-23T05:16:43.114Z</updated>
+        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드덕]]></title>
+        <title type="html"><![CDATA[먼치킨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.296Z</updated>
-        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
+        <updated>2023-04-23T05:16:43.115Z</updated>
+        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 네이티브]]></title>
+        <title type="html"><![CDATA[킹리적 갓심]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.298Z</updated>
-        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
+        <updated>2023-04-23T05:16:43.117Z</updated>
+        <content type="html"><![CDATA[‘합리적 의심’에 접두어 ‘킹’과 ‘갓’을 붙여 강조한 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[버블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.300Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-04-23T05:16:43.119Z</updated>
+        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓성비]]></title>
+        <title type="html"><![CDATA[인스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-23T04:21:33.303Z</updated>
-        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
+        <updated>2023-04-23T05:16:43.123Z</updated>
+        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
     </entry>
 </feed>
