@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-26T14:18:31.659Z</updated>
+    <updated>2023-04-26T15:19:17.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[퍼블리시티권]]></title>
+        <title type="html"><![CDATA[하지만꽃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.764Z</updated>
-        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
+        <updated>2023-04-26T15:19:08.906Z</updated>
+        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[겟레디윗미]]></title>
+        <title type="html"><![CDATA[밖순이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.769Z</updated>
-        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
+        <updated>2023-04-26T15:19:08.910Z</updated>
+        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[민초단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.773Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2023-04-26T15:19:08.912Z</updated>
+        <content type="html"><![CDATA[민트 초코를 좋아하는 이들을 부르는 말. 호불호가 갈리는 민트 초코 논쟁에서 ‘민초’ 편인 사람.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[드롭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.774Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2023-04-26T15:19:08.913Z</updated>
+        <content type="html"><![CDATA[특정 날짜, 특정 시간에 소량의 상품을 기습적으로 판매하는 방식. MZ세대 타깃 브랜드가 ‘래플’과 함께 자주 사용하는 판매 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[와드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.776Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-04-26T15:19:08.915Z</updated>
+        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 네이티브]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T14:18:21.777Z</updated>
-        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
+        <updated>2023-04-26T15:19:08.917Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
 </feed>
