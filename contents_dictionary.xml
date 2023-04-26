@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-26T17:17:09.146Z</updated>
+    <updated>2023-04-26T18:23:47.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[임플로이언서]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.636Z</updated>
-        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
+        <updated>2023-04-26T18:23:38.470Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼컬]]></title>
+        <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.637Z</updated>
-        <content type="html"><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content>
+        <updated>2023-04-26T18:23:38.473Z</updated>
+        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입덕]]></title>
+        <title type="html"><![CDATA[비상이다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.640Z</updated>
-        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
+        <updated>2023-04-26T18:23:38.481Z</updated>
+        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가심비]]></title>
+        <title type="html"><![CDATA[영통팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.641Z</updated>
-        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
+        <updated>2023-04-26T18:23:38.483Z</updated>
+        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼죽코]]></title>
+        <title type="html"><![CDATA[솜뭉치]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.643Z</updated>
-        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
+        <updated>2023-04-26T18:23:38.484Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플미]]></title>
+        <title type="html"><![CDATA[P2P]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-26T17:17:00.644Z</updated>
-        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
+        <updated>2023-04-26T18:23:38.486Z</updated>
+        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
     </entry>
 </feed>
