@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-29T13:18:49.433Z</updated>
+    <updated>2023-04-29T14:15:14.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[틱톡]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.297Z</updated>
-        <content type="html"><![CDATA[바이트댄스에서 2016년 출시한 숏폼 서비스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부캐]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.299Z</updated>
-        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최애]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.300Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[모디슈머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.303Z</updated>
+        <updated>2023-04-29T14:15:05.680Z</updated>
         <content type="html"><![CDATA[Modify(수정하다)와 Consumer(소비자)의 합성어. 제조업체가 제공한 조리법을 따르지 않고 자신이 재창조한 방법으로 제품을 즐기는 소비자를 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와드]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.306Z</updated>
-        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
+        <updated>2023-04-29T14:15:05.681Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트롤]]></title>
+        <title type="html"><![CDATA[밀프렙]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T13:18:40.308Z</updated>
-        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
+        <updated>2023-04-29T14:15:05.682Z</updated>
+        <content type="html"><![CDATA[식사(meal)와 준비(preparation)의 합성어. 최대 일주일치 식사를 미리 준비해뒀다가 식사 때마다 먹는 방법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순삭]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-04-29T14:15:05.683Z</updated>
+        <content type="html"><![CDATA[‘순식간에 삭제되다’의 줄임말. ‘너무 재밌어서 시간 가는 줄 몰랐다’, ‘너무 맛있어서 순식간에 다 먹어 버렸다.’ 등의 맥락에서 사용됨.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밸붕]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-04-29T14:15:05.684Z</updated>
+        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈팅]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-04-29T14:15:05.684Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
     </entry>
 </feed>
