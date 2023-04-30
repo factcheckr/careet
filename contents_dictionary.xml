@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-30T04:20:54.512Z</updated>
+    <updated>2023-04-30T05:16:13.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트잘알]]></title>
+        <title type="html"><![CDATA[오늘의집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.733Z</updated>
-        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
+        <updated>2023-04-30T05:16:05.939Z</updated>
+        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.733Z</updated>
-        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
+        <updated>2023-04-30T05:16:05.941Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무나]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.734Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2023-04-30T05:16:05.942Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
+        <title type="html"><![CDATA[캘박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.734Z</updated>
-        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
+        <updated>2023-04-30T05:16:05.944Z</updated>
+        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[릴스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.736Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2023-04-30T05:16:05.945Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 2021년 출시한 숏폼 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[틱톡커]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T04:20:45.738Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2023-04-30T05:16:05.947Z</updated>
+        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
     </entry>
 </feed>
