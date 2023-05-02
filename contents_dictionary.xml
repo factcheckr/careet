@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-02T21:16:24.507Z</updated>
+    <updated>2023-05-02T22:17:31.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[겟레디윗미]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.274Z</updated>
-        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
+        <updated>2023-05-02T22:17:23.417Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[OO깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.275Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2023-05-02T22:17:23.423Z</updated>
+        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.276Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2023-05-02T22:17:23.425Z</updated>
+        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캘박]]></title>
+        <title type="html"><![CDATA[합방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.278Z</updated>
-        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
+        <updated>2023-05-02T22:17:23.427Z</updated>
+        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이로그]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.280Z</updated>
-        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
+        <updated>2023-05-02T22:17:23.430Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트잘알]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-02T21:16:15.283Z</updated>
-        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
+        <updated>2023-05-02T22:17:23.432Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
 </feed>
