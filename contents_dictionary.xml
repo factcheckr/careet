@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-23T12:33:48.992Z</updated>
+    <updated>2023-05-23T13:25:21.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[홈쿡]]></title>
+        <title type="html"><![CDATA[공스타그램]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.384Z</updated>
-        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
+        <updated>2023-05-23T13:25:11.055Z</updated>
+        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 돋보기]]></title>
+        <title type="html"><![CDATA[갓기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.385Z</updated>
-        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
+        <updated>2023-05-23T13:25:11.055Z</updated>
+        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리셀(resell)]]></title>
+        <title type="html"><![CDATA[밸붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.387Z</updated>
-        <content type="html"><![CDATA[희소한 제품을 구입해 웃돈을 얹어 되파는 행위. 한정판 스니커즈부터 구하기 힘든 굿즈까지 대상은 다양함.]]></content>
+        <updated>2023-05-23T13:25:11.058Z</updated>
+        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.389Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2023-05-23T13:25:11.058Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[극호]]></title>
+        <title type="html"><![CDATA[덕력]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.391Z</updated>
-        <content type="html"><![CDATA[‘극도로 호감’의 줄임말. 비슷한 의미의 표현으로는 ‘최애(=가장 사랑함)’가 있음.]]></content>
+        <updated>2023-05-23T13:25:11.061Z</updated>
+        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T12:33:40.393Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2023-05-23T13:25:11.061Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
 </feed>
