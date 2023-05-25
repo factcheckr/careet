@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-25T07:17:38.574Z</updated>
+    <updated>2023-05-25T08:23:29.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[플래그]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.939Z</updated>
-        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
+        <updated>2023-05-25T08:23:21.621Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[랩핑지]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.940Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-05-25T08:23:21.622Z</updated>
+        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0차]]></title>
+        <title type="html"><![CDATA[혼코노]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.940Z</updated>
-        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
+        <updated>2023-05-25T08:23:21.625Z</updated>
+        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인친]]></title>
+        <title type="html"><![CDATA[모바일 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.941Z</updated>
-        <content type="html"><![CDATA[인스타그램 친구의 줄임말.]]></content>
+        <updated>2023-05-25T08:23:21.627Z</updated>
+        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[여덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.941Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-05-25T08:23:21.630Z</updated>
+        <content type="html"><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
+        <title type="html"><![CDATA[국그릇핑크퐁]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-25T07:17:27.945Z</updated>
-        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
+        <updated>2023-05-25T08:23:21.632Z</updated>
+        <content type="html"><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content>
     </entry>
 </feed>
