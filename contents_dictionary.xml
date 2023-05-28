@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-28T12:30:39.844Z</updated>
+    <updated>2023-05-28T13:18:59.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[랩핑지]]></title>
+        <title type="html"><![CDATA[할매니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.259Z</updated>
-        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
+        <updated>2023-05-28T13:18:49.185Z</updated>
+        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[웃참]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.261Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2023-05-28T13:18:49.185Z</updated>
+        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[총공]]></title>
+        <title type="html"><![CDATA[카공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.265Z</updated>
-        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
+        <updated>2023-05-28T13:18:49.185Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탭꾸]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.272Z</updated>
-        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
+        <updated>2023-05-28T13:18:49.186Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[닥눈삼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.272Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2023-05-28T13:18:49.187Z</updated>
+        <content type="html"><![CDATA[‘닥치고 눈팅 삼년’의 줄임말. 주로 커뮤니티 유저들 사이에서 사용되는 용어로, 처음 커뮤니티 활동을 시작할 때 규칙이나 분위기를 충분히 파악하고 활동하라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소취]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-28T12:30:31.273Z</updated>
-        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
+        <updated>2023-05-28T13:18:49.188Z</updated>
+        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
 </feed>
