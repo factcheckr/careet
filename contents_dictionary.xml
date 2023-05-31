@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-31T13:22:01.940Z</updated>
+    <updated>2023-05-31T14:17:30.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[글 리젠]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.753Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
+        <updated>2023-05-31T14:17:21.724Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[병약미]]></title>
+        <title type="html"><![CDATA[빛삭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.754Z</updated>
-        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
+        <updated>2023-05-31T14:17:21.725Z</updated>
+        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽐뿌]]></title>
+        <title type="html"><![CDATA[맛없없]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.758Z</updated>
-        <content type="html"><![CDATA[무언가를 소비하고 싶은 충동을 부르는 온라인 유행어.]]></content>
+        <updated>2023-05-31T14:17:21.726Z</updated>
+        <content type="html"><![CDATA[‘맛 없을 수 없다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로깅]]></title>
+        <title type="html"><![CDATA[포토 카드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.761Z</updated>
-        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
+        <updated>2023-05-31T14:17:21.731Z</updated>
+        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡]]></title>
+        <title type="html"><![CDATA[트롤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.763Z</updated>
-        <content type="html"><![CDATA[바이트댄스에서 2016년 출시한 숏폼 서비스.]]></content>
+        <updated>2023-05-31T14:17:21.731Z</updated>
+        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[짠테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T13:21:51.764Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2023-05-31T14:17:21.731Z</updated>
+        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
     </entry>
 </feed>
