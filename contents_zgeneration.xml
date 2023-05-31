@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 01:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 핀터레스트 털어왔습니다. Next Y2K 비주얼 레퍼런스 7]]></title>
+            <link>https://www.careet.net/1094</link>
+            <guid>https://www.careet.net/1094</guid>
+            <pubDate>Wed, 31 May 2023 01:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대는 이런 콘셉트로 화보 찍고 영상 편집하고 있어요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/959d054c-e2f4-4a5b-87f7-00e9729c785a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[20만 원짜리 브랜드 키링이 인기? NEW 패션 트렌드]]></title>
             <link>https://www.careet.net/1080</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 06 Apr 2023 01:19:09 GMT</pubDate>
             <content:encoded><![CDATA[중고등학교 동아리 근황! 성우 동아리가 왜 인기야?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/0e08532e-80b7-46a2-8599-a29f302e23c3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW 굿즈 트렌드! 부적 사려고 2시간 웨이팅하는 Z세대 근황]]></title>
-            <link>https://www.careet.net/1049</link>
-            <guid>https://www.careet.net/1049</guid>
-            <pubDate>Wed, 22 Mar 2023 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대에게 화제된 부적 굿즈를 모았습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/00053171-cac2-4d34-8939-d1f89469fdc0_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
