@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-31T17:21:35.040Z</updated>
+    <updated>2023-05-31T18:22:39.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.022Z</updated>
-        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
+        <updated>2023-05-31T18:22:30.411Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버실]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.022Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+        <updated>2023-05-31T18:22:30.413Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에듀테이너]]></title>
+        <title type="html"><![CDATA[라라라러브송]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.024Z</updated>
-        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
+        <updated>2023-05-31T18:22:30.413Z</updated>
+        <content type="html"><![CDATA[일본인 가수 ‘쿠보타 토시노부’의 ‘La La La Love Song’. 시티팝 특유의 감성이 그대로 녹아 있는 유명곡 중 하나로 국내에서 많은 아티스트가 커버함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐]]></title>
+        <title type="html"><![CDATA[할매니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.025Z</updated>
-        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
+        <updated>2023-05-31T18:22:30.414Z</updated>
+        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스]]></title>
+        <title type="html"><![CDATA[타래]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.027Z</updated>
-        <content type="html"><![CDATA[가상 세계와 현실 세계의 경계가 허물어진 3차원 가상 세계를 뜻함. 이용자는 아바타를 이용하여 메타버스 세계관 아래서 사회, 경제, 문화 활동을 함.  이를 활용한 대표적인 콘텐츠로는 게임 ‘로블록스’, ‘마인크래프트’, 증강현실 아바타 서비스 ‘제페토’등이 있다.]]></content>
+        <updated>2023-05-31T18:22:30.417Z</updated>
+        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중꺾마]]></title>
+        <title type="html"><![CDATA[읽페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-31T17:21:25.029Z</updated>
-        <content type="html"><![CDATA[‘중요한 건 꺾이지 않는 마음’을 줄인 말. 최약체 팀이 롤드컵에서 우승한 사건을 다룬 기사 제목에서 유래한 MZ세대 유행어.]]></content>
+        <updated>2023-05-31T18:22:30.418Z</updated>
+        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
 </feed>
