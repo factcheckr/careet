@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-04T19:13:45.502Z</updated>
+    <updated>2023-06-04T20:18:07.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[부캐]]></title>
+        <title type="html"><![CDATA[밥약]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.182Z</updated>
-        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
+        <updated>2023-06-04T20:17:58.758Z</updated>
+        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[캐해석]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.183Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2023-06-04T20:17:58.759Z</updated>
+        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘알]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.186Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
+        <updated>2023-06-04T20:17:58.759Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[도무송]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.188Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2023-06-04T20:17:58.759Z</updated>
+        <content type="html"><![CDATA[칼선이 들어가 모양대로 뗄 수 있는 스티커. 일반적으로 한 장에 스티커 하나씩 들어가 있는 형태가 많음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펀슈머]]></title>
+        <title type="html"><![CDATA[찐친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.189Z</updated>
-        <content type="html"><![CDATA[‘Fun(재미)’과 ‘Consumer(소비자)’의 합성어로, 소비 과정에서 재미를 추구하는 소비자를 일컫는 말.]]></content>
+        <updated>2023-06-04T20:17:58.759Z</updated>
+        <content type="html"><![CDATA[‘진짜 친한 친구’를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스카]]></title>
+        <title type="html"><![CDATA[자강두천]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T19:13:37.191Z</updated>
-        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
+        <updated>2023-06-04T20:17:58.760Z</updated>
+        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
     </entry>
 </feed>
