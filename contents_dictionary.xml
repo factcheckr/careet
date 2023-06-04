@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-04T03:10:09.735Z</updated>
+    <updated>2023-06-04T04:20:16.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[콜렉트북]]></title>
+        <title type="html"><![CDATA[캐릿 알파세대 자문단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.002Z</updated>
-        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
+        <updated>2023-06-04T04:20:07.042Z</updated>
+        <content type="html"><![CDATA[1020으로 구성된 캐릿의 알파세대 자문단 그룹. 동생, 과외 학생 등 알파세대와 접점이 있는 이들로 구성되어 있으며 알파세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재주행]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.002Z</updated>
-        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
+        <updated>2023-06-04T04:20:07.043Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버실]]></title>
+        <title type="html"><![CDATA[빙의글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.004Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+        <updated>2023-06-04T04:20:07.044Z</updated>
+        <content type="html"><![CDATA[좋아하는 연예인을 대상으로 특정 상황을 설정해 작성한 글.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별다꾸]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.005Z</updated>
-        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
+        <updated>2023-06-04T04:20:07.045Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도아너]]></title>
+        <title type="html"><![CDATA[스불재]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.007Z</updated>
-        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
+        <updated>2023-06-04T04:20:07.045Z</updated>
+        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 리젠]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T03:10:01.008Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
+        <updated>2023-06-04T04:20:07.046Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
 </feed>
