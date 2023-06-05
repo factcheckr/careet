@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담당자 누굴까? 요즘 비주얼 트렌드 잘 파악한 브랜드]]></title>
+            <link>https://www.careet.net/1097</link>
+            <guid>https://www.careet.net/1097</guid>
+            <pubDate>Mon, 05 Jun 2023 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[이 주의 일 잘한 브랜드: BBQ, 농심, 에스파, 삼성전자 갤럭시]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/34f959c0-542c-474f-9e0e-a5443123da1c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이주의 일 잘한 브랜드] Z세대는 어떤 메시지가 담긴 광고에 호감을 가질까?]]></title>
             <link>https://www.careet.net/1087</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 17 Apr 2023 02:35:02 GMT</pubDate>
             <content:encoded><![CDATA[다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202104/d1f306e0-7db5-48aa-9ef1-444b50845ddc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’]]></title>
-            <link>https://www.careet.net/1060</link>
-            <guid>https://www.careet.net/1060</guid>
-            <pubDate>Mon, 10 Apr 2023 02:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[조회 수 1000만, 해시태그 1만! 부러운 결과 자랑하는 온라인 마케팅 3]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/85ef23a1-dfb0-4fc7-bc97-a74f32c90a22_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
