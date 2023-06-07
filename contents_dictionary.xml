@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-07T18:24:37.527Z</updated>
+    <updated>2023-06-07T19:15:04.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[오픈런]]></title>
+        <title type="html"><![CDATA[무배]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.069Z</updated>
-        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
+        <updated>2023-06-07T19:14:54.942Z</updated>
+        <content type="html"><![CDATA[무료배송의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[액괴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.072Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2023-06-07T19:14:54.945Z</updated>
+        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛잘알]]></title>
+        <title type="html"><![CDATA[드롭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.074Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
+        <updated>2023-06-07T19:14:54.946Z</updated>
+        <content type="html"><![CDATA[특정 날짜, 특정 시간에 소량의 상품을 기습적으로 판매하는 방식. MZ세대 타깃 브랜드가 ‘래플’과 함께 자주 사용하는 판매 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕력]]></title>
+        <title type="html"><![CDATA[브이로그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.077Z</updated>
-        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
+        <updated>2023-06-07T19:14:54.948Z</updated>
+        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.081Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2023-06-07T19:14:54.948Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짤털]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-07T18:24:28.082Z</updated>
-        <content type="html"><![CDATA[‘짤 털기’의 줄임말. 주로 한 주제의 사진 여러 장을 한꺼번에 올리는 일을 부르는 말.]]></content>
+        <updated>2023-06-07T19:14:54.951Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
 </feed>
