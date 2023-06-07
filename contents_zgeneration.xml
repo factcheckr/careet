@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 09:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 10:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChatGPT가 바꾼 캠퍼스 풍경, 대학생 100인에게 물었습니다]]></title>
+            <link>https://www.careet.net/1095</link>
+            <guid>https://www.careet.net/1095</guid>
+            <pubDate>Wed, 07 Jun 2023 10:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[대학생 76%, ChatGPT 이용해본 적 있다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/800f708c-328d-47ef-9baa-2c3b8aef9187_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 핀터레스트 털어왔습니다. Next Y2K 비주얼 레퍼런스 7]]></title>
             <link>https://www.careet.net/1094</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 13 Apr 2023 02:32:49 GMT</pubDate>
             <content:encoded><![CDATA[틱톡을 제치고 성장 중이라는 앱, 캡컷에 대한 모든 것]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/2c6782ef-c283-4ed3-9406-74a15830e947_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고등학교 인기 동아리를 보면 10대 트렌드가 보인다! 인기 동아리.list]]></title>
-            <link>https://www.careet.net/1056</link>
-            <guid>https://www.careet.net/1056</guid>
-            <pubDate>Thu, 06 Apr 2023 01:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[중고등학교 동아리 근황! 성우 동아리가 왜 인기야?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/0e08532e-80b7-46a2-8599-a29f302e23c3_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
