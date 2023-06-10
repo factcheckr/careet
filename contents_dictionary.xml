@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-10T21:15:02.084Z</updated>
+    <updated>2023-06-10T22:16:00.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[팅글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.850Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2023-06-10T22:15:51.573Z</updated>
+        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짤털]]></title>
+        <title type="html"><![CDATA[핫템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.850Z</updated>
-        <content type="html"><![CDATA[‘짤 털기’의 줄임말. 주로 한 주제의 사진 여러 장을 한꺼번에 올리는 일을 부르는 말.]]></content>
+        <updated>2023-06-10T22:15:51.574Z</updated>
+        <content type="html"><![CDATA[Hot + ‘아이템’의 합성어. 유행하는 아이템이나 꼭 필요한 아이템을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라라러브송]]></title>
+        <title type="html"><![CDATA[타임 스탬프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.850Z</updated>
-        <content type="html"><![CDATA[일본인 가수 ‘쿠보타 토시노부’의 ‘La La La Love Song’. 시티팝 특유의 감성이 그대로 녹아 있는 유명곡 중 하나로 국내에서 많은 아티스트가 커버함]]></content>
+        <updated>2023-06-10T22:15:51.575Z</updated>
+        <content type="html"><![CDATA[유튜브 영상에서 특정 구간으로 바로 이동할 수 있도록 설명 란이나 댓글에 시간을 표시해 두는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뵤]]></title>
+        <title type="html"><![CDATA[GOAT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.852Z</updated>
-        <content type="html"><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content>
+        <updated>2023-06-10T22:15:51.577Z</updated>
+        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달글]]></title>
+        <title type="html"><![CDATA[로고 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.853Z</updated>
-        <content type="html"><![CDATA[‘달리는 글’의 줄임말. 한 가지 주제가 정해지면 그 주제에 대해서만 얘기하는 글을 뜻함. 유사한 커뮤니티 문화로는 ‘불판’이 있음.]]></content>
+        <updated>2023-06-10T22:15:51.578Z</updated>
+        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T21:14:53.854Z</updated>
-        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
+        <updated>2023-06-10T22:15:51.579Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
