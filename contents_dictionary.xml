@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-11T04:20:43.124Z</updated>
+    <updated>2023-06-11T05:16:47.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[리젠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.439Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2023-06-11T05:16:38.073Z</updated>
+        <content type="html"><![CDATA[‘regeneration(부활)’의 줄임말로, 게임에서 몬스터가 죽고난 뒤 다시 나타나는 것을 뜻한다. 통상적으로는 ‘새로운 게시물이 업로드 되었다’라는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스불재]]></title>
+        <title type="html"><![CDATA[시고르자브종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.439Z</updated>
-        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
+        <updated>2023-06-11T05:16:38.075Z</updated>
+        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OO깡]]></title>
+        <title type="html"><![CDATA[민초단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.439Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2023-06-11T05:16:38.080Z</updated>
+        <content type="html"><![CDATA[민트 초코를 좋아하는 이들을 부르는 말. 호불호가 갈리는 민트 초코 논쟁에서 ‘민초’ 편인 사람.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.439Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-06-11T05:16:38.083Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임플로이언서]]></title>
+        <title type="html"><![CDATA[프박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.447Z</updated>
-        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
+        <updated>2023-06-11T05:16:38.083Z</updated>
+        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-11T04:20:34.447Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-06-11T05:16:38.085Z</updated>
+        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
     </entry>
 </feed>
