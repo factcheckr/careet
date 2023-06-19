@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 01:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
+            <link>https://www.careet.net/1106</link>
+            <guid>https://www.careet.net/1106</guid>
+            <pubDate>Mon, 19 Jun 2023 01:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[성수, 홍대 말고 어디에 팝업스토어 열지 고민된다면 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f56cfe7a-b838-4271-a933-a1cf2eb7af25_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[또 나만 몰랐지, ‘인생네컷 채용’이 뭐야?]]></title>
             <link>https://www.careet.net/1101</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 09 May 2023 01:22:39 GMT</pubDate>
             <content:encoded><![CDATA[오프라인 포토존부터 → 틱톡 계정 운영법까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b19292b0-4b88-4a81-9b5b-757728e98925_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주, Z세대에게 주목 받은 브랜드 이벤트, 영상 광고는?]]></title>
-            <link>https://www.careet.net/1068</link>
-            <guid>https://www.careet.net/1068</guid>
-            <pubDate>Mon, 24 Apr 2023 01:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[이벤트와 광고 영상에 참고할 디테일 포인트 캐기]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/07322dad-e5ce-4ec7-9845-caad738e04f0_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

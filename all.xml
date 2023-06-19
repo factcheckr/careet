@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 01:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/1106</link>
+            <guid>https://www.careet.net/1106</guid>
+            <pubDate>Mon, 19 Jun 2023 01:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[성수, 홍대 말고 어디에 팝업스토어 열지 고민된다면 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f56cfe7a-b838-4271-a933-a1cf2eb7af25_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[누가 먼저 콜라보할까? 제2의 최고심, 대박난 캐릭터의 등장 (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/1104</link>
@@ -360,6 +368,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/f57cac5e-0d3c-41da-bfa1-fa2a24359bd3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+            <link>https://www.careet.net/1106</link>
+            <guid>https://www.careet.net/1106</guid>
+            <pubDate>Mon, 19 Jun 2023 01:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[성수, 홍대 말고 어디에 팝업스토어 열지 고민된다면 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f56cfe7a-b838-4271-a933-a1cf2eb7af25_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[또 나만 몰랐지, ‘인생네컷 채용’이 뭐야? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/1101</link>
             <guid>https://www.careet.net/1101</guid>
@@ -400,14 +416,6 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b19292b0-4b88-4a81-9b5b-757728e98925_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이번 주, Z세대에게 주목 받은 브랜드 이벤트, 영상 광고는? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-            <link>https://www.careet.net/1068</link>
-            <guid>https://www.careet.net/1068</guid>
-            <pubDate>Mon, 24 Apr 2023 01:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[이벤트와 광고 영상에 참고할 디테일 포인트 캐기]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/07322dad-e5ce-4ec7-9845-caad738e04f0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[크롭티 입고 출근 가능? 자율복장제에 대한 Z세대의 생각 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
             <link>https://newsis.com/view/?id=NISX20230616_0002341144&amp;cID=10409&amp;pID=13000</link>
             <guid>https://newsis.com/view/?id=NISX20230616_0002341144&amp;cID=10409&amp;pID=13000</guid>
@@ -418,52 +426,52 @@
                                                 <a href="https://newsis.com/view/?id=NISX20230616_0002341144&amp;cID=10409&amp;pID=13000" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가심비 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[앨범깡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[글 리젠 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[탑로더 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[텍대 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[스트리머 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단호박 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[블챌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[갓생 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[데스크테리어 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플래그 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[여덕 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content:encoded>
+            <pubDate>Mon, 19 Jun 2023 01:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(광고) 제2의 에어팟 논쟁! 무알콜 맥주 논쟁 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.161]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202306/d21231b1-9c01-498c-8412-51eb98cfd2a2_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -471,7 +479,7 @@
             <title><![CDATA[(광고) Z세대 63.8%, “인플루언서 되고 싶어” (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.160]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202305/e07ca019-b1bc-407e-8f69-733e7de8f9b3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -479,7 +487,7 @@
             <title><![CDATA[요즘 초등학생은 용돈 어디에 쓸까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.159]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202305/026750f1-bef3-4f4a-8b51-ea7e72beb1c1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -487,7 +495,7 @@
             <title><![CDATA[(광고) 요즘 10대는 어떻게 썸타는지 궁금하신 분? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.158]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202305/dd9ca478-89fe-4262-9b99-0e96c585c60d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -495,7 +503,7 @@
             <title><![CDATA[이제 ‘오빠랑’ 아니고 ‘엄빠랑’이라고? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.157]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202305/3be1cfe8-7064-4120-ab54-92d72834582e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -503,7 +511,7 @@
             <title><![CDATA[(광고) 팝업스토어, 한다고 효과 있을까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.156]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202305/96ed2a81-44d7-4852-a20c-ca6c8a627d8d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -511,7 +519,7 @@
             <title><![CDATA[캐릿이 23학번 간접 체험 시켜드립니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.155]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202304/a756a5ca-0bca-48af-9ec5-685e432fda66_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -519,7 +527,7 @@
             <title><![CDATA[(광고) 1020 다 한다는 절약방, 왜 유행인데? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.154]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202304/07db086a-2895-41b6-a390-77d4cec7e2c2_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -527,7 +535,7 @@
             <title><![CDATA[나만 몰랐음? 요즘 유행하는 사진 포즈 (feat. 당첨자 발표) (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.153]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202304/92a25e5b-c0ec-4d88-a812-44ed80d997db_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +543,7 @@
             <title><![CDATA[(광고) 캐릿 3주년 시크릿 레터! 놓치면 못 봐요 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.152]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202304/d39c198a-b37f-4836-af75-6369dc325734_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -543,7 +551,7 @@
             <title><![CDATA[요즘엔 띠부띠부씰 대신 부적 모은다고? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.151]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202303/a7ae71c4-6d62-4a9c-9159-fba85e764fbc_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -551,7 +559,7 @@
             <title><![CDATA[(광고) 캐릿은 아이템 어떻게 찾는지 썰푼다 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:56 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:40:07 GMT</pubDate>
             <content:encoded><![CDATA[vol.150]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202303/a4533142-fad5-4db0-9e20-790ed18ca933_300x300.jpg" length="0" type="image/jpg"/>
         </item>
