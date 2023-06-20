@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-20T16:22:40.709Z</updated>
+    <updated>2023-06-20T17:16:04.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[포토 카드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.629Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-06-20T17:15:54.963Z</updated>
+        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맞춤형 광고]]></title>
+        <title type="html"><![CDATA[마테]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.633Z</updated>
-        <content type="html"><![CDATA[이용자의 검색 기록, 구매 정보 등을 기반으로 노출되는 타깃 광고,]]></content>
+        <updated>2023-06-20T17:15:54.965Z</updated>
+        <content type="html"><![CDATA[마스킹테이프의 준말. 주로 다이어리 등을 꾸밀 때 이용됨]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓기]]></title>
+        <title type="html"><![CDATA[탭꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.636Z</updated>
-        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
+        <updated>2023-06-20T17:15:54.965Z</updated>
+        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빠던]]></title>
+        <title type="html"><![CDATA[퍼블리시티권]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.638Z</updated>
-        <content type="html"><![CDATA[배트 플립(bat flip)의 한국식 표기. 일명 ‘빠따 던지기’의 줄임말. 타자가 홈런이 짐작되는 타격을 한 뒤, 야구 방망이를 던지는 행위를 말함.]]></content>
+        <updated>2023-06-20T17:15:54.965Z</updated>
+        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.639Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2023-06-20T17:15:54.966Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
+        <title type="html"><![CDATA[라방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-20T16:22:32.640Z</updated>
-        <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2023-06-20T17:15:54.968Z</updated>
+        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
     </entry>
 </feed>
