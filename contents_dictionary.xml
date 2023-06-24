@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-24T10:20:20.585Z</updated>
+    <updated>2023-06-24T11:16:18.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[디깅]]></title>
+        <title type="html"><![CDATA[캘박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.950Z</updated>
-        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
+        <updated>2023-06-24T11:16:10.084Z</updated>
+        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시고르자브종]]></title>
+        <title type="html"><![CDATA[뽀시래기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.951Z</updated>
-        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
+        <updated>2023-06-24T11:16:10.086Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핀스타]]></title>
+        <title type="html"><![CDATA[레딧]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.953Z</updated>
-        <content type="html"><![CDATA[가짜 계정. ‘Fake Instagram’의 줄임말.]]></content>
+        <updated>2023-06-24T11:16:10.089Z</updated>
+        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모먼트]]></title>
+        <title type="html"><![CDATA[병약미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.958Z</updated>
-        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
+        <updated>2023-06-24T11:16:10.089Z</updated>
+        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.959Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-06-24T11:16:10.092Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 리젠]]></title>
+        <title type="html"><![CDATA[알잘딱깔센]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T10:20:11.961Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
+        <updated>2023-06-24T11:16:10.093Z</updated>
+        <content type="html"><![CDATA[‘알아서 잘 딱 깔끔하고 센스있게’의 줄임말. 게임 스트리머 우왁굳이 사용하며 널리 쓰이기 시작함.]]></content>
     </entry>
 </feed>
