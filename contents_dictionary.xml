@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-26T06:27:56.291Z</updated>
+    <updated>2023-06-26T07:20:25.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[힙(hip)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.719Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2023-06-26T07:20:17.401Z</updated>
+        <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. ‘힙하다’, ‘힙한 OO’로 쓰임. (유사어: 트렌디하다)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋페]]></title>
+        <title type="html"><![CDATA[언박싱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.720Z</updated>
-        <content type="html"><![CDATA[‘좋아요 누르면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2023-06-26T07:20:17.401Z</updated>
+        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[화력]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.721Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-06-26T07:20:17.403Z</updated>
+        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[좋댓공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.722Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2023-06-26T07:20:17.403Z</updated>
+        <content type="html"><![CDATA[SNS 게시물에 ‘좋아요’를 누르고, 공유하고, 댓글을 달아 주는 일.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영끌]]></title>
+        <title type="html"><![CDATA[읽페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.723Z</updated>
-        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
+        <updated>2023-06-26T07:20:17.403Z</updated>
+        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원툴]]></title>
+        <title type="html"><![CDATA[자만추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-26T06:27:47.724Z</updated>
-        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
+        <updated>2023-06-26T07:20:17.404Z</updated>
+        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
     </entry>
 </feed>
