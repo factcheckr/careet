@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 01:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅만 30분, 향수 뿌린 책으로 MZ 불러 모은 ‘문학 마케팅’]]></title>
+            <link>https://www.careet.net/1112</link>
+            <guid>https://www.careet.net/1112</guid>
+            <pubDate>Mon, 26 Jun 2023 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[책 안 읽을 것 같은 MZ세대가 소설가와 브랜드의 콜라보를 반기는 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/185e3436-0f76-428c-bc6c-cf2f21be9a55_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
             <link>https://www.careet.net/1106</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 15 May 2023 02:36:41 GMT</pubDate>
             <content:encoded><![CDATA[‘팝업스토어에 방문한 후에 이 브랜드 이미지가 긍정적으로 변했어요.’ 특징 5가지를 모았습니다.]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/d97febdb-f570-436a-9fd6-406b25326d7c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 자꾸 노잼이래? Z세대 반응 뜨거운 공공 마케팅.zip]]></title>
-            <link>https://www.careet.net/1074</link>
-            <guid>https://www.careet.net/1074</guid>
-            <pubDate>Tue, 09 May 2023 01:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 포토존부터 → 틱톡 계정 운영법까지!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b19292b0-4b88-4a81-9b5b-757728e98925_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
