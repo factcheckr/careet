@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-27T03:03:26.241Z</updated>
+    <updated>2023-06-27T04:23:50.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[솔플러]]></title>
+        <title type="html"><![CDATA[얼죽코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.101Z</updated>
-        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
+        <updated>2023-06-27T04:23:41.394Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끌올]]></title>
+        <title type="html"><![CDATA[안읽씹]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.103Z</updated>
-        <content type="html"><![CDATA[이전에 있었던 일을 다시 끌어 올려 화제로 삼는 일을 부르는 말.]]></content>
+        <updated>2023-06-27T04:23:41.397Z</updated>
+        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.104Z</updated>
-        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
+        <updated>2023-06-27T04:23:41.400Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POV]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.106Z</updated>
-        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
+        <updated>2023-06-27T04:23:41.400Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직찍]]></title>
+        <title type="html"><![CDATA[DM]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.108Z</updated>
-        <content type="html"><![CDATA[(공식적으로 촬영된 것이 아닌) 팬이 직접 찍은 사진.]]></content>
+        <updated>2023-06-27T04:23:41.402Z</updated>
+        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코끝모]]></title>
+        <title type="html"><![CDATA[디지털 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-27T03:03:17.110Z</updated>
-        <content type="html"><![CDATA[코로나 끝나면 모이자를 줄인 신조어.]]></content>
+        <updated>2023-06-27T04:23:41.402Z</updated>
+        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
     </entry>
 </feed>
