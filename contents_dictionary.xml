@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-05T16:28:58.606Z</updated>
+    <updated>2023-07-05T17:18:45.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[직관]]></title>
+        <title type="html"><![CDATA[브이로그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.421Z</updated>
-        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
+        <updated>2023-07-05T17:18:36.249Z</updated>
+        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인싸]]></title>
+        <title type="html"><![CDATA[랩핑지]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.422Z</updated>
-        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
+        <updated>2023-07-05T17:18:36.256Z</updated>
+        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.423Z</updated>
-        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
+        <updated>2023-07-05T17:18:36.256Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솜뭉치]]></title>
+        <title type="html"><![CDATA[드덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.425Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
+        <updated>2023-07-05T17:18:36.256Z</updated>
+        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.427Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-07-05T17:18:36.257Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인소]]></title>
+        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-05T16:28:48.427Z</updated>
-        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
+        <updated>2023-07-05T17:18:36.260Z</updated>
+        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
     </entry>
 </feed>
