@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-07T08:25:18.852Z</updated>
+    <updated>2023-07-07T09:19:59.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알티]]></title>
+        <title type="html"><![CDATA[알티스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.209Z</updated>
-        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
+        <updated>2023-07-07T09:19:49.485Z</updated>
+        <content type="html"><![CDATA[트윗의 리트윗(공유) 수가 1,000 단위를 넘어가며 화제가 되는 경우, 해당 트윗을 올린 트위터리안을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타임 스탬프]]></title>
+        <title type="html"><![CDATA[인쇼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.210Z</updated>
-        <content type="html"><![CDATA[유튜브 영상에서 특정 구간으로 바로 이동할 수 있도록 설명 란이나 댓글에 시간을 표시해 두는 기능.]]></content>
+        <updated>2023-07-07T09:19:49.487Z</updated>
+        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역조공]]></title>
+        <title type="html"><![CDATA[손민수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.215Z</updated>
-        <content type="html"><![CDATA[연예인이 자신의 팬들에게 선물을 주는 행동 혹은 그 선물을 가르키는 말.]]></content>
+        <updated>2023-07-07T09:19:49.489Z</updated>
+        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <title type="html"><![CDATA[롤드컵]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.215Z</updated>
-        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
+        <updated>2023-07-07T09:19:49.491Z</updated>
+        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬튜브]]></title>
+        <title type="html"><![CDATA[짠테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.216Z</updated>
-        <content type="html"><![CDATA[팬이 운영하는 유튜브 계정. 특정 아이돌이나 배우가 출연한 콘텐츠를 2차 가공한 영상을 업로드함.]]></content>
+        <updated>2023-07-07T09:19:49.493Z</updated>
+        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[까방]]></title>
+        <title type="html"><![CDATA[재주행]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T08:25:09.218Z</updated>
-        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
+        <updated>2023-07-07T09:19:49.495Z</updated>
+        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
     </entry>
 </feed>
