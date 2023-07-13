@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-13T13:33:43.142Z</updated>
+    <updated>2023-07-13T14:19:46.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[온콘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:33.985Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2023-07-13T14:19:36.813Z</updated>
+        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영통 팬싸]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:33.994Z</updated>
-        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
+        <updated>2023-07-13T14:19:36.818Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[덕업일치]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:33.997Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2023-07-13T14:19:36.821Z</updated>
+        <content type="html"><![CDATA[덕질하는 것이 직업이 되었다는 뜻. 요즘은 좋아하는 일이 직업이 되었을 때 사용하는 말로 확장됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[커미션(commission)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:33.999Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2023-07-13T14:19:36.824Z</updated>
+        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하지만꽃]]></title>
+        <title type="html"><![CDATA[내적 친밀감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:34.001Z</updated>
-        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
+        <updated>2023-07-13T14:19:36.827Z</updated>
+        <content type="html"><![CDATA[실제로 알지는 못하지만 온라인 상에서 자주 소식을 접해서 내적으로 친밀감이 쌓였다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에브리타임]]></title>
+        <title type="html"><![CDATA[VSCO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-13T13:33:34.005Z</updated>
-        <content type="html"><![CDATA[학교별 게시판이 운영되는 대학교 커뮤니티 서비스.]]></content>
+        <updated>2023-07-13T14:19:36.830Z</updated>
+        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
     </entry>
 </feed>
