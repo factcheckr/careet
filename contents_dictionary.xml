@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-15T16:23:42.875Z</updated>
+    <updated>2023-07-15T17:16:27.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[진대]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.967Z</updated>
-        <content type="html"><![CDATA[‘진지한 대화’의 줄임말.]]></content>
+        <updated>2023-07-15T17:16:18.862Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱 이코노미]]></title>
+        <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.969Z</updated>
-        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
+        <updated>2023-07-15T17:16:18.864Z</updated>
+        <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실트]]></title>
+        <title type="html"><![CDATA[트알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.971Z</updated>
-        <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
+        <updated>2023-07-15T17:16:18.866Z</updated>
+        <content type="html"><![CDATA[‘트렌드를 잘 모르는 사람’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하지만꽃]]></title>
+        <title type="html"><![CDATA[언팔]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.974Z</updated>
-        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
+        <updated>2023-07-15T17:16:18.868Z</updated>
+        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비상이다]]></title>
+        <title type="html"><![CDATA[언박싱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.976Z</updated>
-        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
+        <updated>2023-07-15T17:16:18.869Z</updated>
+        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T16:23:33.978Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2023-07-15T17:16:18.871Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
 </feed>
