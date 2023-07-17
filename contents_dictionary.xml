@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-17T07:20:27.722Z</updated>
+    <updated>2023-07-17T08:26:44.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스불재]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.016Z</updated>
-        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
+        <updated>2023-07-17T08:26:35.491Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커미션(commission)]]></title>
+        <title type="html"><![CDATA[디지털 굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.021Z</updated>
-        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
+        <updated>2023-07-17T08:26:35.494Z</updated>
+        <content type="html"><![CDATA[휴대폰·아이패드 배경화면, 카카오톡 테마 등 모바일 환경에 적용해서 사용할 수 있는 템플릿. 실물 굿즈가 아닌 온라인에서 배포할 수 있다는 점이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이라이브]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.022Z</updated>
-        <content type="html"><![CDATA[네이버의 실시간 방송 플랫폼. 스타와 팬과 소통하는 창구로 쓰임.]]></content>
+        <updated>2023-07-17T08:26:35.508Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈술]]></title>
+        <title type="html"><![CDATA[홈트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.023Z</updated>
-        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
+        <updated>2023-07-17T08:26:35.511Z</updated>
+        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[액괴 유튜버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.025Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2023-07-17T08:26:35.514Z</updated>
+        <content type="html"><![CDATA[액괴란 액체괴물(슬라임)의 줄임말임. 액괴 유튜버란 ‘슬라임’을 만지고 노는 콘텐츠를 주로 업로드하는 유튜버를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓기]]></title>
+        <title type="html"><![CDATA[많관부]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-17T07:20:17.028Z</updated>
-        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
+        <updated>2023-07-17T08:26:35.516Z</updated>
+        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
     </entry>
 </feed>
