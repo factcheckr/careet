@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 23:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 02:50:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그거 아세요? Z세대는 유튜브 뮤직 TOP 100 듣는대요]]></title>
+            <link>https://www.careet.net/1132</link>
+            <guid>https://www.careet.net/1132</guid>
+            <pubDate>Wed, 19 Jul 2023 02:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[올 상반기, 눈에 띄는 음악 트렌드 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/1220e256-6e78-4604-9e6f-07ee284fc100_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[힙한 MZ 취미! 등산, 골프 가고 ‘여자 축구’가 뜬다고?]]></title>
             <link>https://www.careet.net/1098</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 02 May 2023 01:22:32 GMT</pubDate>
             <content:encoded><![CDATA[‘가정의 달’ 이벤트 준비 전 필독!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/1149bcae-5f61-4c56-99b4-aa81b22510b2_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[23학번 간접 체험하실래요? 달라진 캠퍼스 풍경 5]]></title>
-            <link>https://www.careet.net/1063</link>
-            <guid>https://www.careet.net/1063</guid>
-            <pubDate>Thu, 20 Apr 2023 02:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘블루투스 출튀’가 뭐야?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/f57cac5e-0d3c-41da-bfa1-fa2a24359bd3_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
