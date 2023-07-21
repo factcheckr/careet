@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-21T15:18:31.759Z</updated>
+    <updated>2023-07-21T16:22:43.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[맘찍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.941Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2023-07-21T16:22:34.955Z</updated>
+        <content type="html"><![CDATA[마음(=하트 버튼)을 찍어둔다는 뜻. 트위터에서 남의 게시물에 공감을 표하거나, 그 게시물을 보관하고 싶을 때 사용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맞춤형 광고]]></title>
+        <title type="html"><![CDATA[닥눈삼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.945Z</updated>
-        <content type="html"><![CDATA[이용자의 검색 기록, 구매 정보 등을 기반으로 노출되는 타깃 광고,]]></content>
+        <updated>2023-07-21T16:22:34.955Z</updated>
+        <content type="html"><![CDATA[‘닥치고 눈팅 삼년’의 줄임말. 주로 커뮤니티 유저들 사이에서 사용되는 용어로, 처음 커뮤니티 활동을 시작할 때 규칙이나 분위기를 충분히 파악하고 활동하라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[직관]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.948Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2023-07-21T16:22:34.956Z</updated>
+        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[찐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.951Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-07-21T16:22:34.956Z</updated>
+        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.954Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2023-07-21T16:22:34.957Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어덕행덕]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-21T15:18:22.957Z</updated>
-        <content type="html"><![CDATA[‘어차피 덕질할 거 행복하게 덕질하자.’를 줄여 이르는 말.]]></content>
+        <updated>2023-07-21T16:22:34.959Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
 </feed>
