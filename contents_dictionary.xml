@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-24T07:17:32.780Z</updated>
+    <updated>2023-07-24T08:23:05.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미슐랭]]></title>
+        <title type="html"><![CDATA[프박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.487Z</updated>
-        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
+        <updated>2023-07-24T08:22:55.940Z</updated>
+        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레게노]]></title>
+        <title type="html"><![CDATA[에타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.490Z</updated>
-        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
+        <updated>2023-07-24T08:22:55.942Z</updated>
+        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인플루언서블 세대]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.493Z</updated>
-        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
+        <updated>2023-07-24T08:22:55.947Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
+        <title type="html"><![CDATA[쿠키]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.497Z</updated>
-        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
+        <updated>2023-07-24T08:22:55.948Z</updated>
+        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[깡]]></title>
+        <title type="html"><![CDATA[빌드업]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.500Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2023-07-24T08:22:55.948Z</updated>
+        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무나]]></title>
+        <title type="html"><![CDATA[반모방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-24T07:17:22.502Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2023-07-24T08:22:55.949Z</updated>
+        <content type="html"><![CDATA[반말 모드 대화방의 줄임말. 말을 놓고 친해지는 채팅방으로, 주로 유튜브 댓글창에 열림.]]></content>
     </entry>
 </feed>
