@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
+            <link>https://www.careet.net/1126</link>
+            <guid>https://www.careet.net/1126</guid>
+            <pubDate>Tue, 25 Jul 2023 02:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[학교 다니면서 어떻게 브랜드를 만든다는 걸까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f77ccffc-7551-4534-b8f6-e0892b541f9b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그거 아세요? Z세대는 유튜브 뮤직 TOP 100 듣는대요]]></title>
             <link>https://www.careet.net/1132</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 23 May 2023 02:35:49 GMT</pubDate>
             <content:encoded><![CDATA[인형 키링 브랜드랑 콜라보하는 기업도 많아지고 있음!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/3c3c4de9-d0dc-4280-a339-ed1b4fcebcab_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[X세대와 Z세대의 마음을 동시에 사로잡으려면? ‘#엄빠랑’에 주목하세요]]></title>
-            <link>https://www.careet.net/1069</link>
-            <guid>https://www.careet.net/1069</guid>
-            <pubDate>Tue, 02 May 2023 01:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘가정의 달’ 이벤트 준비 전 필독!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/1149bcae-5f61-4c56-99b4-aa81b22510b2_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
