@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 04:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
+            <link>https://www.careet.net/1142</link>
+            <guid>https://www.careet.net/1142</guid>
+            <pubDate>Tue, 01 Aug 2023 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 밈, 또 생겼습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
             <link>https://www.careet.net/1118</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Mar 2023 01:22:35 GMT</pubDate>
             <content:encoded><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df65ed4e-9f93-461e-be25-cab7d2ff265f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음]]></title>
-            <link>https://www.careet.net/1026</link>
-            <guid>https://www.careet.net/1026</guid>
-            <pubDate>Thu, 02 Mar 2023 01:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
