@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-01T18:21:37.603Z</updated>
+    <updated>2023-08-01T19:14:03.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[공스타그램]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.676Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2023-08-01T19:13:53.658Z</updated>
+        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여름이었다]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.678Z</updated>
-        <content type="html"><![CDATA[트위터에서 시작된 유행어. 아무 말이나 해놓고, 뒤에 '여름이었다'라는 문구만 붙이면 감성적으로 보인다는 한 트윗에서 유래해 커뮤니티로 퍼짐.]]></content>
+        <updated>2023-08-01T19:13:53.658Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젶크]]></title>
+        <title type="html"><![CDATA[쩝쩝박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.680Z</updated>
-        <content type="html"><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content>
+        <updated>2023-08-01T19:13:53.663Z</updated>
+        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼사]]></title>
+        <title type="html"><![CDATA[실트 총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.682Z</updated>
-        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
+        <updated>2023-08-01T19:13:53.664Z</updated>
+        <content type="html"><![CDATA[원하는 메시지를 트위터 실시간 트렌드에 올리기 위해 해당 메시지가 포함된 트윗을 일제히 작성하는 것. 주로 아이돌 팬들이 최애의 생일을 축하할 때 벌임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.684Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2023-08-01T19:13:53.666Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세포마켓]]></title>
+        <title type="html"><![CDATA[PTSD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-01T18:21:27.685Z</updated>
-        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
+        <updated>2023-08-01T19:13:53.669Z</updated>
+        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
     </entry>
 </feed>
