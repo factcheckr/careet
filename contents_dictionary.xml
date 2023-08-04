@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-04T11:14:20.662Z</updated>
+    <updated>2023-08-04T12:39:51.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[모먼트]]></title>
+        <title type="html"><![CDATA[음식 예절샷]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.873Z</updated>
-        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
+        <updated>2023-08-04T12:39:42.912Z</updated>
+        <content type="html"><![CDATA[맛있는 음식을 먹을 때 포토카드를 들고 사진을 찍어 SNS에 공유하는 Z세대 온라인 문화를 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼코노]]></title>
+        <title type="html"><![CDATA[눈팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.874Z</updated>
-        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
+        <updated>2023-08-04T12:39:42.913Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이다 서사]]></title>
+        <title type="html"><![CDATA[셧다운제]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.875Z</updated>
-        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
+        <updated>2023-08-04T12:39:42.915Z</updated>
+        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
+        <title type="html"><![CDATA[POV]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.877Z</updated>
-        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
+        <updated>2023-08-04T12:39:42.917Z</updated>
+        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리젠]]></title>
+        <title type="html"><![CDATA[트롤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.878Z</updated>
-        <content type="html"><![CDATA[‘regeneration(부활)’의 줄임말로, 게임에서 몬스터가 죽고난 뒤 다시 나타나는 것을 뜻한다. 통상적으로는 ‘새로운 게시물이 업로드 되었다’라는 의미로 쓰임.]]></content>
+        <updated>2023-08-04T12:39:42.920Z</updated>
+        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-04T11:14:10.880Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2023-08-04T12:39:42.921Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
 </feed>
