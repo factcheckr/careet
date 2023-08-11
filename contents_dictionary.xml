@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-11T19:13:50.804Z</updated>
+    <updated>2023-08-11T20:17:26.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.792Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2023-08-11T20:17:17.804Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓겜]]></title>
+        <title type="html"><![CDATA[버실]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.793Z</updated>
-        <content type="html"><![CDATA[God + Game. 잘 만든 게임을 칭찬할 때 쓰는 말.]]></content>
+        <updated>2023-08-11T20:17:17.808Z</updated>
+        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이라이브]]></title>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.794Z</updated>
-        <content type="html"><![CDATA[네이버의 실시간 방송 플랫폼. 스타와 팬과 소통하는 창구로 쓰임.]]></content>
+        <updated>2023-08-11T20:17:17.808Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역조공]]></title>
+        <title type="html"><![CDATA[겟레디윗미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.797Z</updated>
-        <content type="html"><![CDATA[연예인이 자신의 팬들에게 선물을 주는 행동 혹은 그 선물을 가르키는 말.]]></content>
+        <updated>2023-08-11T20:17:17.818Z</updated>
+        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맵부심]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.799Z</updated>
-        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
+        <updated>2023-08-11T20:17:17.820Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[래플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-11T19:13:41.801Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2023-08-11T20:17:17.822Z</updated>
+        <content type="html"><![CDATA[당첨자에게 한정판 상품을 구매할 권리를 주는 판매 방식. 이 방식을 활용하는 브랜드로는 대표적으로 나이키가 있음.]]></content>
     </entry>
 </feed>
