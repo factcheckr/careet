@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-14T09:16:49.231Z</updated>
+    <updated>2023-08-14T10:18:22.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시고르자브종]]></title>
+        <title type="html"><![CDATA[디깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.566Z</updated>
-        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
+        <updated>2023-08-14T10:18:13.612Z</updated>
+        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓성비]]></title>
+        <title type="html"><![CDATA[헬시플레저]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.569Z</updated>
-        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
+        <updated>2023-08-14T10:18:13.616Z</updated>
+        <content type="html"><![CDATA[‘건강하다(Healthy)’와 ‘기쁨(Pleasure)’의 합성어. 건강관리에 즐거움을 부여해 지속가능한 건강관리를 추구하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 스토리]]></title>
+        <title type="html"><![CDATA[빙의글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.571Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+        <updated>2023-08-14T10:18:13.617Z</updated>
+        <content type="html"><![CDATA[좋아하는 연예인을 대상으로 특정 상황을 설정해 작성한 글.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지비츠]]></title>
+        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.573Z</updated>
-        <content type="html"><![CDATA[신발 ‘크록스’를 장식하는 아이템. 각종 캐릭터 모양 등 알파세대와 Z세대의 트렌드를 반영한 형태가 많음.]]></content>
+        <updated>2023-08-14T10:18:13.619Z</updated>
+        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱 이코노미]]></title>
+        <title type="html"><![CDATA[무나]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.575Z</updated>
-        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
+        <updated>2023-08-14T10:18:13.622Z</updated>
+        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T09:16:40.577Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2023-08-14T10:18:13.624Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
