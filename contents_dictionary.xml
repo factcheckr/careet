@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-14T01:09:06.137Z</updated>
+    <updated>2023-08-14T02:21:30.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뇌이징]]></title>
+        <title type="html"><![CDATA[겟레디윗미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.912Z</updated>
-        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
+        <updated>2023-08-14T02:21:21.881Z</updated>
+        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실친]]></title>
+        <title type="html"><![CDATA[잘파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.915Z</updated>
-        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
+        <updated>2023-08-14T02:21:21.886Z</updated>
+        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곰손]]></title>
+        <title type="html"><![CDATA[언어 감수성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.917Z</updated>
-        <content type="html"><![CDATA[손재주가 영 없는 사람을 비유한 말. ↔ 유행어 ‘금손’]]></content>
+        <updated>2023-08-14T02:21:21.888Z</updated>
+        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.919Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2023-08-14T02:21:21.892Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[생정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.921Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2023-08-14T02:21:21.893Z</updated>
+        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도아너]]></title>
+        <title type="html"><![CDATA[국룰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-14T01:08:56.923Z</updated>
-        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
+        <updated>2023-08-14T02:21:21.895Z</updated>
+        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
     </entry>
 </feed>
