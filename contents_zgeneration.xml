@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 03:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 04:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대학생들은 무인 편의점에서 공부한다? 대학가 무인 매장 근황 5]]></title>
+            <link>https://www.careet.net/1159</link>
+            <guid>https://www.careet.net/1159</guid>
+            <pubDate>Wed, 16 Aug 2023 04:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[취준생은 면접 보러 회사 말고 ‘무인 면접 스튜디오’ 감]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/e15e95c3-4056-4448-99ec-d5eef76bc7c9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
             <link>https://www.careet.net/1126</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 31 May 2023 01:44:17 GMT</pubDate>
             <content:encoded><![CDATA[요즘 Z세대는 이런 콘셉트로 화보 찍고 영상 편집하고 있어요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/959d054c-e2f4-4a5b-87f7-00e9729c785a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[20만 원짜리 브랜드 키링이 인기? NEW 패션 트렌드]]></title>
-            <link>https://www.careet.net/1080</link>
-            <guid>https://www.careet.net/1080</guid>
-            <pubDate>Tue, 23 May 2023 02:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[인형 키링 브랜드랑 콜라보하는 기업도 많아지고 있음!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/3c3c4de9-d0dc-4280-a339-ed1b4fcebcab_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
