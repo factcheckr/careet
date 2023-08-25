@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-25T18:21:21.632Z</updated>
+    <updated>2023-08-25T19:13:42.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[곰손]]></title>
+        <title type="html"><![CDATA[앨범깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.157Z</updated>
-        <content type="html"><![CDATA[손재주가 영 없는 사람을 비유한 말. ↔ 유행어 ‘금손’]]></content>
+        <updated>2023-08-25T19:13:33.675Z</updated>
+        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐후기]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.158Z</updated>
-        <content type="html"><![CDATA[MZ세대가 정말 믿을 만하다고 평가하는 ‘진짜 후기’를 일컫는 말.]]></content>
+        <updated>2023-08-25T19:13:33.680Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라방]]></title>
+        <title type="html"><![CDATA[린스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.159Z</updated>
-        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
+        <updated>2023-08-25T19:13:33.684Z</updated>
+        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈술]]></title>
+        <title type="html"><![CDATA[인스타툰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.160Z</updated>
-        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
+        <updated>2023-08-25T19:13:33.687Z</updated>
+        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셀프 캐해]]></title>
+        <title type="html"><![CDATA[밸런스 게임]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.162Z</updated>
-        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
+        <updated>2023-08-25T19:13:33.689Z</updated>
+        <content type="html"><![CDATA[쉽게 고를 수 없는 두 가지 상황을 제시하고, 뭐가 더 나은지 선택하는 게임. 용례: 카레맛 똥 VS 똥맛 카레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃수저]]></title>
+        <title type="html"><![CDATA[발레코어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-25T18:21:12.166Z</updated>
-        <content type="html"><![CDATA[‘금수저’를 응용한 신조어로, 딱히 노력하지 않아도 주변 사람들에게 웃음을 주는 재능을 가진 사람을 뜻하는 말.]]></content>
+        <updated>2023-08-25T19:13:33.691Z</updated>
+        <content type="html"><![CDATA[발레복에서 파생된 스타일을 부르는 말. 리본 장식이 대표적인 요소.]]></content>
     </entry>
 </feed>
