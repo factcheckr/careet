@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-27T17:14:26.207Z</updated>
+    <updated>2023-08-27T18:19:51.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[브이앱]]></title>
+        <title type="html"><![CDATA[상플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.372Z</updated>
-        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
+        <updated>2023-08-27T18:19:42.372Z</updated>
+        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[움짤]]></title>
+        <title type="html"><![CDATA[코덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.372Z</updated>
-        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
+        <updated>2023-08-27T18:19:42.373Z</updated>
+        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[겟레디윗미]]></title>
+        <title type="html"><![CDATA[사이다 서사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.372Z</updated>
-        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
+        <updated>2023-08-27T18:19:42.374Z</updated>
+        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인급동]]></title>
+        <title type="html"><![CDATA[미라클 모닝]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.376Z</updated>
-        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
+        <updated>2023-08-27T18:19:42.375Z</updated>
+        <content type="html"><![CDATA[4시 30분, 6시 등 새벽에 일어나 하루를 시작하는 생활 방식. 미라클 모닝을 실천하는 유튜버들의 영향이 크며, Z세대의 갓생 트렌드와 연관이 깊음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.376Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-08-27T18:19:42.376Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T17:14:16.380Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2023-08-27T18:19:42.378Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
 </feed>
