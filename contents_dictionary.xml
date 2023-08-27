@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-27T16:20:04.871Z</updated>
+    <updated>2023-08-27T17:14:26.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인스타 돋보기]]></title>
+        <title type="html"><![CDATA[브이앱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.632Z</updated>
-        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
+        <updated>2023-08-27T17:14:16.372Z</updated>
+        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
+        <title type="html"><![CDATA[움짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.633Z</updated>
-        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
+        <updated>2023-08-27T17:14:16.372Z</updated>
+        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[겟레디윗미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.634Z</updated>
-        <content type="html"><![CDATA[‘실제 사진’의 줄임말]]></content>
+        <updated>2023-08-27T17:14:16.372Z</updated>
+        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별다꾸]]></title>
+        <title type="html"><![CDATA[인급동]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.635Z</updated>
-        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
+        <updated>2023-08-27T17:14:16.376Z</updated>
+        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캘박]]></title>
+        <title type="html"><![CDATA[본캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.636Z</updated>
-        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
+        <updated>2023-08-27T17:14:16.376Z</updated>
+        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘파세대]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T16:19:55.638Z</updated>
-        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
+        <updated>2023-08-27T17:14:16.380Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
 </feed>
