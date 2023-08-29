@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-29T08:21:48.897Z</updated>
+    <updated>2023-08-29T09:17:19.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[로고 플레이]]></title>
+        <title type="html"><![CDATA[라떼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.962Z</updated>
-        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
+        <updated>2023-08-29T09:17:08.223Z</updated>
+        <content type="html"><![CDATA[기성세대가 입 버릇처럼 말하는 “나 때는 말이야~”를 풍자하는 표현으로 “라떼는 말이야”가 탄생함. 즉, 라떼는 기성세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[뵤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.962Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2023-08-29T09:17:08.225Z</updated>
+        <content type="html"><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
+        <title type="html"><![CDATA[셀프 캐해]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.962Z</updated>
-        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
+        <updated>2023-08-29T09:17:08.228Z</updated>
+        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[파츠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.962Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-08-29T09:17:08.230Z</updated>
+        <content type="html"><![CDATA[각종 액세서리 부자재를 일컫는 말. Z세대는 보통 아이돌 포토 카드를 꾸밀 때 파츠를 활용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[드볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.964Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2023-08-29T09:17:08.232Z</updated>
+        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자캐]]></title>
+        <title type="html"><![CDATA[미디어 파사드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-29T08:21:39.965Z</updated>
-        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
+        <updated>2023-08-29T09:17:08.234Z</updated>
+        <content type="html"><![CDATA[미디어(media)와 건물의 표면을 뜻하는 파사드(facade)가 합성된 용어로, 건물의 외벽에 다양한 콘텐츠 영상을 투사하는 것]]></content>
     </entry>
 </feed>
