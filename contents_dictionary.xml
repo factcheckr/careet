@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-30T19:15:14.443Z</updated>
+    <updated>2023-08-30T20:18:12.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롤드컵]]></title>
+        <title type="html"><![CDATA[홈술]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.563Z</updated>
-        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
+        <updated>2023-08-30T20:18:04.372Z</updated>
+        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홈트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.566Z</updated>
+        <updated>2023-08-30T20:18:04.374Z</updated>
         <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일잘러]]></title>
+        <title type="html"><![CDATA[퍼블리시티권]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.570Z</updated>
-        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
+        <updated>2023-08-30T20:18:04.377Z</updated>
+        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장비병]]></title>
+        <title type="html"><![CDATA[스카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.574Z</updated>
-        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
+        <updated>2023-08-30T20:18:04.379Z</updated>
+        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[찐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.577Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2023-08-30T20:18:04.381Z</updated>
+        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폰꾸]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-30T19:15:02.580Z</updated>
-        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
+        <updated>2023-08-30T20:18:04.383Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
 </feed>
