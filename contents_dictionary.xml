@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-02T16:20:14.309Z</updated>
+    <updated>2023-09-02T17:13:50.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[비상이다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.073Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-09-02T17:13:41.647Z</updated>
+        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판 플레이]]></title>
+        <title type="html"><![CDATA[포카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.076Z</updated>
-        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
+        <updated>2023-09-02T17:13:41.653Z</updated>
+        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짠메랑]]></title>
+        <title type="html"><![CDATA[홈쿡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.080Z</updated>
-        <content type="html"><![CDATA[‘부메랑(gif 형식으로 사진을 찍어주는 필터)’기능을 활용해 술자리에서 건배하는 모습을 촬영하는 것.]]></content>
+        <updated>2023-09-02T17:13:41.654Z</updated>
+        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중꺾마]]></title>
+        <title type="html"><![CDATA[밥약]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.082Z</updated>
-        <content type="html"><![CDATA[‘중요한 건 꺾이지 않는 마음’을 줄인 말. 최약체 팀이 롤드컵에서 우승한 사건을 다룬 기사 제목에서 유래한 MZ세대 유행어.]]></content>
+        <updated>2023-09-02T17:13:41.658Z</updated>
+        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스꾸]]></title>
+        <title type="html"><![CDATA[알계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.084Z</updated>
-        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
+        <updated>2023-09-02T17:13:41.660Z</updated>
+        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤메코]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-02T16:20:05.087Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
+        <updated>2023-09-02T17:13:41.662Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
 </feed>
