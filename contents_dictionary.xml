@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-03T22:15:48.235Z</updated>
+    <updated>2023-09-03T23:16:36.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.267Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2023-09-03T23:16:26.261Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넘사벽]]></title>
+        <title type="html"><![CDATA[래플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.269Z</updated>
-        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+        <updated>2023-09-03T23:16:26.263Z</updated>
+        <content type="html"><![CDATA[당첨자에게 한정판 상품을 구매할 권리를 주는 판매 방식. 이 방식을 활용하는 브랜드로는 대표적으로 나이키가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솜뭉치]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.272Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
+        <updated>2023-09-03T23:16:26.264Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸런스 게임]]></title>
+        <title type="html"><![CDATA[섭종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.274Z</updated>
-        <content type="html"><![CDATA[쉽게 고를 수 없는 두 가지 상황을 제시하고, 뭐가 더 나은지 선택하는 게임. 용례: 카레맛 똥 VS 똥맛 카레]]></content>
+        <updated>2023-09-03T23:16:26.266Z</updated>
+        <content type="html"><![CDATA[‘서버 종료’ 또는 ‘서비스 종료’를 줄여 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단호박]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.276Z</updated>
-        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
+        <updated>2023-09-03T23:16:26.268Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버실]]></title>
+        <title type="html"><![CDATA[셀프 분석 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-03T22:15:38.279Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+        <updated>2023-09-03T23:16:26.269Z</updated>
+        <content type="html"><![CDATA[성격 유형 검사, 퍼스널 컬러, 유전자 검사 등 자기 자신을 더욱 심층적으로 알아보기 위해 받아보는 검사를 총칭함.]]></content>
     </entry>
 </feed>
