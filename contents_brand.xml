@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 04:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘뉴진스X스포티파이’ 팝업 담당자 등판! Z세대가 칭찬한 콜라보 캠페인 2]]></title>
+            <link>https://www.careet.net/1173</link>
+            <guid>https://www.careet.net/1173</guid>
+            <pubDate>Mon, 04 Sep 2023 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 샤라웃한 콜라보의 비결]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/e6c92537-f001-4504-bf0e-d71977b8e798_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팝업스토어만 아셨나요? 요즘 오프라인 마케팅 트렌드는 ‘게릴라 이벤트’]]></title>
             <link>https://www.careet.net/1166</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 31 Jul 2023 01:23:02 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 샤라웃하는 영상 광고의 비결]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f721af8f-c651-41d0-986a-d290d4976986_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이주의 일 잘한 브랜드: 롯데웰푸드, 하나금융그룹]]></title>
-            <link>https://www.careet.net/1137</link>
-            <guid>https://www.careet.net/1137</guid>
-            <pubDate>Mon, 24 Jul 2023 02:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 반응이 좋아서 이벤트 기간을 연장했다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/b5d11a0d-9400-4274-986a-0fe6f2cf89c2_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
