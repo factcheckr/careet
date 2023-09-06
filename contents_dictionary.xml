@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-06T08:21:41.443Z</updated>
+    <updated>2023-09-06T09:19:45.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[폴꾸]]></title>
+        <title type="html"><![CDATA[공스타그램]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.833Z</updated>
-        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
+        <updated>2023-09-06T09:19:29.665Z</updated>
+        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.833Z</updated>
-        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
+        <updated>2023-09-06T09:19:29.670Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[많관부]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.835Z</updated>
-        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
+        <updated>2023-09-06T09:19:29.670Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걍생]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.838Z</updated>
-        <content type="html"><![CDATA[‘그냥 생’의 준말. 갓생에 반대되는 말로 부지런하고 알찬 삶을 살지 말고 그냥 있는대로 살자는 뜻.]]></content>
+        <updated>2023-09-06T09:19:29.671Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추구미]]></title>
+        <title type="html"><![CDATA[시고르자브종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.841Z</updated>
-        <content type="html"><![CDATA[‘추구하는 미(美)적 감각’이라는 의미의 Z세대 신조어. ‘워너비’와 비슷한 용례로 쓰임.]]></content>
+        <updated>2023-09-06T09:19:29.671Z</updated>
+        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[트잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-06T08:21:32.850Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-09-06T09:19:29.673Z</updated>
+        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
     </entry>
 </feed>
