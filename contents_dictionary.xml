@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-07T10:19:23.141Z</updated>
+    <updated>2023-09-07T11:18:05.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <title type="html"><![CDATA[트알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.615Z</updated>
-        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+        <updated>2023-09-07T11:17:56.617Z</updated>
+        <content type="html"><![CDATA[‘트렌드를 잘 모르는 사람’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어덕행덕]]></title>
+        <title type="html"><![CDATA[혼사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.617Z</updated>
-        <content type="html"><![CDATA[‘어차피 덕질할 거 행복하게 덕질하자.’를 줄여 이르는 말.]]></content>
+        <updated>2023-09-07T11:17:56.618Z</updated>
+        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑로더]]></title>
+        <title type="html"><![CDATA[짠메랑]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.620Z</updated>
-        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
+        <updated>2023-09-07T11:17:56.619Z</updated>
+        <content type="html"><![CDATA[‘부메랑(gif 형식으로 사진을 찍어주는 필터)’기능을 활용해 술자리에서 건배하는 모습을 촬영하는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영통 팬싸]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.621Z</updated>
-        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
+        <updated>2023-09-07T11:17:56.620Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차도남]]></title>
+        <title type="html"><![CDATA[갑분싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.621Z</updated>
-        <content type="html"><![CDATA[차가운 도시 남자의 줄임말.]]></content>
+        <updated>2023-09-07T11:17:56.622Z</updated>
+        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹정]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-07T10:19:13.623Z</updated>
-        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
+        <updated>2023-09-07T11:17:56.623Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
 </feed>
