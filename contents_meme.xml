@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 01:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 02:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
+            <link>https://www.careet.net/1164</link>
+            <guid>https://www.careet.net/1164</guid>
+            <pubDate>Fri, 08 Sep 2023 02:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3분만 투자하면 최신 유행 드립 마스터 가능!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/7851644c-7c90-4c3d-91e8-9815b63f4d23_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
             <link>https://www.careet.net/1142</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 08 May 2023 01:21:09 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 픽 최신 유행어 알려드립니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/2102a145-4820-428f-ad67-de53760ed107_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기]]></title>
-            <link>https://www.careet.net/1048</link>
-            <guid>https://www.careet.net/1048</guid>
-            <pubDate>Mon, 27 Mar 2023 01:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df65ed4e-9f93-461e-be25-cab7d2ff265f_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
