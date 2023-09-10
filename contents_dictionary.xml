@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-10T18:19:45.615Z</updated>
+    <updated>2023-09-10T19:14:03.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
+        <title type="html"><![CDATA[무물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.084Z</updated>
-        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
+        <updated>2023-09-10T19:13:52.983Z</updated>
+        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.084Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-09-10T19:13:52.987Z</updated>
+        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.084Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2023-09-10T19:13:52.991Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무배]]></title>
+        <title type="html"><![CDATA[뉴짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.087Z</updated>
-        <content type="html"><![CDATA[무료배송의 줄임말.]]></content>
+        <updated>2023-09-10T19:13:52.994Z</updated>
+        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어그로(aggro)]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.089Z</updated>
-        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
+        <updated>2023-09-10T19:13:52.997Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생카]]></title>
+        <title type="html"><![CDATA[홈마]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T18:19:36.092Z</updated>
-        <content type="html"><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content>
+        <updated>2023-09-10T19:13:53.000Z</updated>
+        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
     </entry>
 </feed>
