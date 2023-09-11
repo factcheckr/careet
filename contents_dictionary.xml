@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-11T19:14:34.711Z</updated>
+    <updated>2023-09-11T20:16:39.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[포토프레스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.791Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2023-09-11T20:16:31.139Z</updated>
+        <content type="html"><![CDATA[사진(Photo)으로 자신을 표현하는(Express) Z세대를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이다 서사]]></title>
+        <title type="html"><![CDATA[섭종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.791Z</updated>
-        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
+        <updated>2023-09-11T20:16:31.143Z</updated>
+        <content type="html"><![CDATA[‘서버 종료’ 또는 ‘서비스 종료’를 줄여 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
+        <title type="html"><![CDATA[곰손]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.792Z</updated>
-        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
+        <updated>2023-09-11T20:16:31.145Z</updated>
+        <content type="html"><![CDATA[손재주가 영 없는 사람을 비유한 말. ↔ 유행어 ‘금손’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
+        <title type="html"><![CDATA[알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.795Z</updated>
-        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2023-09-11T20:16:31.148Z</updated>
+        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[맵부심]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.798Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2023-09-11T20:16:31.150Z</updated>
+        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽페]]></title>
+        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T19:14:24.802Z</updated>
-        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2023-09-11T20:16:31.152Z</updated>
+        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
     </entry>
 </feed>
