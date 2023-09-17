@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.careet.net/Content/Series/1</id>
-    <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-09-17T19:14:21.568Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/Content/Series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Sep 2023 20:16:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
+            <link>https://www.careet.net/1164</link>
+            <guid>https://www.careet.net/1164</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[3분만 투자하면 최신 유행 드립 마스터 가능!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/7851644c-7c90-4c3d-91e8-9815b63f4d23_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
+            <link>https://www.careet.net/1142</link>
+            <guid>https://www.careet.net/1142</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 밈, 또 생겼습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
+            <link>https://www.careet.net/1118</link>
+            <guid>https://www.careet.net/1118</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6d72fad-4f2b-443b-8f12-52ead0c47786_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
+            <link>https://www.careet.net/1103</link>
+            <guid>https://www.careet.net/1103</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
+            <link>https://www.careet.net/1105</link>
+            <guid>https://www.careet.net/1105</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/c2ebe6c5-aa83-4b65-ac1e-00ec987d5eda_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
+            <link>https://www.careet.net/1075</link>
+            <guid>https://www.careet.net/1075</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 픽 최신 유행어 알려드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/2102a145-4820-428f-ad67-de53760ed107_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

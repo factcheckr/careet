@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.careet.net/Content/Series/2</id>
-    <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-09-17T19:14:21.528Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/Content/Series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ Z세대 최신 근황</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Sep 2023 20:16:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3·4분기 강타할 트렌드: ‘셀프 커스텀 티셔츠’]]></title>
+            <link>https://www.careet.net/1177</link>
+            <guid>https://www.careet.net/1177</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[“요즘 행사가면 Z세대 30%는 티셔츠 만들어 입고 와요”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/67d82a14-bddb-4d6a-afbf-71aede37777f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 별걸 다 쇼핑한다는 온라인 백화점, ‘윗치폼’을 아세요?]]></title>
+            <link>https://www.careet.net/1169</link>
+            <guid>https://www.careet.net/1169</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[윗치폼만 보면 Z세대 트렌드 한 번에 알 수 있음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/45559e89-7e33-4aef-bf95-0f2aaf4cd7d0_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[벤치마킹하기 좋은 업사이클링 굿즈 레퍼런스 8]]></title>
+            <link>https://www.careet.net/1165</link>
+            <guid>https://www.careet.net/1165</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈 트렌드! 업사이클링 제품이 이렇게 다양해졌어?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/f343f5a4-2d3c-4780-951c-7490ad1cf7f5_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림]]></title>
+            <link>https://www.careet.net/1163</link>
+            <guid>https://www.careet.net/1163</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[행사 때마다 꼭 챙겨 먹는 ‘상징 음식’부터 대용량 제품 트렌드까지]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/2d7cee24-ab07-46b9-92a9-541f42bbc7e3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대학생들은 무인 편의점에서 공부한다? 대학가 무인 매장 근황 5]]></title>
+            <link>https://www.careet.net/1159</link>
+            <guid>https://www.careet.net/1159</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[취준생은 면접 보러 회사 말고 ‘무인 면접 스튜디오’ 감]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/e15e95c3-4056-4448-99ec-d5eef76bc7c9_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
+            <link>https://www.careet.net/1126</link>
+            <guid>https://www.careet.net/1126</guid>
+            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[학교 다니면서 어떻게 브랜드를 만든다는 걸까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f77ccffc-7551-4534-b8f6-e0892b541f9b_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
