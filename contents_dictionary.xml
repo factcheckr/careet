@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-18T13:20:40.848Z</updated>
+    <updated>2023-09-18T14:17:17.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[자캐]]></title>
+        <title type="html"><![CDATA[셀프 캐해]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.366Z</updated>
-        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
+        <updated>2023-09-18T14:17:07.320Z</updated>
+        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMI]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.366Z</updated>
-        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
+        <updated>2023-09-18T14:17:07.324Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와드]]></title>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.366Z</updated>
-        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
+        <updated>2023-09-18T14:17:07.335Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브 프리미엄]]></title>
+        <title type="html"><![CDATA[도아너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.377Z</updated>
-        <content type="html"><![CDATA[유튜브 유료 요금제. 광고 제거, 동영상 다운로드 등의 서비스를 제공함.]]></content>
+        <updated>2023-09-18T14:17:07.335Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.378Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2023-09-18T14:17:07.335Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[액괴]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-18T13:20:30.381Z</updated>
-        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
+        <updated>2023-09-18T14:17:07.338Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
 </feed>
