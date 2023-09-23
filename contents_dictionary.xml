@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-23T11:13:27.186Z</updated>
+    <updated>2023-09-23T12:29:28.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[비상이다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.644Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2023-09-23T12:29:19.287Z</updated>
+        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플리]]></title>
+        <title type="html"><![CDATA[언어 감수성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.646Z</updated>
-        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
+        <updated>2023-09-23T12:29:19.288Z</updated>
+        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블친]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.649Z</updated>
-        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
+        <updated>2023-09-23T12:29:19.289Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합방]]></title>
+        <title type="html"><![CDATA[TMI]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.650Z</updated>
-        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
+        <updated>2023-09-23T12:29:19.294Z</updated>
+        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버블]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.651Z</updated>
-        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
+        <updated>2023-09-23T12:29:19.296Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스프레]]></title>
+        <title type="html"><![CDATA[존버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-23T11:13:18.653Z</updated>
-        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
+        <updated>2023-09-23T12:29:19.297Z</updated>
+        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
     </entry>
 </feed>
