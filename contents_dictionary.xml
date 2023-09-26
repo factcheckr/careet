@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-26T18:22:34.001Z</updated>
+    <updated>2023-09-26T19:14:39.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[취준]]></title>
+        <title type="html"><![CDATA[MZ세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.426Z</updated>
-        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
+        <updated>2023-09-26T19:14:29.849Z</updated>
+        <content type="html"><![CDATA[1980년 초반부터 2000년대 중반 사이에 태어난 밀레니얼 세대와 Z세대를 통칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인용 알티]]></title>
+        <title type="html"><![CDATA[코 세 글자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.427Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2023-09-26T19:14:29.850Z</updated>
+        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드덕]]></title>
+        <title type="html"><![CDATA[교복템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.434Z</updated>
-        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
+        <updated>2023-09-26T19:14:29.851Z</updated>
+        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[코덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.434Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2023-09-26T19:14:29.853Z</updated>
+        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단호박]]></title>
+        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.434Z</updated>
-        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
+        <updated>2023-09-26T19:14:29.855Z</updated>
+        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스카]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-26T18:22:25.434Z</updated>
-        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
+        <updated>2023-09-26T19:14:29.857Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
 </feed>
