@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-04T17:17:12.458Z</updated>
+    <updated>2023-10-04T18:23:15.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
+        <title type="html"><![CDATA[모먼트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.433Z</updated>
-        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
+        <updated>2023-10-04T18:23:06.094Z</updated>
+        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미공포]]></title>
+        <title type="html"><![CDATA[포토 카드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.443Z</updated>
-        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
+        <updated>2023-10-04T18:23:06.096Z</updated>
+        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반모]]></title>
+        <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.446Z</updated>
-        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
+        <updated>2023-10-04T18:23:06.104Z</updated>
+        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텅장]]></title>
+        <title type="html"><![CDATA[인싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.449Z</updated>
-        <content type="html"><![CDATA[잔고가 없어 텅 빈 통장을 뜻함.]]></content>
+        <updated>2023-10-04T18:23:06.106Z</updated>
+        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.451Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-10-04T18:23:06.108Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시참]]></title>
+        <title type="html"><![CDATA[진대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-04T17:17:03.454Z</updated>
-        <content type="html"><![CDATA[‘시청자 참여’의 줄임말. 게임 스트리머의 실시간 게임 방송에 시청자들이 직·간접적으로 함께 참여하는 것을 뜻함.]]></content>
+        <updated>2023-10-04T18:23:06.110Z</updated>
+        <content type="html"><![CDATA[‘진지한 대화’의 줄임말.]]></content>
     </entry>
 </feed>
