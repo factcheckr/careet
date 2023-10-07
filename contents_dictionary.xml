@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-07T02:22:05.668Z</updated>
+    <updated>2023-10-07T03:17:27.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시강]]></title>
+        <title type="html"><![CDATA[트알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.633Z</updated>
-        <content type="html"><![CDATA[‘시선 강탈’의 줄임말. 유독 남들의 시선(이목)을 끄는 것을 의미함.]]></content>
+        <updated>2023-10-07T03:17:18.411Z</updated>
+        <content type="html"><![CDATA[‘트렌드를 잘 모르는 사람’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시참]]></title>
+        <title type="html"><![CDATA[국그릇핑크퐁]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.633Z</updated>
-        <content type="html"><![CDATA[‘시청자 참여’의 줄임말. 게임 스트리머의 실시간 게임 방송에 시청자들이 직·간접적으로 함께 참여하는 것을 뜻함.]]></content>
+        <updated>2023-10-07T03:17:18.413Z</updated>
+        <content type="html"><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 리젠]]></title>
+        <title type="html"><![CDATA[추구미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.635Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
+        <updated>2023-10-07T03:17:18.416Z</updated>
+        <content type="html"><![CDATA[‘추구하는 아름다움(美)’이라는 의미의 Z세대 신조어. ‘워너비, 이상향’과 비슷한 용례로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[마스킹 테이프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.637Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2023-10-07T03:17:18.418Z</updated>
+        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.640Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2023-10-07T03:17:18.420Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유교걸]]></title>
+        <title type="html"><![CDATA[플미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-07T02:21:56.642Z</updated>
-        <content type="html"><![CDATA[‘유교’와 ‘girl’의 합성어로, 보수적인 사람을 일컫는 말.]]></content>
+        <updated>2023-10-07T03:17:18.422Z</updated>
+        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
     </entry>
 </feed>
