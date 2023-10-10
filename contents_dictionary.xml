@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-10T08:22:57.103Z</updated>
+    <updated>2023-10-10T09:18:55.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[팔이피플]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.057Z</updated>
-        <content type="html"><![CDATA[팔이+people의 합성어로, SNS나 쇼핑몰에서 물건을 판매하는 사람들을 지칭하는 말.]]></content>
+        <updated>2023-10-10T09:18:46.539Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕업일치]]></title>
+        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.064Z</updated>
-        <content type="html"><![CDATA[덕질하는 것이 직업이 되었다는 뜻. 요즘은 좋아하는 일이 직업이 되었을 때 사용하는 말로 확장됨.]]></content>
+        <updated>2023-10-10T09:18:46.544Z</updated>
+        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕력]]></title>
+        <title type="html"><![CDATA[알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.066Z</updated>
-        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
+        <updated>2023-10-10T09:18:46.550Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[맛없없]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.066Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-10-10T09:18:46.552Z</updated>
+        <content type="html"><![CDATA[‘맛 없을 수 없다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아묻따]]></title>
+        <title type="html"><![CDATA[브이로그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.069Z</updated>
-        <content type="html"><![CDATA[‘아무 것도 묻지도 따지지도 않고’의 줄임 말. 유명 광고에서 유래한 Z세대 유행어.]]></content>
+        <updated>2023-10-10T09:18:46.555Z</updated>
+        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실감세대]]></title>
+        <title type="html"><![CDATA[피케팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-10T08:22:47.073Z</updated>
-        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
+        <updated>2023-10-10T09:18:46.557Z</updated>
+        <content type="html"><![CDATA[‘피 튀기는 경쟁률을 자랑하는 티케팅’의 줄임말.]]></content>
     </entry>
 </feed>
