@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 23:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 01:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 ‘호떡’을 부르는 신조어는? 모르면 뒤처지는 요즘 뜨는 밈 4]]></title>
+            <link>https://www.careet.net/1202</link>
+            <guid>https://www.careet.net/1202</guid>
+            <pubDate>Wed, 18 Oct 2023 01:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[검색만으로 알 수 없는 요즘 뜨는 밈 배워 가세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/3e7e0445-3812-4c06-bc75-a1bed40a3332_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘승훈이 됨’이 무슨 뜻? 유튜브 댓글에 자주 보이는 최신 밈 3]]></title>
             <link>https://www.careet.net/1185</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
             <content:encoded><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
-            <link>https://www.careet.net/1105</link>
-            <guid>https://www.careet.net/1105</guid>
-            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/c2ebe6c5-aa83-4b65-ac1e-00ec987d5eda_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
