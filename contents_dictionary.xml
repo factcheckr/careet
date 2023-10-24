@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-24T07:16:34.486Z</updated>
+    <updated>2023-10-24T08:22:43.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[할매니얼]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.057Z</updated>
-        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불판]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.062Z</updated>
-        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[무나]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.064Z</updated>
+        <updated>2023-10-24T08:22:33.807Z</updated>
         <content type="html"><![CDATA[무료 나눔의 준말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[까방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.065Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-10-24T08:22:33.809Z</updated>
+        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽페]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.065Z</updated>
-        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2023-10-24T08:22:33.811Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텍대]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-24T07:16:26.066Z</updated>
-        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
+        <updated>2023-10-24T08:22:33.814Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈팅]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-10-24T08:22:33.815Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛삭]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-10-24T08:22:33.817Z</updated>
+        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
 </feed>
