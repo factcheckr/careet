@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-26T14:16:35.099Z</updated>
+    <updated>2023-10-26T15:18:48.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[무나]]></title>
+        <title type="html"><![CDATA[반모]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.570Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2023-10-26T15:18:39.048Z</updated>
+        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빙의글]]></title>
+        <title type="html"><![CDATA[연반인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.570Z</updated>
-        <content type="html"><![CDATA[좋아하는 연예인을 대상으로 특정 상황을 설정해 작성한 글.]]></content>
+        <updated>2023-10-26T15:18:39.051Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스카]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.570Z</updated>
-        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
+        <updated>2023-10-26T15:18:39.054Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[신박한]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.572Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2023-10-26T15:18:39.057Z</updated>
+        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[브이앱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.572Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-10-26T15:18:39.060Z</updated>
+        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[셀프 캐해]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-26T14:16:26.573Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2023-10-26T15:18:39.063Z</updated>
+        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
     </entry>
 </feed>
