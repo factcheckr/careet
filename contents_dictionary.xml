@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-27T14:15:38.295Z</updated>
+    <updated>2023-10-27T15:17:50.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[밥친구]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.310Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-10-27T15:17:41.722Z</updated>
+        <content type="html"><![CDATA[밥 먹을 때 보는 유튜브 영상, 콘텐츠 등을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[즈즈즈]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.314Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
+        <updated>2023-10-27T15:17:41.726Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃수저]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.315Z</updated>
-        <content type="html"><![CDATA[‘금수저’를 응용한 신조어로, 딱히 노력하지 않아도 주변 사람들에게 웃음을 주는 재능을 가진 사람을 뜻하는 말.]]></content>
+        <updated>2023-10-27T15:17:41.728Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지비츠]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.318Z</updated>
-        <content type="html"><![CDATA[신발 ‘크록스’를 장식하는 아이템. 각종 캐릭터 모양 등 알파세대와 Z세대의 트렌드를 반영한 형태가 많음.]]></content>
+        <updated>2023-10-27T15:17:41.730Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[POV]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.319Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2023-10-27T15:17:41.731Z</updated>
+        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셀프 분석 서비스]]></title>
+        <title type="html"><![CDATA[라떼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T14:15:30.320Z</updated>
-        <content type="html"><![CDATA[성격 유형 검사, 퍼스널 컬러, 유전자 검사 등 자기 자신을 더욱 심층적으로 알아보기 위해 받아보는 검사를 총칭함.]]></content>
+        <updated>2023-10-27T15:17:41.733Z</updated>
+        <content type="html"><![CDATA[기성세대가 입 버릇처럼 말하는 “나 때는 말이야~”를 풍자하는 표현으로 “라떼는 말이야”가 탄생함. 즉, 라떼는 기성세대를 뜻함.]]></content>
     </entry>
 </feed>
