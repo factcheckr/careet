@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-27T17:14:06.491Z</updated>
+    <updated>2023-10-27T18:21:40.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시고르자브종]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.708Z</updated>
-        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
+        <updated>2023-10-27T18:21:31.785Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[웃참]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.709Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2023-10-27T18:21:31.785Z</updated>
+        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[순삭]]></title>
+        <title type="html"><![CDATA[스킨스병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.710Z</updated>
-        <content type="html"><![CDATA[‘순식간에 삭제되다’의 줄임말. ‘너무 재밌어서 시간 가는 줄 몰랐다’, ‘너무 맛있어서 순식간에 다 먹어 버렸다.’ 등의 맥락에서 사용됨.]]></content>
+        <updated>2023-10-27T18:21:31.787Z</updated>
+        <content type="html"><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에타]]></title>
+        <title type="html"><![CDATA[떼창]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.712Z</updated>
-        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
+        <updated>2023-10-27T18:21:31.788Z</updated>
+        <content type="html"><![CDATA[공연에서 관객들이 아티스트의 노래를 다 함께 따라 부르는 행위를 뜻함. 특히 우리나라는 떼창 문화 극도로 발전되어 있어, 외국 뮤지션들 사이에서도 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지비츠]]></title>
+        <title type="html"><![CDATA[비건]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.713Z</updated>
-        <content type="html"><![CDATA[신발 ‘크록스’를 장식하는 아이템. 각종 캐릭터 모양 등 알파세대와 Z세대의 트렌드를 반영한 형태가 많음.]]></content>
+        <updated>2023-10-27T18:21:31.790Z</updated>
+        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤메코]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-27T17:13:57.715Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
+        <updated>2023-10-27T18:21:31.792Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
