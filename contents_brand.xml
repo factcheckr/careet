@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 23:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 01:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘케이스 때문에 샀다’ Z세대 지갑 열게 만든 패키지 디자인]]></title>
+            <link>https://www.careet.net/1213</link>
+            <guid>https://www.careet.net/1213</guid>
+            <pubDate>Mon, 30 Oct 2023 01:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[로고부터 굿즈, 패키지까지. Z세대 주목하게 만든 디자인 6]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/d8013b0e-89c3-44ac-bf14-6d444e882e3d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경쟁사 서비스 종료를 기회로! 신규 유저와 브랜드 이미지 모두 챙긴 브랜드]]></title>
             <link>https://www.careet.net/1208</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Sep 2023 20:16:27 GMT</pubDate>
             <content:encoded><![CDATA[앱 다운로드 이벤트부터 유튜브 콘텐츠 팝업까지. 이 주의 일 잘한 사례 모음]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/00e45eb0-7785-4809-8d47-7579fceb2ad4_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘뉴진스X스포티파이’ 팝업 담당자 등판! Z세대가 칭찬한 콜라보 캠페인 2]]></title>
-            <link>https://www.careet.net/1173</link>
-            <guid>https://www.careet.net/1173</guid>
-            <pubDate>Sun, 17 Sep 2023 20:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 샤라웃한 콜라보의 비결]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/e6c92537-f001-4504-bf0e-d71977b8e798_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
