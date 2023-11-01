@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 23:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,52 +322,60 @@
                                                 <a href="https://news.heraldcorp.com/view.php?ud=20231030000689" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[톤그로 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[국뽕 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[색을 뜻하는 ‘Tone’과 분쟁를 뜻하는 ‘aggro’의 합성어. 본인의 피부 톤에 맞지 않는 색상으로 메이크업해서 어색하다는 뜻으로 쓰임.]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모바일 네이티브 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[뵤 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인친 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[힙(hip) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 친구의 줄임말.]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. ‘힙하다’, ‘힙한 OO’로 쓰임. (유사어: 트렌디하다)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인용 알티 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[솔플러 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라라라러브송 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[인스타 스토리 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[일본인 가수 ‘쿠보타 토시노부’의 ‘La La La Love Song’. 시티팝 특유의 감성이 그대로 녹아 있는 유명곡 중 하나로 국내에서 많은 아티스트가 커버함]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[밀키트(meal kit) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[파티원 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content:encoded>
+            <pubDate>Wed, 01 Nov 2023 23:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슬릭백 챌린지는 왜 유행하게 됐을까? (캐릿 ─ Trend letter)]]></title>
+            <link>https://factcheckr.github.io/careet/all.xml</link>
+            <guid>https://factcheckr.github.io/careet/all.xml</guid>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[vol.179]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/4c05d261-7a06-49bf-9bf5-62546281f14e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(광고) Z세대 야구팬 화력이 아이돌 팬덤 급이라고? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.178]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/ad98d8a8-d126-48ca-8c85-67bf1cdb02b8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -375,7 +383,7 @@
             <title><![CDATA[요즘 트렌드 찾기 너무 어렵죠? 다 OO 때문! (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.177]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/5ebafa84-a160-4376-b49b-9c877850073b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -383,7 +391,7 @@
             <title><![CDATA[(광고) 낭만은 왜 Z세대의 화두가 되었을까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.176]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/23133f7b-a205-48de-93e1-5717ab089ffe_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -391,7 +399,7 @@
             <title><![CDATA[“구독하면 뭐 해주실 건데요?” 알파세대의 소통법 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol. 175]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202309/f9263a53-92f2-4d37-9865-0deabbe28552_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -399,7 +407,7 @@
             <title><![CDATA[(광고) ‘인기 카페 3대장’ 순위 바뀐 거 아세요? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.174]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202309/c1aeb614-9223-49e8-92da-7e6c3bccf735_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -407,7 +415,7 @@
             <title><![CDATA[레퍼런스 덤프! 요즘 굿즈 트렌드 총정리 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.173]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202309/23090b16-c5c7-4c18-aaf9-70f05bb28583_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -415,7 +423,7 @@
             <title><![CDATA[(광고) 포토덤프, 야푸? 나만 몰랐던 트렌드 모음 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.172]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202309/0468960c-c75f-466d-8432-74ca747410a1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -423,7 +431,7 @@
             <title><![CDATA[스레드, 본디, 클럽하우스... 반짝 인기를 피하는 비결은? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.171]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202308/28afba26-b413-4218-9947-3295793716ae_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -431,7 +439,7 @@
             <title><![CDATA[(광고) Z세대의 3대 욕구 식욕, 수면욕 그리고... (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.170]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202308/0ad549cb-7bed-44a4-8ea6-fcb0c0e3d16d_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -439,7 +447,7 @@
             <title><![CDATA[(광고) 외국인 20대가 생각하는 요즘 한국 이미지 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.169]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202308/1451ff42-5588-4130-afb5-2996d62fa117_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -447,17 +455,9 @@
             <title><![CDATA[기획에 영감을 주는 레전드 썰 모음 13 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 23:17:28 GMT</pubDate>
             <content:encoded><![CDATA[vol.168]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202308/b706ad76-1760-44c8-bd34-4a47cfe7d3a5_300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(광고) Z세대처럼 힙하게 사진 찍는 법 알려드림 (캐릿 ─ Trend letter)]]></title>
-            <link>https://factcheckr.github.io/careet/all.xml</link>
-            <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 22:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[vol.167]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202307/b603ab39-8e07-4522-a6cf-80ccdac0d7ef_300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
