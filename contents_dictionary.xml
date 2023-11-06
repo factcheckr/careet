@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-06T09:18:41.284Z</updated>
+    <updated>2023-11-06T10:20:02.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.631Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-11-06T10:19:54.851Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈술]]></title>
+        <title type="html"><![CDATA[피케팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.632Z</updated>
-        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
+        <updated>2023-11-06T10:19:54.853Z</updated>
+        <content type="html"><![CDATA[‘피 튀기는 경쟁률을 자랑하는 티케팅’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스스]]></title>
+        <title type="html"><![CDATA[디지털 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.634Z</updated>
-        <content type="html"><![CDATA[‘인스타그램 스토리’를 줄여 부르는 말.]]></content>
+        <updated>2023-11-06T10:19:54.854Z</updated>
+        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관종]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.637Z</updated>
-        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
+        <updated>2023-11-06T10:19:54.856Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손댄스]]></title>
+        <title type="html"><![CDATA[단호박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.638Z</updated>
-        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
+        <updated>2023-11-06T10:19:54.857Z</updated>
+        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐텐]]></title>
+        <title type="html"><![CDATA[랜봉]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-06T09:18:34.639Z</updated>
-        <content type="html"><![CDATA[‘진짜 텐션’의 줄임말. 꾸미지 않은 솔직한 분위기와 기분이 느껴진다는 뜻. 반대말은 ‘억텐(=억지 텐션)’.]]></content>
+        <updated>2023-11-06T10:19:54.859Z</updated>
+        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
     </entry>
 </feed>
