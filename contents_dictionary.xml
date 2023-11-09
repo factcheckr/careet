@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-09T16:23:07.341Z</updated>
+    <updated>2023-11-09T17:16:00.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[코스프레]]></title>
+        <title type="html"><![CDATA[인쇼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.818Z</updated>
-        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
+        <updated>2023-11-09T17:15:53.964Z</updated>
+        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마스킹 테이프]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.820Z</updated>
-        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
+        <updated>2023-11-09T17:15:53.965Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다꾸]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.822Z</updated>
-        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
+        <updated>2023-11-09T17:15:53.966Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕메]]></title>
+        <title type="html"><![CDATA[이때싶]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.824Z</updated>
-        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
+        <updated>2023-11-09T17:15:53.968Z</updated>
+        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텅장]]></title>
+        <title type="html"><![CDATA[소확성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.825Z</updated>
-        <content type="html"><![CDATA[잔고가 없어 텅 빈 통장을 뜻함.]]></content>
+        <updated>2023-11-09T17:15:53.970Z</updated>
+        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[블친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-09T16:22:58.827Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-11-09T17:15:53.971Z</updated>
+        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
     </entry>
 </feed>
