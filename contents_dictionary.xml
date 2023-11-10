@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-10T21:14:53.389Z</updated>
+    <updated>2023-11-10T22:16:25.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어쩔티비]]></title>
+        <title type="html"><![CDATA[로판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.870Z</updated>
-        <content type="html"><![CDATA[알파 세대 유행어. ‘어쩌라고, TV나 봐’라는 의미로 추정됨.]]></content>
+        <updated>2023-11-10T22:16:17.070Z</updated>
+        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.871Z</updated>
-        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
+        <updated>2023-11-10T22:16:17.072Z</updated>
+        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼죽코]]></title>
+        <title type="html"><![CDATA[지비츠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.871Z</updated>
-        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
+        <updated>2023-11-10T22:16:17.074Z</updated>
+        <content type="html"><![CDATA[신발 ‘크록스’를 장식하는 아이템. 각종 캐릭터 모양 등 알파세대와 Z세대의 트렌드를 반영한 형태가 많음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[섭종]]></title>
+        <title type="html"><![CDATA[톤그로]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.872Z</updated>
-        <content type="html"><![CDATA[‘서버 종료’ 또는 ‘서비스 종료’를 줄여 부르는 말.]]></content>
+        <updated>2023-11-10T22:16:17.077Z</updated>
+        <content type="html"><![CDATA[색을 뜻하는 ‘Tone’과 분쟁를 뜻하는 ‘aggro’의 합성어. 본인의 피부 톤에 맞지 않는 색상으로 메이크업해서 어색하다는 뜻으로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈쭐]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.874Z</updated>
-        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
+        <updated>2023-11-10T22:16:17.079Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
+        <title type="html"><![CDATA[자강두천]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-10T21:14:45.876Z</updated>
-        <content type="html"><![CDATA[‘알아서 잘 딱 깔끔하고 센스있게’의 줄임말. 게임 스트리머 우왁굳이 사용하며 널리 쓰이기 시작함.]]></content>
+        <updated>2023-11-10T22:16:17.081Z</updated>
+        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
     </entry>
 </feed>
