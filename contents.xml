@@ -4,7 +4,7 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 23:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 01:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 17 Nov 2023 01:14:24 GMT</pubDate>
             <content:encoded><![CDATA[F&amp;B 신흥강자부터 Z세대 사이에서 뜨는 포토 스튜디오까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/4cbb5236-8d43-4745-b1ae-e8ec5b7d6f01_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방문객 수보다 중요한 게 ‘체류 시간’! 이주의 팝업스토어 2]]></title>
+            <link>https://www.careet.net/1226</link>
+            <guid>https://www.careet.net/1226</guid>
+            <pubDate>Mon, 20 Nov 2023 01:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 쌍쌍바, 롤 팝업스토어에 한 시간 이상 머문 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8bf3bacb-9f21-479e-8644-be3d177f54ad_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트렌드 모니터링하려면 필수로 구독해야 하는 계정 19]]></title>
