@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 01:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘중꺾마’를 이을 e스포츠 밈 등장! 화제의 2023 월즈(롤드컵) 이슈 총정리]]></title>
+            <link>https://www.careet.net/1231</link>
+            <guid>https://www.careet.net/1231</guid>
+            <pubDate>Wed, 22 Nov 2023 01:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘로마혁’이 누구게요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/bb9754db-41fb-4f21-b533-1efdf6afd468_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 ‘호떡’을 부르는 신조어는? 모르면 뒤처지는 요즘 뜨는 밈 4]]></title>
             <link>https://www.careet.net/1202</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
             <content:encoded><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6d72fad-4f2b-443b-8f12-52ead0c47786_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
-            <link>https://www.careet.net/1103</link>
-            <guid>https://www.careet.net/1103</guid>
-            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
