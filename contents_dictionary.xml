@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-26T02:30:11.038Z</updated>
+    <updated>2023-11-26T03:17:47.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인친]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.282Z</updated>
-        <content type="html"><![CDATA[인스타그램 친구의 줄임말.]]></content>
+        <updated>2023-11-26T03:17:39.279Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여름이었다]]></title>
+        <title type="html"><![CDATA[홈마]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.284Z</updated>
-        <content type="html"><![CDATA[트위터에서 시작된 유행어. 아무 말이나 해놓고, 뒤에 '여름이었다'라는 문구만 붙이면 감성적으로 보인다는 한 트윗에서 유래해 커뮤니티로 퍼짐.]]></content>
+        <updated>2023-11-26T03:17:39.280Z</updated>
+        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 굿즈]]></title>
+        <title type="html"><![CDATA[병약미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.286Z</updated>
-        <content type="html"><![CDATA[휴대폰·아이패드 배경화면, 카카오톡 테마 등 디지털 환경에 적용해서 사용할 수 있는 템플릿. 실물 굿즈가 아닌 온라인에서 배포할 수 있다는 점이 특징.]]></content>
+        <updated>2023-11-26T03:17:39.282Z</updated>
+        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼현슼엘]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.288Z</updated>
-        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
+        <updated>2023-11-26T03:17:39.283Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼컬]]></title>
+        <title type="html"><![CDATA[TMT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.289Z</updated>
-        <content type="html"><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content>
+        <updated>2023-11-26T03:17:39.285Z</updated>
+        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일잘러]]></title>
+        <title type="html"><![CDATA[온클]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-26T02:30:03.290Z</updated>
-        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
+        <updated>2023-11-26T03:17:39.287Z</updated>
+        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
     </entry>
 </feed>
