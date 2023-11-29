@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-29T22:16:54.065Z</updated>
+    <updated>2023-11-29T23:17:51.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[크리에이터 세대]]></title>
+        <title type="html"><![CDATA[유교걸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.174Z</updated>
-        <content type="html"><![CDATA[콘텐츠를 직접 만드는 것이 익숙한 세대. 크리에이터 자아를 중요한 정체성으로 여김.]]></content>
+        <updated>2023-11-29T23:17:44.046Z</updated>
+        <content type="html"><![CDATA[‘유교’와 ‘girl’의 합성어로, 보수적인 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온클]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.176Z</updated>
-        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
+        <updated>2023-11-29T23:17:44.049Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로판]]></title>
+        <title type="html"><![CDATA[프사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.178Z</updated>
-        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
+        <updated>2023-11-29T23:17:44.050Z</updated>
+        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[단호박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.179Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-11-29T23:17:44.051Z</updated>
+        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시강]]></title>
+        <title type="html"><![CDATA[셀프 분석 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.181Z</updated>
-        <content type="html"><![CDATA[‘시선 강탈’의 줄임말. 유독 남들의 시선(이목)을 끄는 것을 의미함.]]></content>
+        <updated>2023-11-29T23:17:44.053Z</updated>
+        <content type="html"><![CDATA[성격 유형 검사, 퍼스널 컬러, 유전자 검사 등 자기 자신을 더욱 심층적으로 알아보기 위해 받아보는 검사를 총칭함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농놀]]></title>
+        <title type="html"><![CDATA[가챠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-29T22:16:46.182Z</updated>
-        <content type="html"><![CDATA[‘농구 놀이’의 줄임말. 영화 &lt;더 퍼스트 슬램덩크&gt; 개봉으로 만들어진 농구 붐을 부르는 Z세대 유행어.]]></content>
+        <updated>2023-11-29T23:17:44.054Z</updated>
+        <content type="html"><![CDATA[기계에서 나는 덜그럭거리는 마찰음을 나타내는 일본 의성어에서 유래함. ‘랜덤 뽑기’를 뜻함.]]></content>
     </entry>
 </feed>
