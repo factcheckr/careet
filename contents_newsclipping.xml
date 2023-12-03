@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2023-12-03T21:14:49.946Z</updated>
+    <updated>2023-12-03T22:16:29.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[CU, ‘핑크퐁’ 스핀오프 캐릭터 ‘국그릇핑크퐁’과 콘텐츠 협업]]></title>
-        <id>https://www.donga.com/news/Culture/article/all/20231130/122424287/1</id>
-        <link href="https://www.donga.com/news/Culture/article/all/20231130/122424287/1"/>
-        <updated>2023-12-01T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[네이버, 생성형 AI 검색 기능 ‘큐:’ 검색창에 적용]]></title>
+        <id>https://www.khan.co.kr/economy/market-trend/article/202312011130001</id>
+        <link href="https://www.khan.co.kr/economy/market-trend/article/202312011130001"/>
+        <updated>2023-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>편의점 ‘CU’가 핑크퐁의 스핀오프 캐릭터인 '국그릇핑크퐁'이랑 콘텐츠 협업을 진행합니다. 해당 콘텐츠에는 CU 캐릭터인 ‘케이루’가 함께 등장한다고 해요. 영상은 전국 CU 매장, SNS 등에서 12월 한 달간 공개된다고 합니다.</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- ‘<a href="https://youtu.be/sIZW13OEv8o?si=Fhh3T4pYCdLNHJuE" rel="noopener noreferrer" target="_blank"><strong><u>국그릇 핑크퐁</u></strong></a>’은 지난 만우절에 뮤직비디오 방식으로 공개됨. 새로운 세계관과 스토리텔링, 강렬한 EDM 사운드와 중독성 있는 멜로디가 특징이라고.&nbsp;</div><div>- 콘텐츠는 숏폼 형태로 공개될 예정. CU는 ‘숏폼 드라마’ 등 꾸준히 숏폼 마케팅을 진행하고 있어, 이번 콘텐츠도 어떤 반응을 얻게 될지 주목됨.&nbsp;</div><div><br></div>
+                                                <div>네이버가 지난 9월 시범 출시한 생성형 AI 서비스 ‘큐:(CUE:)’를 포털 검색창에 적용했다고 해요. 검색창에 복잡하고 긴 질문을 입력하면 인공지능이 원하는 결과를 요약해 답변해주고 맞춤형 서비스까지 연결해준다고 합니다.&nbsp;</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 정식 서비스 출시 전까지는 큐: 홈페이지를 방문해 등록·승인 과정을 거친 후 이용할 수 있다고 함.</div><div>- 예를 들어, ‘크리스마스에 예약할 수 있고 주차되는 성수동 맛집을 찾아줘’라는 질문에 사용자가 원하는 조건에 맞는 장소를 네이버 정보와 예약 시스템을 연동해 한 번에 볼 수 있도록 함.</div><div>- 현재는 PC 버전만 지원함. 내년에 모바일로 확대 적용할 예정이라고.</div>
                                             </span>
-                                                <a href="https://www.donga.com/news/Culture/article/all/20231130/122424287/1" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="https://www.khan.co.kr/economy/market-trend/article/202312011130001" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
