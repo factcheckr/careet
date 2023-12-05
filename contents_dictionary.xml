@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-05T02:31:14.321Z</updated>
+    <updated>2023-12-05T03:19:06.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[처돌이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.353Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2023-12-05T03:18:59.387Z</updated>
+        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밖순이]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.353Z</updated>
-        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
+        <updated>2023-12-05T03:18:59.387Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼코노]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.358Z</updated>
-        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
+        <updated>2023-12-05T03:18:59.389Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿠키]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.358Z</updated>
-        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
+        <updated>2023-12-05T03:18:59.390Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[맛없없]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.360Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-12-05T03:18:59.391Z</updated>
+        <content type="html"><![CDATA[‘맛 없을 수 없다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대전]]></title>
+        <title type="html"><![CDATA[포스타입]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-05T02:31:06.361Z</updated>
-        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
+        <updated>2023-12-05T03:18:59.393Z</updated>
+        <content type="html"><![CDATA[창작물을 공유할 수 있는 블로그 플랫폼.]]></content>
     </entry>
 </feed>
