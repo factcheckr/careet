@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 01:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 02:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“요즘 Z세대는 어떻게 연애해요?” 달라진 Z세대 연애 트렌드 4]]></title>
+            <link>https://www.careet.net/1240</link>
+            <guid>https://www.careet.net/1240</guid>
+            <pubDate>Tue, 05 Dec 2023 02:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[깻잎 논쟁보다 핫한 논쟁이 등장했다고? Z세대 연애 근황 모음집]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/48e25eb7-319a-4e70-856e-115c6ecb78f6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘와 요즘은 이러고 논다고?’ 30대는 절대 모르는 요즘 중고등학교 문화 5]]></title>
             <link>https://www.careet.net/1215</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
             <content:encoded><![CDATA[굿즈 트렌드! 업사이클링 제품이 이렇게 다양해졌어?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/f343f5a4-2d3c-4780-951c-7490ad1cf7f5_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림]]></title>
-            <link>https://www.careet.net/1163</link>
-            <guid>https://www.careet.net/1163</guid>
-            <pubDate>Sun, 17 Sep 2023 20:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[행사 때마다 꼭 챙겨 먹는 ‘상징 음식’부터 대용량 제품 트렌드까지]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/2d7cee24-ab07-46b9-92a9-541f42bbc7e3_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
