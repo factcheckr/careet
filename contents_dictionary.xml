@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-10T19:13:33.979Z</updated>
+    <updated>2023-12-10T20:17:43.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[내적 친밀감]]></title>
+        <title type="html"><![CDATA[생일 카페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.635Z</updated>
-        <content type="html"><![CDATA[실제로 알지는 못하지만 온라인 상에서 자주 소식을 접해서 내적으로 친밀감이 쌓였다는 뜻.]]></content>
+        <updated>2023-12-10T20:17:36.434Z</updated>
+        <content type="html"><![CDATA[주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 카페 내부를 아이돌 사진이나 관련 소품으로 꾸미는 이벤트. 줄여서 ‘생카’라고 부름]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[까방]]></title>
+        <title type="html"><![CDATA[이때싶]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.635Z</updated>
-        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
+        <updated>2023-12-10T20:17:36.440Z</updated>
+        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뷰잉파티]]></title>
+        <title type="html"><![CDATA[팅글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.638Z</updated>
-        <content type="html"><![CDATA[여러 사람들과 한 공간에서 경기 중계 방송을 시청하는 실내 응원전]]></content>
+        <updated>2023-12-10T20:17:36.440Z</updated>
+        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플래그]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.640Z</updated>
-        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
+        <updated>2023-12-10T20:17:36.441Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0차]]></title>
+        <title type="html"><![CDATA[잘파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.641Z</updated>
-        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
+        <updated>2023-12-10T20:17:36.443Z</updated>
+        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[많관부]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T19:13:26.642Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2023-12-10T20:17:36.444Z</updated>
+        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
     </entry>
 </feed>
