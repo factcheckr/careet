@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-10T01:19:55.066Z</updated>
+    <updated>2023-12-10T02:31:41.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[드래곤볼]]></title>
+        <title type="html"><![CDATA[미디어 파사드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.549Z</updated>
-        <content type="html"><![CDATA[MZ세대는 무언가를 모을 때 ‘드래곤볼’이라고 표현함. 만화 &lt;드래곤볼&gt;의 내용이 구슬 일곱개를 모아야 한다는 점에서 유래됨.]]></content>
+        <updated>2023-12-10T02:31:33.801Z</updated>
+        <content type="html"><![CDATA[미디어(media)와 건물의 표면을 뜻하는 파사드(facade)가 합성된 용어로, 건물의 외벽에 다양한 콘텐츠 영상을 투사하는 것]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로깅]]></title>
+        <title type="html"><![CDATA[밖순이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.555Z</updated>
-        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
+        <updated>2023-12-10T02:31:33.803Z</updated>
+        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공]]></title>
+        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.555Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
+        <updated>2023-12-10T02:31:33.804Z</updated>
+        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.555Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2023-12-10T02:31:33.806Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[드볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.556Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-12-10T02:31:33.808Z</updated>
+        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셀프 캐해]]></title>
+        <title type="html"><![CDATA[버튜버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T01:19:47.557Z</updated>
-        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
+        <updated>2023-12-10T02:31:33.809Z</updated>
+        <content type="html"><![CDATA[버추얼 유튜버의 줄임말. 가상의 아바타를 내세워 인터넷 방송을 하는 유튜버를 뜻함.]]></content>
     </entry>
 </feed>
