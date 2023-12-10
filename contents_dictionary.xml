@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-10T02:31:41.390Z</updated>
+    <updated>2023-12-10T03:18:36.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미디어 파사드]]></title>
+        <title type="html"><![CDATA[갓기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.801Z</updated>
-        <content type="html"><![CDATA[미디어(media)와 건물의 표면을 뜻하는 파사드(facade)가 합성된 용어로, 건물의 외벽에 다양한 콘텐츠 영상을 투사하는 것]]></content>
+        <updated>2023-12-10T03:18:29.178Z</updated>
+        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밖순이]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.803Z</updated>
-        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
+        <updated>2023-12-10T03:18:29.184Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
+        <title type="html"><![CDATA[소취]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.804Z</updated>
-        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
+        <updated>2023-12-10T03:18:29.184Z</updated>
+        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[인스타그래머블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.806Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-12-10T03:18:29.184Z</updated>
+        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드볼]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.808Z</updated>
-        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
+        <updated>2023-12-10T03:18:29.184Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버튜버]]></title>
+        <title type="html"><![CDATA[코시국]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-10T02:31:33.809Z</updated>
-        <content type="html"><![CDATA[버추얼 유튜버의 줄임말. 가상의 아바타를 내세워 인터넷 방송을 하는 유튜버를 뜻함.]]></content>
+        <updated>2023-12-10T03:18:29.185Z</updated>
+        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
     </entry>
 </feed>
