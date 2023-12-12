@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-12T09:18:22.914Z</updated>
+    <updated>2023-12-12T10:19:44.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[찐후기]]></title>
+        <title type="html"><![CDATA[프박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.037Z</updated>
-        <content type="html"><![CDATA[MZ세대가 정말 믿을 만하다고 평가하는 ‘진짜 후기’를 일컫는 말.]]></content>
+        <updated>2023-12-12T10:19:37.071Z</updated>
+        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힙(hip)]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.039Z</updated>
-        <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. ‘힙하다’, ‘힙한 OO’로 쓰임. (유사어: 트렌디하다)]]></content>
+        <updated>2023-12-12T10:19:37.075Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네카라쿠배당토]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.040Z</updated>
-        <content type="html"><![CDATA[네이버, 카카오, 라인, 배달의민족, 당근마켓, 토스 등 신흥 IT 기업을 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 떠오르는 기업들.]]></content>
+        <updated>2023-12-12T10:19:37.077Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
+        <title type="html"><![CDATA[텍대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.041Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2023-12-12T10:19:37.078Z</updated>
+        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[먼치킨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.044Z</updated>
-        <content type="html"><![CDATA[‘실제 사진’의 줄임말]]></content>
+        <updated>2023-12-12T10:19:37.080Z</updated>
+        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[헤메코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T09:18:16.045Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2023-12-12T10:19:37.081Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
 </feed>
