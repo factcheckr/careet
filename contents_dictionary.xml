@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-13T10:19:25.981Z</updated>
+    <updated>2023-12-13T11:15:24.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[에브리타임]]></title>
+        <title type="html"><![CDATA[오늘의집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.857Z</updated>
-        <content type="html"><![CDATA[학교별 게시판이 운영되는 대학교 커뮤니티 서비스.]]></content>
+        <updated>2023-12-13T11:15:17.374Z</updated>
+        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슈스]]></title>
+        <title type="html"><![CDATA[어드벤트 캘린더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.858Z</updated>
-        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
+        <updated>2023-12-13T11:15:17.375Z</updated>
+        <content type="html"><![CDATA[12월 1일부터 24일까지 크리스마스를 기다리면서 하나씩 선물을 열어보는 형식의 달력.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓기]]></title>
+        <title type="html"><![CDATA[억텐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.858Z</updated>
-        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
+        <updated>2023-12-13T11:15:17.376Z</updated>
+        <content type="html"><![CDATA[‘억지 텐션’의 줄임말로, 자신의 기분은 전혀 그렇지 않은데도 상대의 말이나 행동에 억지로 재미있는 척하거나 격한 반응을 보여주는 것을 의미함. 반대말은 ‘찐텐(=진짜 텐션)’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[할매니얼]]></title>
+        <title type="html"><![CDATA[코끝모]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.858Z</updated>
-        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
+        <updated>2023-12-13T11:15:17.381Z</updated>
+        <content type="html"><![CDATA[코로나 끝나면 모이자를 줄인 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뵤]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.860Z</updated>
-        <content type="html"><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content>
+        <updated>2023-12-13T11:15:17.382Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시즈니]]></title>
+        <title type="html"><![CDATA[갓겜]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T10:19:17.861Z</updated>
-        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
+        <updated>2023-12-13T11:15:17.384Z</updated>
+        <content type="html"><![CDATA[God + Game. 잘 만든 게임을 칭찬할 때 쓰는 말.]]></content>
     </entry>
 </feed>
