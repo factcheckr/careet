@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년, 모르고 지나가면 안 되는 밈(meme) 타임라인]]></title>
+            <link>https://www.careet.net/1247</link>
+            <guid>https://www.careet.net/1247</guid>
+            <pubDate>Thu, 14 Dec 2023 01:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘폼 미쳤다’가 1월에 유행했었다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/3f6805f3-2796-4831-aaaa-c6d394157556_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘중꺾마’를 이을 e스포츠 밈 등장! 화제의 2023 월즈(롤드컵) 이슈 총정리]]></title>
             <link>https://www.careet.net/1231</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
             <content:encoded><![CDATA[SNS 밈, 또 생겼습니다!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
-            <link>https://www.careet.net/1118</link>
-            <guid>https://www.careet.net/1118</guid>
-            <pubDate>Sun, 17 Sep 2023 20:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6d72fad-4f2b-443b-8f12-52ead0c47786_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

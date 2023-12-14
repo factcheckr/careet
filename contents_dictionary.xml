@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-13T23:17:57.636Z</updated>
+    <updated>2023-12-14T01:14:21.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[DM]]></title>
+        <title type="html"><![CDATA[실트 총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.169Z</updated>
-        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
+        <updated>2023-12-14T01:14:14.443Z</updated>
+        <content type="html"><![CDATA[원하는 메시지를 트위터 실시간 트렌드에 올리기 위해 해당 메시지가 포함된 트윗을 일제히 작성하는 것. 주로 아이돌 팬들이 최애의 생일을 축하할 때 벌임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[움짤]]></title>
+        <title type="html"><![CDATA[알파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.170Z</updated>
-        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
+        <updated>2023-12-14T01:14:14.444Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인싸]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.170Z</updated>
-        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
+        <updated>2023-12-14T01:14:14.445Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스스]]></title>
+        <title type="html"><![CDATA[드덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.172Z</updated>
-        <content type="html"><![CDATA[‘인스타그램 스토리’를 줄여 부르는 말.]]></content>
+        <updated>2023-12-14T01:14:14.446Z</updated>
+        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈트]]></title>
+        <title type="html"><![CDATA[포스타입]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.175Z</updated>
-        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
+        <updated>2023-12-14T01:14:14.448Z</updated>
+        <content type="html"><![CDATA[창작물을 공유할 수 있는 블로그 플랫폼.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[갑분싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T23:17:50.175Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2023-12-14T01:14:14.449Z</updated>
+        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
     </entry>
 </feed>
