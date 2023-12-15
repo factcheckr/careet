@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-15T12:32:51.434Z</updated>
+    <updated>2023-12-15T13:21:47.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[얼빡]]></title>
+        <title type="html"><![CDATA[GOAT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.812Z</updated>
-        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
+        <updated>2023-12-15T13:21:39.815Z</updated>
+        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[폰꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.816Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2023-12-15T13:21:39.815Z</updated>
+        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕업일치]]></title>
+        <title type="html"><![CDATA[DM]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.817Z</updated>
-        <content type="html"><![CDATA[덕질하는 것이 직업이 되었다는 뜻. 요즘은 좋아하는 일이 직업이 되었을 때 사용하는 말로 확장됨.]]></content>
+        <updated>2023-12-15T13:21:39.818Z</updated>
+        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[취준]]></title>
+        <title type="html"><![CDATA[폰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.818Z</updated>
-        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
+        <updated>2023-12-15T13:21:39.819Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블록코어]]></title>
+        <title type="html"><![CDATA[팬튜브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.820Z</updated>
-        <content type="html"><![CDATA[스포츠 유니폼을 일상복처럼 입거나 일상복에 접목한 패션 스타일]]></content>
+        <updated>2023-12-15T13:21:39.820Z</updated>
+        <content type="html"><![CDATA[팬이 운영하는 유튜브 계정. 특정 아이돌이나 배우가 출연한 콘텐츠를 2차 가공한 영상을 업로드함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맵부심]]></title>
+        <title type="html"><![CDATA[끌올]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T12:32:43.821Z</updated>
-        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
+        <updated>2023-12-15T13:21:39.822Z</updated>
+        <content type="html"><![CDATA[이전에 있었던 일을 다시 끌어 올려 화제로 삼는 일을 부르는 말.]]></content>
     </entry>
 </feed>
