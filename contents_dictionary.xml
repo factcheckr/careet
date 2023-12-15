@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-15T20:18:54.326Z</updated>
+    <updated>2023-12-15T21:15:25.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[맛잘알]]></title>
+        <title type="html"><![CDATA[야민정음]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.667Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
+        <updated>2023-12-15T21:15:17.597Z</updated>
+        <content type="html"><![CDATA[야구 갤러리+훈민정음의 합성어. 디시인사이드 야구 갤러리에서 만든 드립으로 원래 글자를 모양이 비슷한 다른 글자로 대체해 표기하는 방식. (ex. 멍멍이 → 댕댕이)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[컨포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.669Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2023-12-15T21:15:17.599Z</updated>
+        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹시태그]]></title>
+        <title type="html"><![CDATA[한줌단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.670Z</updated>
-        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
+        <updated>2023-12-15T21:15:17.600Z</updated>
+        <content type="html"><![CDATA[다 모아도 한 줌이 될 것 같은 적은 수의 집단을 부르는 말. MZ세대가 비주류를 지칭할 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타툰]]></title>
+        <title type="html"><![CDATA[글 리젠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.672Z</updated>
-        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
+        <updated>2023-12-15T21:15:17.603Z</updated>
+        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트잘알]]></title>
+        <title type="html"><![CDATA[상플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.674Z</updated>
-        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
+        <updated>2023-12-15T21:15:17.604Z</updated>
+        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하지만꽃]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-15T20:18:46.675Z</updated>
-        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
+        <updated>2023-12-15T21:15:17.605Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
 </feed>
