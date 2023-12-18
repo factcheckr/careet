@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-18T04:22:21.296Z</updated>
+    <updated>2023-12-18T05:17:40.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스트리머]]></title>
+        <title type="html"><![CDATA[이스터에그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.549Z</updated>
-        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
+        <updated>2023-12-18T05:17:32.838Z</updated>
+        <content type="html"><![CDATA[콘텐츠나 이벤트 등에 숨겨진 메시지나 기능]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[알파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.550Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-12-18T05:17:32.840Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬싸]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.551Z</updated>
-        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
+        <updated>2023-12-18T05:17:32.841Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파츠]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.557Z</updated>
-        <content type="html"><![CDATA[각종 액세서리 부자재를 일컫는 말. Z세대는 보통 아이돌 포토 카드를 꾸밀 때 파츠를 활용함.]]></content>
+        <updated>2023-12-18T05:17:32.843Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어덕행덕]]></title>
+        <title type="html"><![CDATA[임플로이언서]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.558Z</updated>
-        <content type="html"><![CDATA[‘어차피 덕질할 거 행복하게 덕질하자.’를 줄여 이르는 말.]]></content>
+        <updated>2023-12-18T05:17:32.844Z</updated>
+        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어그로(aggro)]]></title>
+        <title type="html"><![CDATA[추구미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-18T04:22:13.559Z</updated>
-        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
+        <updated>2023-12-18T05:17:32.845Z</updated>
+        <content type="html"><![CDATA[‘추구하는 아름다움(美)’이라는 의미의 Z세대 신조어. ‘워너비, 이상향’과 비슷한 용례로 쓰임.]]></content>
     </entry>
 </feed>
