@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-22T01:13:06.943Z</updated>
+    <updated>2023-12-22T02:27:49.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[짠테크]]></title>
+        <title type="html"><![CDATA[엄카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.751Z</updated>
-        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
+        <updated>2023-12-22T02:27:41.600Z</updated>
+        <content type="html"><![CDATA[‘엄마 카드’ 등 부모님의 카드를 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굿즈]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.753Z</updated>
-        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
+        <updated>2023-12-22T02:27:41.601Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[로컬 힙]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.755Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2023-12-22T02:27:41.605Z</updated>
+        <content type="html"><![CDATA[특정 지역만의 색깔이 담긴 식품, 공간, 관광, 굿즈, 서비스가 Z세대 사이에서 힙하게 여겨지는 경향.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대전]]></title>
+        <title type="html"><![CDATA[필환경]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.756Z</updated>
-        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
+        <updated>2023-12-22T02:27:41.607Z</updated>
+        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소확성]]></title>
+        <title type="html"><![CDATA[포카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.758Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2023-12-22T02:27:41.613Z</updated>
+        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실감세대]]></title>
+        <title type="html"><![CDATA[콜북]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-22T01:12:58.760Z</updated>
-        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
+        <updated>2023-12-22T02:27:41.614Z</updated>
+        <content type="html"><![CDATA[‘콜렉트북’의 줄임말로, 연예인 포토카드를 모아두는 앨범을 뜻함]]></content>
     </entry>
 </feed>
