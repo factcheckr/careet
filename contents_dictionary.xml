@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-23T03:18:19.345Z</updated>
+    <updated>2023-12-23T04:21:30.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[그라폴리오]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.075Z</updated>
-        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
+        <updated>2023-12-23T04:21:21.439Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[도파민]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.077Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2023-12-23T04:21:21.441Z</updated>
+        <content type="html"><![CDATA[인체에 분비되는 신경전달물질로 쾌락을 느끼게 해주는 것으로 알려져 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코시국]]></title>
+        <title type="html"><![CDATA[시그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.082Z</updated>
-        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
+        <updated>2023-12-23T04:21:21.443Z</updated>
+        <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어그로(aggro)]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.083Z</updated>
-        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
+        <updated>2023-12-23T04:21:21.445Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팅글]]></title>
+        <title type="html"><![CDATA[엄카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.084Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2023-12-23T04:21:21.446Z</updated>
+        <content type="html"><![CDATA[‘엄마 카드’ 등 부모님의 카드를 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하울(haul)]]></title>
+        <title type="html"><![CDATA[게임 시네마틱 트레일러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-23T03:18:12.086Z</updated>
-        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
+        <updated>2023-12-23T04:21:21.447Z</updated>
+        <content type="html"><![CDATA[게임의 핵심이 되는 세계관과 스토리를 ‘영화 예고편’처럼 풀어낸 영상을 뜻함.]]></content>
     </entry>
 </feed>
