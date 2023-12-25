@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-25T08:22:51.171Z</updated>
+    <updated>2023-12-25T09:17:40.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[사이다 서사]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.025Z</updated>
-        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
+        <updated>2023-12-25T09:17:32.928Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짬바]]></title>
+        <title type="html"><![CDATA[순삭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.027Z</updated>
-        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
+        <updated>2023-12-25T09:17:32.930Z</updated>
+        <content type="html"><![CDATA[‘순식간에 삭제되다’의 줄임말. ‘너무 재밌어서 시간 가는 줄 몰랐다’, ‘너무 맛있어서 순식간에 다 먹어 버렸다.’ 등의 맥락에서 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡상]]></title>
+        <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.028Z</updated>
-        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
+        <updated>2023-12-25T09:17:32.931Z</updated>
+        <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[깡]]></title>
+        <title type="html"><![CDATA[킹받는]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.030Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2023-12-25T09:17:32.932Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.031Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-12-25T09:17:32.933Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실트 총공]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-25T08:22:44.033Z</updated>
-        <content type="html"><![CDATA[원하는 메시지를 트위터 실시간 트렌드에 올리기 위해 해당 메시지가 포함된 트윗을 일제히 작성하는 것. 주로 아이돌 팬들이 최애의 생일을 축하할 때 벌임.]]></content>
+        <updated>2023-12-25T09:17:32.935Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
 </feed>
