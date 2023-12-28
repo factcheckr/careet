@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-28T19:14:23.392Z</updated>
+    <updated>2023-12-28T20:16:39.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[블챌]]></title>
+        <title type="html"><![CDATA[폰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.696Z</updated>
-        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
+        <updated>2023-12-28T20:16:31.880Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[뇌절]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.697Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2023-12-28T20:16:31.881Z</updated>
+        <content type="html"><![CDATA[똑같은 말이나 행동을 반복해 상대를 질리게 하는 것을 지칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프박]]></title>
+        <title type="html"><![CDATA[겟레디윗미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.698Z</updated>
-        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
+        <updated>2023-12-28T20:16:31.881Z</updated>
+        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스타입]]></title>
+        <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.702Z</updated>
-        <content type="html"><![CDATA[창작물을 공유할 수 있는 블로그 플랫폼.]]></content>
+        <updated>2023-12-28T20:16:31.883Z</updated>
+        <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자만추]]></title>
+        <title type="html"><![CDATA[박음질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.703Z</updated>
-        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
+        <updated>2023-12-28T20:16:31.886Z</updated>
+        <content type="html"><![CDATA[인스타그램 스토리 게시물을 하루에 많이 올리는 일을 부르는 MZ세대 유행어. 하루에 올린 게시물 개수만큼 화면 상단에 점이 찍히는 것에서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솔플러]]></title>
+        <title type="html"><![CDATA[실감세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-28T19:14:15.704Z</updated>
-        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
+        <updated>2023-12-28T20:16:31.887Z</updated>
+        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
     </entry>
 </feed>
