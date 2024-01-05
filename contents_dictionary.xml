@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-05T18:22:05.939Z</updated>
+    <updated>2024-01-05T19:14:33.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
+        <title type="html"><![CDATA[플로깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.921Z</updated>
-        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
+        <updated>2024-01-05T19:14:25.762Z</updated>
+        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이라이브]]></title>
+        <title type="html"><![CDATA[드래곤볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.921Z</updated>
-        <content type="html"><![CDATA[네이버의 실시간 방송 플랫폼. 스타와 팬과 소통하는 창구로 쓰임.]]></content>
+        <updated>2024-01-05T19:14:25.765Z</updated>
+        <content type="html"><![CDATA[MZ세대는 무언가를 모을 때 ‘드래곤볼’이라고 표현함. 만화 &lt;드래곤볼&gt;의 내용이 구슬 일곱개를 모아야 한다는 점에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이로그]]></title>
+        <title type="html"><![CDATA[잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.922Z</updated>
-        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
+        <updated>2024-01-05T19:14:25.767Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앱테크]]></title>
+        <title type="html"><![CDATA[마크정식]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.924Z</updated>
-        <content type="html"><![CDATA[앱+재테크의 합성어. 앱 안에서 특정 활동을 해 포인트를 쌓는 것]]></content>
+        <updated>2024-01-05T19:14:25.769Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망상]]></title>
+        <title type="html"><![CDATA[덕력]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.926Z</updated>
-        <content type="html"><![CDATA[좋아하는 연예인을 가지고 특정 상황을 설정해 상상하며 노는 것.]]></content>
+        <updated>2024-01-05T19:14:25.770Z</updated>
+        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-05T18:21:58.927Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2024-01-05T19:14:25.772Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
