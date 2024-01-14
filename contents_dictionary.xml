@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-14T16:21:38.705Z</updated>
+    <updated>2024-01-14T17:15:35.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[밥친구]]></title>
+        <title type="html"><![CDATA[술터뷰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.561Z</updated>
-        <content type="html"><![CDATA[밥 먹을 때 보는 유튜브 영상, 콘텐츠 등을 의미함.]]></content>
+        <updated>2024-01-14T17:15:27.921Z</updated>
+        <content type="html"><![CDATA[‘술을 마시면서 진행하는 인터뷰’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMI]]></title>
+        <title type="html"><![CDATA[대전]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.563Z</updated>
-        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
+        <updated>2024-01-14T17:15:27.922Z</updated>
+        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미슐랭]]></title>
+        <title type="html"><![CDATA[혼사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.570Z</updated>
-        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
+        <updated>2024-01-14T17:15:27.924Z</updated>
+        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘파세대]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.571Z</updated>
-        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
+        <updated>2024-01-14T17:15:27.926Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키자니아]]></title>
+        <title type="html"><![CDATA[써방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.572Z</updated>
-        <content type="html"><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content>
+        <updated>2024-01-14T17:15:27.927Z</updated>
+        <content type="html"><![CDATA[‘서치(써치) 방지’의 줄임말. 특정 단어가 검색이 되지 않도록 작성하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[피케팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-14T16:21:31.573Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2024-01-14T17:15:27.929Z</updated>
+        <content type="html"><![CDATA[‘피 튀기는 경쟁률을 자랑하는 티케팅’의 줄임말.]]></content>
     </entry>
 </feed>
