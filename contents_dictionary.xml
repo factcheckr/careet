@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-19T04:22:26.951Z</updated>
+    <updated>2024-01-19T05:17:28.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마테]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.415Z</updated>
-        <content type="html"><![CDATA[마스킹테이프의 준말. 주로 다이어리 등을 꾸밀 때 이용됨]]></content>
+        <updated>2024-01-19T05:17:20.636Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[처돌이]]></title>
+        <title type="html"><![CDATA[랜봉]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.415Z</updated>
-        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+        <updated>2024-01-19T05:17:20.637Z</updated>
+        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓기]]></title>
+        <title type="html"><![CDATA[갑툭튀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.416Z</updated>
-        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
+        <updated>2024-01-19T05:17:20.639Z</updated>
+        <content type="html"><![CDATA[‘갑자기 툭 튀어나오다’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 리젠]]></title>
+        <title type="html"><![CDATA[생성형 AI]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.417Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
+        <updated>2024-01-19T05:17:20.642Z</updated>
+        <content type="html"><![CDATA[기존 데이터와 비교 학습을 통해 새로운 창작물을 탄생시키는 인공지능을 뜻함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먼치킨]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.424Z</updated>
-        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
+        <updated>2024-01-19T05:17:20.643Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쩝쩝박사]]></title>
+        <title type="html"><![CDATA[영통 팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-19T04:22:19.424Z</updated>
-        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
+        <updated>2024-01-19T05:17:20.644Z</updated>
+        <content type="html"><![CDATA[영상 통화로 하는 팬 사인회의 줄임말. 코로나 사태 이후 활성화 된 비대면 팬 이벤트 종류의 하나.]]></content>
     </entry>
 </feed>
