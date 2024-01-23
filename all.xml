@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 21:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 22:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,62 +440,62 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/7d047548-39b4-4a06-a449-b2f850cae246_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[일본 Z세대 사이에서 한국 웹툰이 인기? 카카오픽코마  일본 1위 등극 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://www.hankyung.com/article/202401221857i</link>
-            <guid>https://www.hankyung.com/article/202401221857i</guid>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[판매 6시간 만에 2.6만 장 팔린 교통카드가 있다고? (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://www.mbn.co.kr/news/economy/4997210</link>
+            <guid>https://www.mbn.co.kr/news/economy/4997210</guid>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>카카오의 웹툰 콘텐츠 자회사 ‘카카오픽코마’가 일본 내에서 게임 앱을 제치고, 소비자 지출 규모 순위 1위를 차지했습니다.<br><br><strong>✅눈여겨볼 포인트</strong><br>- 카카오픽코마는 일본의 출판 만화책을 웹툰 형태로 재가공하는 전략으로 일본 Z세대 사이에서 좋은 반응을 얻음.<br>- 한국의 웹툰도 일본 Z세대 사이에서 인기 있는 스낵컬처 콘텐츠로 자리 잡고 있음.</div>
+                                                <div>서울시가 선보인 무제한 대중교통 정기권 ‘기후동행카드’가 23일부터 판매를 시작했어요! 판매 시작 6시간 만에 총 2.6만 장이 팔릴 정도로 많은 관심을 받고 있는데요. 심지어 아직 편의점 실물 카드 판매량은 집계되지 않은 수치라, 실제 판매량은 더 많을 것으로 예상됩니다. 일부 편의점에서는 구매자가 많이 몰려 준비된 물량이 조기 소진됐다고 해요.</div><div><br></div><div><strong>✅ 눈여겨볼 포인트</strong></div><div>- 기후동행카드란? 월 6만 대의 가격으로 지하철, 버스, 따릉이를 횟수 제한 없이 이용할 수 있는 무제한 대중교통 통합 정기권.</div><div>- 모바일 카드를 발급받아 충전해서 쓰거나(안드로이드 사용자만 가능) 편의점, 지정된 역사 고객 안전실에서 실물 카드를 구매해 사용할 수 있음.</div><div>- 교통비 인상 소식이 전해지면서 알뜰교통카드, 기후동행카드 등 교통비 혜택 제도에 관심을 갖고 신청하는 Z세대가 많음.</div>
                                             </span>
-                                                <a href="https://www.hankyung.com/article/202401221857i" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://www.mbn.co.kr/news/economy/4997210" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팅글 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[스킨스병 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[젶크 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[초멘 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[술터뷰 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[알티 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘술을 마시면서 진행하는 인터뷰’라는 뜻.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[움짤 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[K 패치 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공답 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[영끌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OO깡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[군백기 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content:encoded>
+            <pubDate>Tue, 23 Jan 2024 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 생각하는 서울 핫플별 이미지 9 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.189]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202401/c5d4d0da-3ec4-48a6-9a9a-c50724c96426_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -503,7 +503,7 @@
             <title><![CDATA[(광고) 캐릿이 만든 한정판 ‘Z세대 캘린더’ 나눔 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.188]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202401/bc6defa9-e0c6-43d4-9393-f7a95cb9f85e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -511,7 +511,7 @@
             <title><![CDATA[일잘러 특: 뉴스레터 안 밀림 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.187]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202401/8f65b271-8b3e-4320-a3e3-35398929f86c_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -519,7 +519,7 @@
             <title><![CDATA[(광고) 내년에도 이어질 트렌드 vs 끝물인 트렌드 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.186]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202312/a3d31f6d-4016-4c5c-8195-9bb407f2ed5b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -527,7 +527,7 @@
             <title><![CDATA[RE: (내부용) 요즘 10대 연애 트렌드 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.185]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202312/fea64205-5ccd-4894-8e7e-e6af13bee62a_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +535,7 @@
             <title><![CDATA[(광고) Z세대는 다 안다는 이건안, 이지예는 누구? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.184]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202312/f43e1abf-5a94-471f-8e21-d8ff9475242b_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -543,7 +543,7 @@
             <title><![CDATA[Z세대 30만 명이 반응한 영감 기록법이 있다? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.183]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202311/2b4ea757-c7e8-4bba-ba84-3270c307f546_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -551,7 +551,7 @@
             <title><![CDATA[(광고) 30대는 모르는 중고등학생 문화 5 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.182]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202311/422ded64-d635-4eaf-9e77-d120e4245bd6_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -559,7 +559,7 @@
             <title><![CDATA[트렌드 원조 맛집! 캐릿이 2024년 예언함 (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.181]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202311/f4994954-5af9-4b0a-ab1b-4dda9e2531d1_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -567,7 +567,7 @@
             <title><![CDATA[(광고) 초등학생 인기 장래희망이 버튜버라고? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.180]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202311/8e4652f8-5027-47d5-a917-3e29e115b046_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -575,7 +575,7 @@
             <title><![CDATA[슬릭백 챌린지는 왜 유행하게 됐을까? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.179]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/4c05d261-7a06-49bf-9bf5-62546281f14e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -583,7 +583,7 @@
             <title><![CDATA[(광고) Z세대 야구팬 화력이 아이돌 팬덤 급이라고? (캐릿 ─ Trend letter)]]></title>
             <link>https://factcheckr.github.io/careet/all.xml</link>
             <guid>https://factcheckr.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 21:16:28 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[vol.178]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202310/ad98d8a8-d126-48ca-8c85-67bf1cdb02b8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
