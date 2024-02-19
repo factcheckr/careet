@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-18T23:16:31.335Z</updated>
+    <updated>2024-02-19T01:11:35.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.639Z</updated>
-        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
+        <updated>2024-02-19T01:11:28.731Z</updated>
+        <content type="html"><![CDATA[배트 플립(bat flip)의 한국식 표기. 일명 ‘빠따 던지기’의 줄임말. 타자가 홈런이 짐작되는 타격을 한 뒤, 야구 방망이를 던지는 행위를 말함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.640Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.640Z</updated>
-        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.642Z</updated>
+        <updated>2024-02-19T01:11:28.732Z</updated>
         <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.644Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2024-02-19T01:11:28.733Z</updated>
+        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-02-18T23:16:23.645Z</updated>
-        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
+        <updated>2024-02-19T01:11:28.735Z</updated>
+        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-02-19T01:11:28.736Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-02-19T01:11:28.737Z</updated>
+        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
     </entry>
 </feed>
