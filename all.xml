@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-01T13:18:25.120Z</updated>
+    <updated>2024-03-01T14:16:06.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.132Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.133Z</updated>
-        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.134Z</updated>
-        <content type="html"><![CDATA[콘텐츠나 이벤트 등에 숨겨진 메시지나 기능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.135Z</updated>
+        <updated>2024-03-01T14:15:59.764Z</updated>
         <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.136Z</updated>
-        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
+        <updated>2024-03-01T14:15:59.766Z</updated>
+        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-03-01T13:18:17.137Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2024-03-01T14:15:59.767Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-03-01T14:15:59.768Z</updated>
+        <content type="html"><![CDATA[트위터에서 ‘프로필 사진’을 일컫는 말. 프로필 사진이 올라가는 템플릿이 도장처럼 동그란 데서 유래한 별칭.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-03-01T14:15:59.769Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-03-01T14:15:59.770Z</updated>
+        <content type="html"><![CDATA[손재주가 좋은 사람을 일컫는 말. 반대말은 똥손.]]></content>
     </entry>
 </feed>
