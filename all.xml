@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-15T23:19:31.249Z</updated>
+    <updated>2024-05-16T01:16:04.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.626Z</updated>
-        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
+        <updated>2024-05-16T01:15:57.337Z</updated>
+        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.627Z</updated>
-        <content type="html"><![CDATA[식사(meal)와 준비(preparation)의 합성어. 최대 일주일치 식사를 미리 준비해뒀다가 식사 때마다 먹는 방법.]]></content>
+        <updated>2024-05-16T01:15:57.337Z</updated>
+        <content type="html"><![CDATA[‘광인’을 야민정음 방식으로 표기한 것. 특정 일에 미친듯이 몰두하는 사람을 지칭함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.628Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2024-05-16T01:15:57.338Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.629Z</updated>
-        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
+        <updated>2024-05-16T01:15:57.339Z</updated>
+        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.630Z</updated>
-        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
+        <updated>2024-05-16T01:15:57.340Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-05-15T23:19:24.631Z</updated>
-        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
+        <updated>2024-05-16T01:15:57.341Z</updated>
+        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
     </entry>
 </feed>
