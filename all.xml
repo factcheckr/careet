@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-30T20:22:29.653Z</updated>
+    <updated>2024-08-30T21:20:33.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.988Z</updated>
-        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
+        <updated>2024-08-30T21:20:27.288Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.989Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2024-08-30T21:20:27.290Z</updated>
+        <content type="html"><![CDATA[마스킹테이프의 준말. 주로 다이어리 등을 꾸밀 때 이용됨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.990Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2024-08-30T21:20:27.291Z</updated>
+        <content type="html"><![CDATA[MBTI 유형 중 ‘J형(Judging·판단형)’을 부르는 말. 주로 계획을 철저하게 지키는 성향이 있다고 알려짐.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.993Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2024-08-30T21:20:27.293Z</updated>
+        <content type="html"><![CDATA[독서, 기록 등 텍스트 콘텐츠를 힙하다고 여기는 새로운 경향.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.993Z</updated>
-        <content type="html"><![CDATA[업(up)과 에이저(ager)의 합성어로, 어린 나이에 신체적, 사회적, 심리적, 교육적, 상업적으로 빨리 성숙한다는 의미.]]></content>
+        <updated>2024-08-30T21:20:27.294Z</updated>
+        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-08-30T20:22:22.994Z</updated>
-        <content type="html"><![CDATA[짠돌이와 재테크의 합성어. 불필요한 소비를 줄여서 돈을 모으는 저축 방식.]]></content>
+        <updated>2024-08-30T21:20:27.295Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
 </feed>
