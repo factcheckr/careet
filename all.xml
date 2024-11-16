@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-16T20:23:01.785Z</updated>
+    <updated>2024-11-16T21:19:31.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.234Z</updated>
-        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
+        <updated>2024-11-16T21:19:24.494Z</updated>
+        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.235Z</updated>
-        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
+        <updated>2024-11-16T21:19:24.495Z</updated>
+        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.237Z</updated>
-        <content type="html"><![CDATA[글+리젠(regen)의 합성어. 게시판 등에 새로운 글이 자주 올라올 때 ‘글리젠이 빠르다’라고 표현함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.238Z</updated>
-        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://factcheckr.github.io/careet/all.xml</id>
-        <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.239Z</updated>
+        <updated>2024-11-16T21:19:24.497Z</updated>
         <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2024-11-16T20:22:55.241Z</updated>
-        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
+        <updated>2024-11-16T21:19:24.498Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-11-16T21:19:24.500Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://factcheckr.github.io/careet/all.xml</id>
+        <link href="https://factcheckr.github.io/careet/all.xml"/>
+        <updated>2024-11-16T21:19:24.501Z</updated>
+        <content type="html"><![CDATA[‘퍼스널 컬러’의 줄임말. 퍼스널 컬러란, 개인의 피부톤에 어울리는 컬러를 뜻하는 말로 요즘 MZ세대는 자신의 퍼스널 컬러에 맞춰 의상, 화장품 등을 구입하려고 함.]]></content>
     </entry>
 </feed>
