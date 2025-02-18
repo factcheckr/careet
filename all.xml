@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-18T02:50:31.000Z</updated>
+    <updated>2025-02-18T03:25:03.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-02-18T02:50:23.778Z</updated>
+        <updated>2025-02-18T03:24:56.916Z</updated>
         <content type="html"><![CDATA[‘가보자고’의 초성. 일을 시작하는 상황, 힘을 내야 하는 상황에 사용함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-02-18T02:50:23.779Z</updated>
+        <updated>2025-02-18T03:24:56.918Z</updated>
         <content type="html"><![CDATA[‘귀여워’의 초성인 ‘ㄱㅇㅇ’를 유사한 모양의 숫자 ‘700’으로 표기한 것. 귀엽다는 뜻.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-02-18T02:50:23.785Z</updated>
+        <updated>2025-02-18T03:24:56.919Z</updated>
         <content type="html"><![CDATA[랜덤으로 굿즈를 받을 수 있는 이벤트를 ‘럭키 드로우’, 줄여서 ‘럭드’라고 부름.]]></content>
     </entry>
 </feed>
