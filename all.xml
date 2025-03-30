@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-30T06:30:17.425Z</updated>
+    <updated>2025-03-30T07:21:58.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-03-30T06:30:09.871Z</updated>
+        <updated>2025-03-30T07:21:52.308Z</updated>
         <content type="html"><![CDATA[하나의 페이지에 다양한 링크를 모아서 보여줄 수 있는 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-03-30T06:30:09.873Z</updated>
+        <updated>2025-03-30T07:21:52.310Z</updated>
         <content type="html"><![CDATA[엑스(구 트위터)에서 다른 사람의 게시물에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-03-30T06:30:09.874Z</updated>
+        <updated>2025-03-30T07:21:52.311Z</updated>
         <content type="html"><![CDATA[Z세대에게 특정 계절을 연상시키는 먹거리나 장소, 콘텐츠, 이벤트를 통틀어 부르는 말.]]></content>
     </entry>
 </feed>
