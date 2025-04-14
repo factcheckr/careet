@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-14T14:24:25.383Z</updated>
+    <updated>2025-04-14T15:25:47.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-04-14T14:24:19.348Z</updated>
+        <updated>2025-04-14T15:25:41.076Z</updated>
         <content type="html"><![CDATA[‘숲속에 살 것 같은 소녀’ 감성을 부르는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-04-14T14:24:19.349Z</updated>
+        <updated>2025-04-14T15:25:41.078Z</updated>
         <content type="html"><![CDATA[‘분위기 좋은 카페’를 줄여 부르는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://factcheckr.github.io/careet/all.xml</id>
         <link href="https://factcheckr.github.io/careet/all.xml"/>
-        <updated>2025-04-14T14:24:19.350Z</updated>
+        <updated>2025-04-14T15:25:41.079Z</updated>
         <content type="html"><![CDATA[야구를 테마로 만든 부루마블 게임. 칸마다 야구와 관련된 미션(ex. 투수 3명 이름 말하기 등)이 적혀 있는 것이 특징임.]]></content>
     </entry>
 </feed>
