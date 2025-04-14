@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2025-04-14T10:31:45.268Z</updated>
+    <updated>2025-04-14T11:20:26.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2025-04-14T10:31:38.650Z</updated>
+        <updated>2025-04-14T11:20:19.761Z</updated>
         <content type="html"><![CDATA[‘숲속에 살 것 같은 소녀’ 감성을 부르는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2025-04-14T10:31:38.653Z</updated>
+        <updated>2025-04-14T11:20:19.762Z</updated>
         <content type="html"><![CDATA[‘분위기 좋은 카페’를 줄여 부르는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2025-04-14T10:31:38.653Z</updated>
+        <updated>2025-04-14T11:20:19.763Z</updated>
         <content type="html"><![CDATA[야구를 테마로 만든 부루마블 게임. 칸마다 야구와 관련된 미션(ex. 투수 3명 이름 말하기 등)이 적혀 있는 것이 특징임.]]></content>
     </entry>
 </feed>
